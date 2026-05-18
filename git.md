@@ -1,12 +1,8 @@
 # Git
 
-
-
-
+<br><br>   
 
 ## Les zones importantes
-
-
 
 - **Working Directory**  $\to$  les fichiers normaux
 
@@ -16,19 +12,15 @@
 
 - **Remote Repository**  $\to$  dépôt distant sur GitHub
 
-
+<br> 
 
 ## Les commandes essentielles
-
-
 
 - **Voir l'état**
 
 ```bash
 git status
 ```
-
-
 
 - **Ajouter des fichiers**
 
@@ -44,23 +36,17 @@ Ou tout :
 git add .
 ```
 
-
-
 - **Sauvegarder**
 
 ```bash
 git commit -m "blablabla"
 ```
 
-
-
 - **Envoyer sur GitHub**
 
 ```bash
 git push
 ```
-
-
 
 - **Affiche l'historique des commit**
 
