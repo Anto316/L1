@@ -4,6 +4,8 @@
 
 ## Les zones importantes
 
+<br> 
+
 - **Working Directory**  $\to$  les fichiers normaux
 
 - **Staging Area**  $\to$  les fichiers en zone d'attente
@@ -16,11 +18,15 @@
 
 ## Les commandes essentielles
 
+<br> 
+
 - **Voir l'état**
 
 ```bash
 git status
 ```
+
+<br> 
 
 - **Ajouter des fichiers**
 
@@ -36,17 +42,23 @@ Ou tout :
 git add .
 ```
 
+<br>
+
 - **Sauvegarder**
 
 ```bash
 git commit -m "blablabla"
 ```
 
+<br>
+
 - **Envoyer sur GitHub**
 
 ```bash
 git push
 ```
+
+<br>
 
 - **Affiche l'historique des commit**
 
