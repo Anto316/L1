@@ -1,8 +1,8 @@
 # LES 7 LOIS DE LA FORCE
 
-[[toc]]
+[TOC]
 
-Adrien SW
+*Adrien SW*
 
 <br>
 
@@ -20,16 +20,24 @@ C'est la raison pour laquelle on va prendre du **recul** pour observer l'univers
 
 <br>
 
-On sait à peu pres quoi faire mais a partir du moment ou on ne sait pas expliquer precisement on sait quvon pourrait faire les choses mieux
+Tu sais à peu pres quoi faire pour t'améliorer mais, à partir du moment où tu ne sais pas expliquer **précisement** le pourquoi du comment, au fond de toi, tu sais que tu pourrais faire **bien mieux**. Tu es conscient que tu ne sais pas tout mais comme tu ne sais pas vraiment ce qu'il te manque, tu tatonnes, tu essayes differents trucs et au final ton entrainement devient **approximatif** et tu as l'impression d'avancer à l'aveugle. 
 
-on sait qu on ne sait pas tout mais on ne sait pas ce qu il nous manque donc l entrianement devient approximatif
+Tu ne connais pas exactement **les compétences nécessaires**, par exemple pour debloquer la full planche, et donc tu ne comprends pas vraiment ce qu'il faut faire pour avancer et t'entrainer **correctement**. Tu ne sais pas ce qu'il te manque pour t'ameliorer et donc tu ne peux pas t'entrainer sur ce qui t'en empêche et tu n'avances pas ou du moins pas aussi **efficacement** que tu le pourais. 
 
-On ne sait pas exactement les competences necessaires  par exemple pour debloquer la full planche et donc on ne sais pas vraiment ce qu'il faut faire pour avancer ou au moins pas aussi efficacement qu tu le pourais
+Et c'est là qu'intervient **le modèle de la performance** :
 
 <br>
 
 #### A)  Le modèle de la **PERFORMANCE**
 
-<div>
+<br>
 
-</div>
+Ce modèle est le même pour tous les sports et tout ce qui implique "comment progresser" est inclus dedans. Il est composé de 3 axes **indissociables** et **interdépendants** :
+
+- **Physique :**  Acquérir les qualités physiques nécessaires à la réalisation de la performance.
+
+- **Technique :** Exprimer ces qualités physiques à travers les mouvements spécifiques de la discipline en question.
+
+- **Mental :** Engager nos ressources physiques et techniques afin de réaliser la performance.
+
+Ces trois aspects fonctionnent en **synergie** et ils faut donc tous les développer **en parallèle** pour progresser. Il faut bien retenir que parmis les 3 il n'y en a pas un de **plus important** que les autres, ils sont tous à **égalité**.
