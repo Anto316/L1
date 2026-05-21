@@ -1,7 +1,12 @@
-- [Leçon 1 - Cadre théorique](#leçon-1---cadre-theorique)
-  - [Introduction : modèle de la performance](#introduction---modele-de-la-performance)
-    
-        - [A) Le modèle de la PERFORMANCE](#le-modele-de-la-performance)
+
+
+- [Leçon 1 - Cadre théorique](#lecon1)
+  
+      - [Introduction : modèle de la performance](#intro)
+  
+          - [A) Le modèle de la PERFORMANCE](#modele-perf)
+
+
 
 # LES 7 LOIS DE LA FORCE
 
@@ -17,9 +22,9 @@ C'est la raison pour laquelle on va prendre du **recul** pour observer l'univers
 
 <br>
 
-## Leçon 1 - Cadre théorique
+## <a id="lecon1"></a>Leçon 1 - Cadre théorique
 
-### Introduction : Modèle de la performance
+### <a id="intro"></a> Introduction : Modèle de la performance
 
 <br>
 
@@ -31,4 +36,4 @@ On ne sait pas exactement les competences necessaires  par exemple pour debloque
 
 <br>
 
-#### A)  Le modèle de la **PERFORMANCE**
+#### <a id="modele-perf"></a> A)  Le modèle de la **PERFORMANCE**
