@@ -41,3 +41,5 @@ Ce modèle est le même pour tous les sports et tout ce qui implique "comment pr
 - **Mental :** Engager nos ressources physiques et techniques afin de réaliser la performance.
 
 Ces trois aspects fonctionnent en **synergie** et ils faut donc tous les développer **en parallèle** pour progresser. Il faut bien retenir que parmis les 3 il n'y en a pas un de **plus important** que les autres, ils sont tous à **égalité**.
+
+Tes performances plafonnent néanmoins au niveau de ton aspect le moins développé. Il est très dur de développer les 3 axes à fond constamment donc tu as surement du retard sur un ou plusieurs de ces aspects surtout si tu n'avais pas conscience de leur existence dès le début de ta pratique. Il faut donc reussir a identifier lequel pose problème a chaque fois pour travailler dessus (l'axe faible peut etre different en fonction des personnes et dans ta progression).
