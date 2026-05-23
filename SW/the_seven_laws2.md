@@ -142,13 +142,88 @@ Ces 2 qualités influencent **l'efficacité du mouvement** sans en être la **so
 
 On peut donner un exemple pour illustrer tout cela :
 
-- En saut de haies on a besoin de beaucoup de mobilité de hanches pour pouvoir passer au dessus de la haie et de coordination pour garder le contrôle de la trajectoire de ses membres. Mais l'effort pur qui est fourni c'est la course et le saut qui demandent principalement de l'explosivité. Donc si tu manque de coordination et/ou de mobilité tu vas devoir sauter plus haut et donc utiliser plus d’énergie.
+- En saut de haies on a besoin de beaucoup de **mobilité de hanches** pour pouvoir passer au dessus de la haie et de **coordination** pour garder le contrôle de la trajectoire de ses membres. Mais **l'effort pur** qui est fourni c'est la **course** et le **saut** qui demandent principalement de **l'explosivité**. Donc si tu manque de coordination et/ou de mobilité tu vas devoir sauter plus haut et donc utiliser plus **d’énergie**.
 
-Les qualités modulatrices, de contrôle du mouvement, exercent une influence indirecte sur les qualités productrices qui elles sont à la base du mouvement.
+Les qualités modulatrices, de **contrôle du mouvement**, exercent une influence indirecte sur les qualités productrices qui elles sont **à la base du mouvement**.
 
 \vspace{1cm}
 
 ### B) Application en street workout
+
+\vspace{1cm}
+
+On va donc regarder de **quelles qualités physiques** on a besoin en street workout :
+
+- Du côté des **qualités modulatrices**, la **mobilité** joue un rôle non négligeable (les poignets pour la planche, les épaules pour le handstand, la fermeture pour les i-sits et mannas et les obliques pour le one-arm front) mais moins importants que dans d'autres sports. Il nous faut aussi un peu de **coordination** car elle reste nécessaire par exemple pour tout ce qui est freestyle. 
+
+- Du côté des **qualités productrices**, on va être sur la partie supérieure du triangle qu'on appelle les **qualités de force** mais ça va **évoluer avec le temps**. Au début de ta pratique tu vas presque exclusivement avoir besoin de **force maximale**, elle permet de débloquer des figures comme le front lever pour la **première fois**. En effet la différence entre le tuck front et le full front lever réside dans la **charge**, le full est "plus lourd", mais c'est le même **type d'effort** qui demande le même **type de qualités physique** et qui recrute la même **filière énergétique**. Mais une fois qu'on a **obtenu la figure**, on a plus besoin de **force maximale**, il n'y a pas "plus lourd" comme on est déjà dans la **position maximale**. Et pour la tenir **plus longtemps** ou **augmenter le nombre de répétitions** avec une même charge on va devoir travailler en **endurance de force** et sur les mouvements dynamique on va vouloir rajouter une **composante de vitesse** pour gagner en explosivité. 
+
+\vspace{1cm}
+
+Après avoir atteint un certain niveau, à part en faisant des figures lestées, on ne travaille plus du tout **la force maximale**. Mais les 3 qualités physiques fondamentales responsables de la production de mouvement, la force, l'endurance et la vitesse, ne s’entraînent **pas du tout** de la **même manière**. Elles ne dépendent même pas de la même **filière énergétique** donc ce n'est pas du tout les même **méthodes d'entraînement** pour chacune. Ça n'a **rien à voir** d'entraîner **la force maximale** ou **l'endurance** de force ou **l'explosivité** car elles dépendent de qualités physiques **différentes**. Tu apprendras comment entraîner tout cela en détail dans la suite de la formation. 
+
+Pour l'instant, commençons par voir comment développer **la force maximale**. Il existe un **concept clé** à la base du **développement physique** tout entier régissant le développement de **toutes les qualités physiques** qu'elles soient modulatrices ou productrices :
+
+\vspace{1cm}
+
+### C) Principes fondamentaux de l'entraînement physique
+
+\vspace{1cm}
+
+Ces principes fondamentaux n'ont pas été inventés, ils sont le résultat de **l'étude du fonctionnement du corps humain**, ils ont été **découverts** pas la science. Tu es **obligé** de les respecter si tu veux pouvoir progresser ils sont les **axiomes** même de l'entraînement physique, l'entraînement doit donc **nécessairement** les appliquer mais différemment selon la qualité physique que tu souhaite développer. 
+
+Pour l'aspect **technique**, le domaine d'étude correspondant est la **biomécanique**, pour l'aspect **mental** le domaine d'étude est la **psychologie** et pour l'aspect **physique** on a la **physiologie**. C'est cette dernière qui nous a donné les **principes fondamentaux** et leur **application spécifique** pour chaque qualité physique. 
+
+Ces principes fondamentaux sont au nombre de **7** et leur application spécifique pour développer la force c'est donc : **Les 7 lois de la force**. La physiologie **explique** les lois et les lois **expliquent** l'entraînement.
+
+\vspace{1cm}
+
+## Chapitre 2 : La théorie qui change tout
+
+\vspace{1cm}
+
+**Tu connais déjà ces lois.** 
+
+En effet comme elles **régissent** tout entraînement physique tu en as forcément déjà entendu parlé mais ce n'est pas ces lois en elles mêmes qui nous intéressent mais comment elles **fonctionnent**, comment elles **interagissent entre elles** et comment elles **s'appliquent à l'entraînement**. 
+
+Il y a un livre extrêmement poussé sur le sujet, pour le domaine du powerlifting, du nom de **Scientific Principles of Strength Training** écrit par **Mike Israetel**. Cet homme est une superstar aux Etats-Unis dans le domaine de **l'entraînement de force** et son travail est mondialement reconnu. Ce livre a été coécrit par lui avec **James Hoffmann** et **Chad Wesley Smith**, deux hommes du même calibre que lui. 
+
+La **théorie des 7 lois de la force** est donc une découverte sur les **interactions** et **l'interdépendance** que ces lois ont entre elles grâce au livre de Mike Israetel sur les principes scientifiques de l'entraînement de force. Commençons par redéfinir tous **les termes** qu'on va utiliser à partir de maintenant :  
+
+\vspace{1cm}
+
+#### Termes et définitions
+
+\vspace{0pt} \
+
+On remplace le terme "**Principes Fondamentaux**" par "**Lois**". 
+
+On a donc **7 lois** qui régissent l'entraînement et qui fonctionnent selon **3 principes** comportant **2 règles** chacun. C'est donc en se basant sur ces lois qu'on va pouvoir construire les **piliers** d'une **méthode d’entraînement fonctionnelle**. 
+
+\vspace{1cm}
+
+## Chapitre 3 : Les principes cachés 
+
+\vspace{1cm}
+
+Ces 7 lois sont la **version simplifiée** de comment le corps humain réagit, de manière physiologique, à **l'entraînement**. Ce sont des lois **intangibles**, **fondamentales** et **incontournables**, et c'est la raison pour laquelle elles régissent absolument tout le développement de l'aspect physique et doivent être à la **base** de toute méthode d'entraînement **fonctionnelle**. On a les 7 lois suivantes :
+
+\vspace{1cm}
+
+| Numéro | Loi                                 |
+| ------ | ----------------------------------- |
+| I      | Spécificité                         |
+| II     | Surcharge progressive               |
+| III    | Gestion de la fatigue               |
+| IV     | Stimulation récupération adaptation |
+| V      | Variations                          |
+| VI     | Potentialisation des phases         |
+| VII    | Différences individuelles           |
+
+
+\vspace{1cm}
+
+### A) Ordre d'importance
 
 \vspace{1cm}
 
