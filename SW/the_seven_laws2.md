@@ -12,6 +12,12 @@ fontsize: 12pt
 
 \newpage
 
+**Note importante :** L'intégralité du contenu de ce document est issue de la formation offerte et du travail d'Adrien SW. Ce document ne constitue qu'un condensé de ses vidéos et de sa formation, il ne saurait remplacer l'expérience originale. Je vous invite vivement à consulter sa [vidéo youtube](https://youtu.be/zsYM1dNFguw?si=Yf0cHsLQTk39hr2d) et sa [formation gratuite](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbC1kaDM0MEpSRFkzbjltb3BPMXp4cFZudFFsd3xBQ3Jtc0tsLUFPa2FsRC1zU3lKeWFiLUxEcXBmV3FIbXBULUhZS2FaSGZlSUV1VkhsT3M1N01vMVJKRnVjWFU4M2VCZDBRVm1OV2h6VVhsc0x5UHFGdnMxUnc5ZXVrN2dxM2tJemt2V1FEUVZGeVBBX1FJMzlvSQ&q=https%3A%2F%2Fwww.adriensw.com%2Fultime-periodisation%3Fcoupon%3DULTIME&v=zsYM1dNFguw) pour soutenir son travail exceptionnel, cette retranscription ne pouvant égaler la profondeur et la qualité de ses enseignements.
+
+Ce document est destiné à un usage restreint. J'aimerais que les lecteurs soit conscients que le contenu qui suit est une retranscription personnelle. Par conséquent, il est possible que j'aie altéré, simplifié ou involontairement déformé certains concepts fondamentaux d'Adrien SW. Je vous invite donc à utiliser ce document comme un guide de réflexion, tout en gardant à l'esprit que seule la source originale garantit l'exactitude technique et la portée réelle de sa méthode.
+
+\newpage
+
 Dans le **street workout actuel** on cherche à s'enfoncer de plus en plus dans les connaissances les plus **poussées**, dans les détails techniques et dans l'optimisation et actuellement il y a énormément de **domaines d'expertises** et comme tout le monde a sa propre vision on s'y perd facilement.
 
 C'est la raison pour laquelle on va prendre du **recul** pour observer l'univers entier de la progression en street workout afin de trouver la **vérité** sur tous les sujets pointus de la discipline.  
@@ -208,8 +214,6 @@ On a donc **7 lois** qui régissent l'entraînement et qui fonctionnent selon **
 
 Ces 7 lois sont la **version simplifiée** de comment le corps humain réagit, de manière physiologique, à **l'entraînement**. Ce sont des lois **intangibles**, **fondamentales** et **incontournables**, et c'est la raison pour laquelle elles régissent absolument tout le développement de l'aspect physique et doivent être à la **base** de toute méthode d'entraînement **fonctionnelle**. On a les 7 lois suivantes :
 
-\vspace{1cm}
-
 | Numéro | Loi                                 |
 | ------ | ----------------------------------- |
 | I      | Spécificité                         |
@@ -227,7 +231,60 @@ Ces 7 lois sont la **version simplifiée** de comment le corps humain réagit, d
 
 \vspace{1cm}
 
+Ces lois sont classées par **ordre d'importance** selon **l'influence** qu'elles ont sur nos **progrès**. Mike Israetel nous le donne dans le graphique suivant :
 
+![Ordre d'importance](/home/antonin/Documents/L1/Notes/SW/Images/Gemini_Generated_Image_695qva695qva695q.png){width=80%}
+
+\vspace{1cm}
+
+### B) Conséquence et condition
+
+\vspace{1cm}
+
+Il y a un principe crucial reliant toutes ces lois entre elles, théorisé par **Adrien SW** appelé le **principe de conséquence et condition**. 
+
+Avant de le définir il faut prendre en compte que **chaque loi repose sur la précédente**, il faut voir ça comme une **pyramide** représentant **l'efficacité de ton entraînement**. Elle est constituée de 7 étages correspondant aux 7 lois, chaque étage étant posé sur le précédent, si un étage est fragile et s'effondre, tout ceux au-dessus de lui s'effondreront également. Ainsi, si tu **n'appliques pas** une de ces lois alors c'est toutes celles **au dessus** qui ne seront pas non **plus appliquées**.
+
+En effet, tu ne peux pas faire de surcharge progressive sans la spécificité car tu ne saurais même pas sur quoi l'appliquer et la gestion de la fatigue est une conséquence de la surcharge progressive et le fonctionnement pour les autres lois est le même. Pour chaque loi, la loi **précédente** est une **condition**.
+
+Mais il y a également une **dimension temporelle** a tout ça, si il y a une loi plus haute dans le graphique ça ne veut pas dire qu'elle est **moins importante** mais plutôt qu'elle doit être priorisée **après** les précédentes. Comme tu commences **tout en bas** tu n'as pas forcément besoin que le haut de la pyramide soit déjà construit et tu peux déjà t'attaquer à l’ascension des **premiers étages**, puis à construire les suivants au **fur et à mesure**. Au moment où tu commenceras à **stagner**, si tu appliques déjà correctement toutes les lois, il faudra que tu construises **l'étage suivant** pour continuer à progresser.
+
+\vspace{1cm}
+
+Donc, en résumé, on a :
+
+- **Le principe de condition :** Pour que ton programme applique correctement l'une des 7 lois de la force il est essentiel qu'il applique déjà correctement la loi précédente.
+- **Le principe de conséquences :** Si ton programme applique et respecte un nombre de loi fixe mais que tu n'arrives plus à progresser, il est nécessaire que tu appliques la ou les lois suivantes.
+
+\vspace{1cm}
+
+### C) Dépendance à une loi
+
+\vspace{1cm}
+
+Les différences individuelles ce sont toutes les **caractéristiques génétiques** et **physiologiques** propres à chaque individu. Pour bien comprendre on a ce tableau les représentants :
+
+| Catégorie                          | Éléments                                                     |
+| ---------------------------------- | ------------------------------------------------------------ |
+| Génétique et Morphologie           | Profil hormonal (testostérone, cortisol, GH, etc), Longueur des segments osseux, Insertions tendineuses, Rapport entre les leviers corporels, Répartition des fibres lentes/ type 1 et rapides/type 2, Potentiel d'hypertrophie, Réponse aux stimuli de l'entraînement (hyper-répondeur vs non-répondeur) |
+| Système nerveux                    | Capacité d'activation musculaire, Tolérance au stress (régulation du système nerveux autonome), Sensibilité aux stimuli externes, Vitesse de transmission nerveuse |
+| Capacité d'adaptation individuelle | Plasticité neuronale et musculaire, Potentiel d'adaptation des fibres musculaires (conversion possible), Vitesse de récupération, Résilience physiologique (capacité à tolérer un volume/intensité élevé) |
+
+Chacune des lois de l'entraînement s'applique à absolument **tous les individus** mais chaque individu répond de manière plus ou moins **différente** à ces lois en fonction de ses **différences individuelles**. Elles déterminent la différence entre 2 individus dans la façon dont ils répondent aux mêmes entraînements. Tout le monde doit appliquer les lois de l'entraînement pour progresser mais on doit individualiser la manière de les appliquer. Ainsi on peut se poser des questions par rapport à la position de cette loi dans le graphique.
+
+Cette loi est en réalité au **même niveau** que les **facteurs externes** et, au même titre que ceux ci, agissent sur les **trois aspects de la performance** (physique, technique, mental). Elle est a cette place car elle est **moins importante** que les autres étant donné qu'il faut d'abord appliquer **toutes** les lois avant de pouvoir les **individualiser**.
+
+\vspace{1cm}
+
+Les **différences individuelles** ont une influence **croissante** avec **l’expérience**.
+
+La nuance avec les différences individuelles est qu'elles **évoluent** avec **l'expérience**, pas toutes mais celles liées à **l'entraînement** (la capacité à encaisser un gros volume ou une grosse intensité, ta capacité de récupération à un type spécifique d'effort, etc). Plus tu **progresses**, plus ton corps **s'adapte** et donc forcément plus tes **possibilités** et tes **besoins d'entraînement** **évoluent**. 
+
+Ainsi, en plus de prendre en compte de nouvelles lois au fur et à mesure que tu progresses tu dois t'assurer que tu appliques toujours **correctement** les précédentes de façon **adapté à toi à l'instant t** (façon qui ne sera pas adapté ni à **quelqu'un d'autre** ni à toi même à un **autre moment**). En général on débute tous avec une **situation similaire** et donc une façon de s'entraîner **similaire** mais plus on progresse plus notre **état physique diverge** à cause de nos différences individuelles. Et donc, plus on **progresse** plus nos différences individuelles ont une **influence importante** dans notre entraînement.
+
+\vspace{1cm}
+
+## Chapitre 4 : Les concepts qui en découlent
 
 
 
