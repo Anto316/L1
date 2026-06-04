@@ -286,5 +286,52 @@ Ainsi, en plus de prendre en compte de nouvelles lois au fur et à mesure que tu
 
 ## Chapitre 4 : Les concepts qui en découlent
 
+\vspace{1cm}
+
+On va maintenant voir quelques cas pratiques **récurrents** afin de comprendre comment agir pour progresser dans ces situations. 
+
+\vspace{1cm}
+
+### A) BIG3 & ADV3
+
+\vspace{1cm}
+
+Il y a une **énorme différence de complexité** entre les 3 premières lois et les 3 dernières. On va donc les séparer en **2 groupes** :
+
+- **Les "BIG 3" :** avec la spécificité, la surcharge progressive et la gestion de la fatigue. Ce sont les 3 lois principales de l'entraînement qu'on a besoin d'appliquer très tôt dans sa pratique pour progresser. Elles sont **indispensables** à tout pratiquant et servent de **condition** pour les 3 lois suivantes, plus avancées, qui interviennent plus tard dans la pratique.
+- **Les "Advanced 3" :** avec la stimulation récupération/adaptation, les variations et la potentialisation des phases. 
+
+Les 2 n'ont rien à voir en terme de **complexité**, les Big 3 sont très **simples à comprendre**, leur application est **instinctive**  et tout le monde en parle. 
+
+On va voir un **scénario classique** de la progression d'un athlète de street workout entre **0 et 3 ans** de pratique :
+
+\vspace{1cm}
+
+*Un jour en te baladant sur Youtube à la recherche de comment te sculpter un corps qui pourrait te permettre d'enfin séduire la femme de tes rêves tu es tombé sur une vidéo qui a changé ta vie où tu voyais un mec tenir un front lever ou une planche. A ce moment t'as su que tu voulais faire la même chose alors t'as commencé à regarder tous les tutos qui existent et à commencé à suivre le programme de ton youtuber préféré. Tu fais des pompes, des tractions, des dips et passe enfin ton premier muscle up, tout se passe super bien, tu progresses à chaque séance, tu découvre plein de nouvelles figures que tu t'empresses d'essayer et tu débloques notamment le l-sit, le handstand et le back-lever. Tu gagnes en force à une vitesse folle, le front lever et la full planche se rapprochent à vu d’œil et tu commences même à planifier tes entraînements et à prévoir combien de secondes de full planche tu auras pour l'été prochain. Mais c'est là que ça se complique, soudainement tu commences à faire de mauvaises séances, comme si tout devenait plus difficile. Tu remarques que les progrès se font de plus en plus rares et que tu dois te battres pour gratter ne serait ce qu'une demi seconde de hold en advanced tuck planche ou en one leg front lever. Au début tu te dis que ce n'est pas grave et que ce n'est qu'une mauvaise passe et qu'en te refaisant un bon programme d'entraînement ça ira mieux. Mais malgré tous tes efforts plus les semaines et plus les mois passent, moins tu progresses. Peut être que tu commences même à ressentir certaines douleurs aux avants bras après tes planches ou au dos après tes front lever. Ça tu as compris que tu n'allais plus jamais progresser comme au début et que tes programmes ne fonctionnent plus alors tu recherches de nouvelles méthodes d'entraînement. Tu entends les athlètes professionnels te parler de combos alors tu t'y mets. Tentatives straddle planche et full front lever en début de séance, quelques combos bad forme pendant 30 minutes, un peu d’élastique pour la technique puis du renfo à la fin. Les mois passent et les progrès se font rares, mais c'est pas si grave car tu as compris que c'était la dure réalité de l'entraînement sauf que ça fait maintenant 2-3 ans que tu fais du street et entre quelques blessures tu as tout juste débloqué une straddle planche bad forme et un front lever de 7-8 secondes.* 
+
+\vspace{1cm}
+
+Donc maintenant on va voir **pourquoi** ça nous arrive à tous et surtout, **comment y remédier**. Alors évidemment il y a des raisons **d'état d'esprit**, notamment avec **Instagram** qui bousille notre conception de ce qui est normal ou non. Comme on voit que des **dingueries** on a l'impression d'être une merde et on se sent tout seul parceque tout le monde ne poste que ses **bonnes perf** et donc tu déprimes.
+
+Le moment où tu commences à **stagner**, à peu prés au bout d'un an de street, arrive à un stade où ton besoin **d'individualisation** se fait sentir. Tu n'appliques plus les Big 3 de manière suffisamment **individualisée** et donc elles ne sont plus aussi **efficaces** qu'au début et en plus tu commences à avoir le besoin d'appliquer les **Advanced 3**. Les méthodes classiques comme le push/pull ou les programmes planche/front qu'on trouve sur Youtube t'ont permis à arriver à un niveau **décent** en utilisant seulement les 3 premières lois mais ça ne suffit plus et plus tu avances moins tu progresses. Et c'est à ce stade que les 3 dernières lois deviennent **essentielles**, et c'est là que ça se complique car elles sont bien **moins connues** car réservées aux plus avancés (donc rarement connues des youtubers). Cette stagnation soudaine est un problème **impossible à résoudre** pour un débutant qui vient tout juste d'arriver aux portes du niveau intermédiaire parce qu'il n'a pas les **connaissances** pour comprendre ce qu'il lui arrive. On appellera ces **stagnation** qui arrive quasiment à tout le monde vers une année de steet, le **palier fatal**.  
+
+\vspace{1cm}
+
+### B) Palier fatal
+
+\vspace{1cm}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
