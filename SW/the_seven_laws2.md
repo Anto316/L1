@@ -321,6 +321,130 @@ Le moment où tu commences à **stagner**, à peu prés au bout d'un an de stree
 
 \vspace{1cm}
 
+Le **palier fatal** correspond à la **frontière** entre le **niveau débutant** et le **niveau intermédiaire**, ce moment où la complexité de l'entraînement **augmente** brusquement et où l'on a besoin d'appliquer les Advanced 3 se fait ressentir. C'est justement l'application de ces advanced 3 qui va faire la **différence** entre un **programme classique** (en général issu de la musculation) et **l'Ultime Périodisation**. Cette méthode va te permettre de **casser** le **palier fatal** et de retrouver une **courbe de progression normale** grâce à l'application des 6 lois de l'entraînement physique pour développer la **force maximale** pour les figures de street.
+
+Attention le palier fatal **n'arrive pas** au **même niveau** pour tout le monde mais à peu près au même moment car il dépend des différences individuelles. Notez que ce phénomène arrive à **tous les pratiquants** n'appliquant pas les **advanced 3**.
+
+\vspace{1cm}
+
+### C) Performances Absolue vs Relative
+
+\vspace{1cm}
+
+En street workout comme on utilise que notre **poids du corps**, une **performance absolue** est juste une **figure** en elle même (la full planche est une performance absolue). Maintenant si on considère la force que chacun doit produire pour réaliser une figure et donc la **difficulté factuelle** que chacun aura pour y arriver et qu'on détermine tout ça comme étant la **performance relative** alors on peut considérer que le **palier fatal** arrive à la **même performance** relative pour tout le monde.
+
+*Si on a une personne d'1m50 pour 50kg et une autre de 1m90 pour 85kg et qu'elles font toutes les 2 la full planche alors elles auront la même performance absolue mais absolument pas la même puissance relative. La 2ème personne a dû s’entraîner beaucoup plus pour arriver au même niveau de performance absolue que la 1ère. Maintenant mettons les au même niveau de performance relative, si avec ce niveau la 1ère personne tiens une full planche la 2ème ne tiendra qu'au mieux une tuck planche.* 
+
+C'est une version simplifiée, en réalité il n'y a pas que la taille et le poids à prendre en compte mais également, entre autres, la longueur des segments, le type de fibres, les insertions, le profil hormonal et la capacité de récupération.
+
+\vspace{1cm}
+
+### D) Profils type
+
+\vspace{1cm}
+
+On va maintenant détailler 3 profils type du moins doué au plus doué :
+
+\vspace{1cm}
+
+- Le profil le moins doué est Le galérien, voici ses caractéristiques :
+
+\vspace{1cm}
+
+| Caractéristiques physiques  | Caractéristiques globales                              | Performances                                               |
+| --------------------------- | ------------------------------------------------------ | ---------------------------------------------------------- |
+| Plus d'1m80                 | Prédisposition aux sports d'endurance (type de fibres) | N'arrivait pas à faire des pompes et tractions étant petit |
+| Skinny fat                  | Besoin de + de 9h de sommeil                           | A galéré pour avoir un elbow lever et un handstand         |
+| Prise de muscles compliquée | Optimise au maximum ses entraînements et sa nutrition  |                                                            |
+| Faible testostérone         |                                                        |                                                            |
+| Asthmatique                 |                                                        |                                                            |
+
+\vspace{1cm}
+
+- Le profil Ordinaire :
+
+\vspace{1cm}
+
+| Caractéristiques physiques | Caractéristiques globales            | Performances                                                 |
+| -------------------------- | ------------------------------------ | ------------------------------------------------------------ |
+| Entre 1m70 et 1m80         | Avait 15 en sport à l'école          | A débloqué son L-sit, MU et back-lever en quelques mois (2 à 3) |
+| Physiquement ça va         | Va chez le médecin 1 à 2 fois par an | Crâ 200 sur Dofus                                            |
+| Bonne santé                | Parents divorcé                      |                                                              |
+| Respire                    | Possède un chien                     |                                                              |
+
+\vspace{1cm}
+
+- Et enfin L’Élu :
+
+\vspace{1cm}
+
+| Caractéristiques physiques                    | Caractéristiques globales                                   | Performances                           |
+| --------------------------------------------- | ----------------------------------------------------------- | -------------------------------------- |
+| Moins d'1m70                                  | Pas très doué en sport d'endurance (répartition des fibres) | Faisait déjà 5 tractions à 10 ans      |
+| Sec et musclé depuis sa naissance             | Ne comprends pas que les autres puissent galérer            | Débloque des figures sans faire exprès |
+| Forte testostérone                            | Donne des conseils extrêmement basiques                     | A réussi la straddle planche first try |
+| Reste sec à l'année avec un régime déplorable |                                                             |                                        |
+
+\vspace{1cm}
+
+Mais on ne doit pas **nécessairement** être élu pour être fort, un ordinaire qui **s'entraîne bien** deviendra généralement **plus fort** qu'un élu qui s'entraîne mal.
+
+En plus de ces caractéristiques générales, ta **morphologie** va également **t'avantager** où te **désavantager** pour la planche et le front. Tu peux également avoir un profil type **différent** pour l'un et l'autre et donc progresser **différemment** sur les deux, ce qui signifie que tu ne devras pas travailler dessus de la **même façon**. Voici quelques exemples :
+
+\vspace{1cm}
+
+**Avantages anatomiques :**
+
+| Planche +                                  | Front +            |
+| ------------------------------------------ | ------------------ |
+| Clavicules courtes                         | Clavicules longues |
+| Longiligne (longues jambes et petit buste) | Bréviligne         |
+
+| Hold / Press + | Push up / Pull up + |
+| -------------- | ------------------- |
+| Bras long      | Bras courts         |
+
+\vspace{1cm}
+
+### E) Explications
+
+\vspace{1cm}
+
+Débloquer ses figures ça signifie basculer vers **l'endurance de force** et donc l'effort à fournir change **énormément** comparé à de la **force maximale**. En effet, il reste une **composante nerveuse** mais elle a beaucoup **moins** d'impact en endurance de force qu'en force maximale et c'est davantage la **composante musculaire** qui prends le dessus en endurance de force. 
+
+Et donc arrivé à ce stade on peut se permettre de **s'entraîner plus**, pendant **plus longtemps** et **plus souvent** car plus on progresse plus **l'intensité diminue**. On va passer en intensité **sous maximale** et donc **l'impact nerveux diminue** et la **récupération** nécessaire aussi car on met beaucoup moins de temps à récupérer **musculairement** que **nerveusement**. Pour la force maximale il faut travailler en **qualité** avec une **intensité maximale** et une **récupération maximale**. Afin d'avoir les meilleurs gains en force maximale, il faut en faire peu mais bien, à l'inverse en endurance de force, il faut travailler en **quantité** avec une **intensité sous maximale** et donc on a besoin de moins de récupération en terme de quantité. 
+
+L'application des Adv 3 de l'endurance de force va donc être très bien plus **bourrine** que celle des des adv 3 de la force qui elle va être bien plus **minutieuse**.
+
+\vspace{1cm}
+
+# Leçon 2 - Les lois en détail
+
+\vspace{1cm}
+
+On va maintenant **étudier chaque loi** en détail en décomposant notre explication en **4 points** :
+
+- Le **fonctionnement** de la loi et sa **définition**
+- Son **application** dans le streetworkout 
+- L'influence que les **différences individuelles** ont sur elle
+- Les **erreurs d'application** (sous-application/sur-application)
+
+\vspace{1cm}
+
+## Loi I : La spécificité
+
+\vspace{1cm}
+
+C'est la loi la **plus importante** car elle est la **condition** pour toutes les autres lois. Si tu ne **l'appliques pas**, tu ne **progresseras pas** du tout. On donne la définition suivante :
+
+\vspace{1cm}
+
+*La spécificité, c'est le fait d'entraîner et de stimuler de façon spécifique, les mouvements en relation avec nos objectifs.* 
+
+\vspace{1cm}
+
+Soit en entraînant le **mouvement en lui même** pour gagner en **force spécifique** et en **coordination**, soit en entraînant des **variantes** de ce mouvement sur des **patterns** et **amplitudes** plus ou moins proches pour gagner en **force générale**. Ou encore en ciblant spécifiquement tes **facteurs limitants**, par exemple un certain groupe musculaire impliqué lors de la réalisation du mouvement qui serait plus faible que les autres et donc qui **ralentirait ta progression**. 
+
 
 
 
