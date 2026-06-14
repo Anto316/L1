@@ -429,11 +429,17 @@ On va maintenant **étudier chaque loi** en détail en décomposant notre explic
 
 ## Loi I : La spécificité
 
+\vspace{1cm}
+
+C'est la loi la **plus importante** car elle est la **condition** pour toutes les autres lois. Si tu ne **l'appliques pas**, tu ne **progresseras pas** du tout.
+
+\vspace{1cm}
+
 ### A) Fonctionnement et définition
 
 \vspace{1cm}
 
-C'est la loi la **plus importante** car elle est la **condition** pour toutes les autres lois. Si tu ne **l'appliques pas**, tu ne **progresseras pas** du tout. On donne la définition suivante :
+On en donne la définition suivante :
 
 \vspace{1cm}
 
@@ -513,9 +519,19 @@ Mais on peut faire **pire**, notamment en mettant **trop d'énergie** dans l'ent
 
 ## Loi II : La surcharge progressive
 
+\vspace{1cm}
+
+Cette loi est très **puissante**, combiné à la **spécificité** elle peut te faire **progresser** pendant **des mois**, et si tu es arrivé à ton niveau c'est que tu l'as déjà plus ou moins **respectée** mais on va voir comment **l'optimiser**. 
+
+\vspace{1cm}
+
 ### A) Fonctionnement et définition
 
 \vspace{1cm}
 
+La **surcharge progressive** c'est : *Le fait d'augmenter progressivement la difficulté de ses entraînements.* Donc au fil des séances, des semaines et des années tu vas chercher à **stimuler** de plus en plus ton corps pour qu'il **s'adapte** toujours plus et que tu continues à **gagner en force**.
 
+Cette loi **repose** sur un principe clé qu'on appelle le **principe de continuité**. Sans **continuité** dans la **surcharge** **progressive**, ton corps ne peut pas **s'adapter** correctement. Ainsi, si tu fais des **pauses d'entraînement** de 2, 3 semaines ou plus, plusieurs fois dans l'année, tu ne peux pas espérer **débloquer tes figures**. Les **gains de force** sont directement liés à la **cohérence** de ton entraînement sur le **long terme** et toute **interruption** non justifiée dans ton processus de **développement** ralentit les **progrès** et nécessite un **retour progressif** à l'intensité précédent la pause. La surcharge progressive ne fonctionne donc que si elle est appliquée de manière **continue**.
+
+Et bien sûr la surcharge progressive est **spécifique** au **mouvement** que tu **stimules** et d'ailleurs, la notion de **transfert de force** évoqué dans la loi précédente se reporte très bien ici. C'est-à-dire que si tu appliques une surcharge progressive sur un mouvement, tu vas inévitablement **progresser** sur ce **mouvement** mais tu vas aussi inévitablement progresser sur des **exercices similaires** et encore plus si tu répliques le même **angle articulaire**. Par exemple, si le développé couché est l'un de tes exercices principaux et que tu les fait coudes ouverts,
 
