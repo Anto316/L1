@@ -481,11 +481,41 @@ En tout cas, **l'évolution du degré de spécificité** c'est la raison pour la
 
 #### 1. Sous-application
 
+\vspace{1cm} \
+
+Une **sous-application** concerne un **mauvais choix** **d'exercices** ou de **variations** n'ayant pas ou peu de transfert sur les **objectifs** du pratiquant ne respectant donc pas son **degré de spécificité**. Par exemple un pratiquant qui entraîne le back-lever pour espérer débloquer sa full planche. 
+
+Une autre **sous-application** peut aussi être un pratiquant qui a **trop d'objectifs** en **même temps**. Par exemple, Lucas qui voulais débloquer son front lever touch, son front lever pull up, sa straddle planche, son handstand et progresser en traction, dips et muscle up lestés tout en entraînant les squats et les soulevés de terre. En **s’éparpillant** on ne peut pas espérer obtenir les **mêmes résultats** que quelqu'un qui **concentrerait son énergie** dans l'entraînement et dans la récupération d'un **seul type** de mouvement. 
+
+Mais on peut faire **pire**, notamment en mettant **trop d'énergie** dans l'entraînement des **qualités physiques à l'opposé** dans le spectre de la spécificité. Par exemple en ayant pour objectif de s'entraîner pour débloquer son front lever tout  en faisant des pompes en endurance, de la natation et en s'entraînant pour un marathon.
+
 \vspace{1cm}
 
+#### 2. Sur-application
 
+\vspace{1cm} \
 
+Être **spécifique** c'est la **base** pour devenir **fort** parce que tu **progresses** sur les **amplitudes que tu travailles**, donc est ce qu'il y a vraiment une situation où l'on peut être **trop spécifique** ? Et bien oui :
 
+\vspace{1cm}
+
+- Si tu es **débutant** ça reviendrait à un choix trop **restreint** des **amplitudes de travail** notamment en pratiquant **un seul type** d'exercice. Quand tu es débutant tu n'es fort sur **aucune amplitude** donc si tu te concentres sur uniquement sur un seul type d'exercice ça va créer des **déséquilibres musculaires**. Ce qui factorise l'apparition de **facteurs limitants** qui t'empêcheront de **progresser** par la suite mais en plus ça augmente aussi le risque de **blessure**. Par exemple si tu as pour objectif de passer le muscle up et que dans ta séance tu ne fais que des tentatives de muscle up. 
+
+  Être **sur-spécifique** quand on est **débutant**, c'est ne pas passer assez de temps à se **renforcer** sur **toutes les amplitudes** et donc ne pas développer de **capacité physique** qui pourrait être **complémentaire** dans l'acquisition de tes **objectifs**. 
+
+\vspace{1cm}
+
+- Si tu es **intermédiaire** c'est le fait de **sous-appliquer** la **loi de variations**. Pour bien comprendre on va parler du **phénomène de résistance à l'adaptation**, c'est : *La diminution progressive des progrès suite à la répétition d'un même stimuli.* Plus simplement, à force de **répéter un même exercice**, ton corps s'y **habitue** et ne **s'adapte plus** et donc ne **progresse plus**. 
+
+  A mesure que tu **gagnes en force** sur un mouvement, la quantité de **progrès** que tu obtiens en entraînant **spécifiquement** ce mouvement **diminue** car la **résistance à l'adaptation augmente**. Et si tu **continues à forcer** tu finis par te **blesser** par **sur-sollicitation** de tes **tissus conjonctifs** (tendons, ligaments, articulations), toujours sur la même **amplitude**, toujours sur le même **type d'effort** et en général à **très haute intensité**. Ce qui va t'amener à développer des **tendinites**, des **douleurs articulaires** et des **périostites**.
+
+\vspace{1cm}
+
+## Loi II : La surcharge progressive
+
+### A) Fonctionnement et définition
+
+\vspace{1cm}
 
 
 
