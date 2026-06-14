@@ -395,14 +395,10 @@ En plus de ces caractéristiques générales, ta **morphologie** va également *
 
 **Avantages anatomiques :**
 
-| Planche +                                  | Front +            |
-| ------------------------------------------ | ------------------ |
-| Clavicules courtes                         | Clavicules longues |
-| Longiligne (longues jambes et petit buste) | Bréviligne         |
-
-| Hold / Press + | Push up / Pull up + |
-| -------------- | ------------------- |
-| Bras long      | Bras courts         |
+| Planche +                                  | Front +            | Hold / Press + | Push up / Pull up + |
+| ------------------------------------------ | ------------------ | -------------- | ------------------- |
+| Clavicules courtes                         | Clavicules longues | Bras long      | Bras courts         |
+| Longiligne (longues jambes et petit buste) | Bréviligne         |                |                     |
 
 \vspace{1cm}
 
@@ -433,6 +429,8 @@ On va maintenant **étudier chaque loi** en détail en décomposant notre explic
 
 ## Loi I : La spécificité
 
+### A) Fonctionnement et définition
+
 \vspace{1cm}
 
 C'est la loi la **plus importante** car elle est la **condition** pour toutes les autres lois. Si tu ne **l'appliques pas**, tu ne **progresseras pas** du tout. On donne la définition suivante :
@@ -445,13 +443,45 @@ C'est la loi la **plus importante** car elle est la **condition** pour toutes le
 
 Soit en entraînant le **mouvement en lui même** pour gagner en **force spécifique** et en **coordination**, soit en entraînant des **variantes** de ce mouvement sur des **patterns** et **amplitudes** plus ou moins proches pour gagner en **force générale**. Ou encore en ciblant spécifiquement tes **facteurs limitants**, par exemple un certain groupe musculaire impliqué lors de la réalisation du mouvement qui serait plus faible que les autres et donc qui **ralentirait ta progression**. 
 
+Du point de vue du développement des qualités physiques on peut voir la spécificité comme un **spectre** qui est régit par **l'utilisation des filières énergétiques**. 
 
+![Spectre de la spécificité](/home/antonin/Documents/L1/Notes/SW/Images/Capture d’écran du 2026-06-13 22-37-33.png)
 
+Du côté droit du spectre on va avoir tout ce qui est lié à la **force** avec la filière **anaérobie alactique** (exemple : force maximale), en se décalant vers la gauche on bascule petit à petit dans **l'endurance** avec la filière **anaérobie** **lactique** (exemple : endurance de force) jusqu'à arriver du côté gauche avec tout ce qui est **endurance** et filière **aérobie**. 
 
+Ce que tu dois retenir c'est que dans ce spectre, plus tu **t'éloignes de tes objectifs**, plus c'est **contre-productif** car il y a de forte chances de créer des **interférences** avec le développement de la qualité physique visée. Tu dois donc choisir où mettre tes efforts pour te rapprocher le plus possible de tes objectifs. 
 
+\vspace{1cm}
 
+### B) Application
 
+\vspace{1cm}
 
+En pratique, si l'on regarde uniquement le **développement de la force maximale**, on va s'apercevoir qu'il est lui aussi **spécifique** au **mouvement effectué**. En gros tu deviens fort sur les **amplitudes que tu travailles**. Il s'agit du phénomène **d'adaptation directe**. Mais ces gains de force ne sont pas **exclusifs** à **l'amplitude travaillée**. En effet, il existe un **phénomène de transfert** **de force** selon lequel : *Suite à un stimuli sur une amplitude, on obtient également des gains sur les amplitudes proches.* 
+
+Mais ce phénomène est soumis à **l'évolution** de tes **différences individuelles**. Pour faire simple, plus ton corps est **familier** avec **une amplitude** moins il y aura de **transfert** sur les **amplitudes proches**. En d'autres termes, plus tu deviens **fort** sur **une amplitude**, plus tu dois être **spécifique** pour continuer à **développer ta force** sur cette même amplitude. 
+
+Il faut donc bien **choisir** ses exercices car plus ton niveau sur une figure est **élevé** plus tu vas devoir chercher à utiliser des **exercices** et des **variations spécifiques** pour continuer à **progresser**. Il s'agit du **degré de spécificité**. Et évidemment ce degré de spécificité évolue avec l'expérience, on peut le définir par : *La spécificité minimale requise pour progresser.* Si tu travailles **en dessous de ton degré de spécificité** tu n'appliques pas la **loi de spécificité** et donc tu ne **progresses pas**.
+
+On a évoqué la notion **d'amplitude** pour bien comprendre le principe mais en réalité ce n'est qu'un des nombreux paramètres définissant un exercice et on a aussi : **l'angle articulaire**, le **régime de contraction**, la **direction de la** **force**, le **levier**, **l'activation musculaire**, la **courbe de résistance**, la **charge** et la **vitesse**. Ce sont tous ces paramètres avec lesquels tu vas devoir **jouer** pour choisir les **bons exercices** en relation avec ton **degré de** **spécificité**. Et pour faire simple, plus tu travailles avec des **paramètres identiques au mouvement visé** plus tu es **spécifique**.
+
+\vspace{1cm}
+
+### C)  Différences individuelles
+
+\vspace{1cm}
+
+Au niveau de **l'influence** des **différences individuelles** sur la spécificité, la **conséquence majeure** c'est la **vitesse** à laquelle **évolue** ton **degré de spécificité**. Le degré de spécificité d'un **élu** évoluera plus **lentement** ce qui permet de choper plus de **transfert de force** même à un **niveau plus avancé**. On a alors des athlètes qui ont un très bon niveau sur une figure mais qui continuent de progresser en faisant un petit peu tout et n'importe quoi. A l'inverse, le **degré de spécificité** d'un **galérien** évoluera très **vite** ce qui va forcer le pratiquant à choisir des exercices **très proches** de ses objectifs et ça alors qu'il n'a même pas un **niveau moyen** sur la figure. Tout simplement parce qu’il n'obtient plus de **transfert de force** des **amplitudes proches**. 
+
+En tout cas, **l'évolution du degré de spécificité** c'est la raison pour laquelle il n'y a pas **d'exercice miracle** et que c'est du **bullshit** de dire qu'il faut faire par exemple des HSPU pour progresser en planche parceque pour deux pratiquants du même niveau, l'un va exploser parce que son degré de spécificité reste assez bas et l'autre ne va pas du tout progresser en planche car son degré de spécificité est déjà élevé.
+
+\vspace{1cm}
+
+### D) Erreur d'application
+
+#### 1. Sous-application
+
+\vspace{1cm}
 
 
 
