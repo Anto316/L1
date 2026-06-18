@@ -533,5 +533,63 @@ La **surcharge progressive** c'est : *Le fait d'augmenter progressivement la dif
 
 Cette loi **repose** sur un principe clé qu'on appelle le **principe de continuité**. Sans **continuité** dans la **surcharge** **progressive**, ton corps ne peut pas **s'adapter** correctement. Ainsi, si tu fais des **pauses d'entraînement** de 2, 3 semaines ou plus, plusieurs fois dans l'année, tu ne peux pas espérer **débloquer tes figures**. Les **gains de force** sont directement liés à la **cohérence** de ton entraînement sur le **long terme** et toute **interruption** non justifiée dans ton processus de **développement** ralentit les **progrès** et nécessite un **retour progressif** à l'intensité précédent la pause. La surcharge progressive ne fonctionne donc que si elle est appliquée de manière **continue**.
 
-Et bien sûr la surcharge progressive est **spécifique** au **mouvement** que tu **stimules** et d'ailleurs, la notion de **transfert de force** évoqué dans la loi précédente se reporte très bien ici. C'est-à-dire que si tu appliques une surcharge progressive sur un mouvement, tu vas inévitablement **progresser** sur ce **mouvement** mais tu vas aussi inévitablement progresser sur des **exercices similaires** et encore plus si tu répliques le même **angle articulaire**. Par exemple, si le développé couché est l'un de tes exercices principaux et que tu les fait coudes ouverts,
+Et bien sûr la surcharge progressive est **spécifique** au **mouvement** que tu **stimules** et d'ailleurs, la notion de **transfert de force** évoqué dans la loi précédente se reporte très bien ici. C'est-à-dire que si tu appliques une surcharge progressive sur un mouvement, tu vas inévitablement **progresser** sur ce **mouvement** mais tu vas aussi inévitablement progresser sur des **exercices similaires** et encore plus si tu répliques le même **angle articulaire**. 
+
+Par exemple, si le développé couché est l'un de tes exercices principaux et que tu le fait coudes ouverts, si tu appliques une bonne surcharge dessus tu vas devenir plus fort sur cet exercice mais tu risques aussi de progresser par exemple sur les pompes aux anneaux et tu auras encore plus de progrès si tu fais ces pompes coudes ouverts.
+
+\vspace{1cm}
+
+### B) Application
+
+\vspace{1cm}
+
+En pratique, pour appliquer la **surcharge progressive**, tu dois t'assurer de **complexifier** tes séances le plus souvent possible et pour cela, il y a une multitude de **paramètres** sur lesquels jouer : la **forme**, l'**amplitude**, l'**assistance**, le **temps sous tension**, le **nombre de séries** ou encore le **tempo**. Et tout ces paramètres, on peut les classer selon 2 catégories :
+
+| Intensité | Volume                |
+| --------- | --------------------- |
+| Forme     | Nombre de répétitions |
+| Amplitude | Temps sous tension    |
+| Charge    | Nombre de séries      |
+| Tempo     |                       |
+
+C'est ces deux composantes que tu vas devoir faire **évoluer** avec le temps pour rendre tes entraînements plus **difficiles**. Ta première chose à faire va être de définir le **volume minimal** et l'**intensité minimale** que tu dois mettre dans tes entraînements pour gagner en force. Voici un tableau des charges minimales à respecter pour obtenir des progrès dans les qualités de force principales :
+
+| Qualité de force   | Intensité minimale (en % 1RM) |
+| ------------------ | ----------------------------- |
+| Force max          | 85%                           |
+| Hypertrophie       | 75%                           |
+| Force générale     | 60%                           |
+| Endurance de force | 50%                           |
+
+On peut faire plus mais si on est en dessous ça ne sert à rien. On le mesure en pourcentage de 1RM (one rep max) c'est à dire la charge maximale avec laquelle tu peux faire une répétition mais comme en street on fonctionne avec le levier de notre corps, c'est difficilement mesurable. On va donc devoir utiliser des ruses, notamment ce tableau d'équivalence du nombre de répétitions et de son pourcentage de 1RM associé :
+
+| % 1RM | Nombre de répétitions | Isométriques (en secondes) |
+| ----- | --------------------- | -------------------------- |
+| 100   | 1                     | 2                          |
+| 96.9  | 2                     | 4                          |
+| 93.1  | 3                     | 6                          |
+| 89.8  | 4                     | 8                          |
+| 87.4  | 5                     | 10                         |
+| 85.8  | 6                     | 12                         |
+| 82.9  | 7                     | 14                         |
+| 80.4  | 8                     | 16                         |
+| 78.6  | 9                     | 18                         |
+| 76.2  | 10                    | 20                         |
+| 70    | 15                    | 30                         |
+| 65    | 20-25                 | 40-50                      |
+| 60    | 25                    | 50                         |
+| 50    | 40-50                 | 80-100                     |
+| 40    | 80-100                | 160-200                    |
+| 30    | 100-150               | 200-300                    |
+
+Pour gagner en force maximale par exemple, on voit donc qu'il faut faire des séries de moins de 6 répétitions pour être au dessus de la barre des 85% de RM. Et évidemment si tu t'arrêtes à 6 reps mais que tu n'es pas à l'échec alors ça ne fonctionne pas. Et pour les efforts isométriques comme les holds, on peut considérer que **1 répétition = 2 secondes isométriques** (3éme colonne dans le tableau ci-dessus). 
+
+Concernant maintenant le MEV (Minimum Effective Volume), donc le volume minimum à effectuer pour chaque qualité de force pour progresser dans celle ci on a ce tableau du nombre de séries et de répétitions par semaine par groupe musculaire (ou par figure plutôt) :
+
+| Qualité de force   | Nombre de séries minimum | Nombre de répétitions minimum |
+| ------------------ | ------------------------ | ----------------------------- |
+| Force max          | 10-15                    | 30-45                         |
+| Hypertrophie       | 8-15                     | 40-8                          |
+| Force générale     | 15-25                    | 150-300                       |
+| Endurance de force | 12-20                    | 60-120                        |
 
