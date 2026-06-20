@@ -552,7 +552,7 @@ En pratique, pour appliquer la **surcharge progressive**, tu dois t'assurer de *
 | Charge    | Nombre de séries      |
 | Tempo     |                       |
 
-C'est ces deux composantes que tu vas devoir faire **évoluer** avec le temps pour rendre tes entraînements plus **difficiles**. Ta première chose à faire va être de définir le **volume minimal** et l'**intensité minimale** que tu dois mettre dans tes entraînements pour gagner en force. Voici un tableau des charges minimales à respecter pour obtenir des progrès dans les qualités de force principales :
+C'est ces deux composantes que tu vas devoir faire **évoluer** avec le temps pour rendre tes entraînements plus **difficiles**. Ta première chose à faire va être de définir le **volume minimal** et l'**intensité minimale** que tu dois mettre dans tes entraînements pour gagner en force. Voici un tableau des **charges minimales** à respecter pour obtenir des **progrès** dans les **qualités de force** principales :
 
 | Qualité de force   | Intensité minimale (en % 1RM) |
 | ------------------ | ----------------------------- |
@@ -561,7 +561,7 @@ C'est ces deux composantes que tu vas devoir faire **évoluer** avec le temps po
 | Force générale     | 60%                           |
 | Endurance de force | 50%                           |
 
-On peut faire plus mais si on est en dessous ça ne sert à rien. On le mesure en pourcentage de 1RM (one rep max) c'est à dire la charge maximale avec laquelle tu peux faire une répétition mais comme en street on fonctionne avec le levier de notre corps, c'est difficilement mesurable. On va donc devoir utiliser des ruses, notamment ce tableau d'équivalence du nombre de répétitions et de son pourcentage de 1RM associé :
+On peut faire plus mais si on est en dessous ça ne sert à rien. On le mesure en **pourcentage de 1RM** (one rep max) c'est à dire la charge **maximale** avec laquelle tu peux faire **une répétition** mais comme en street on fonctionne avec le **levier de notre corps**, c'est difficilement **mesurable**. On va donc devoir utiliser des **ruses**, notamment ce tableau **d'équivalence du nombre de répétitions** et de son **pourcentage de 1RM** associé :
 
 | % 1RM | Nombre de répétitions | Isométriques (en secondes) |
 | ----- | --------------------- | -------------------------- |
@@ -582,9 +582,9 @@ On peut faire plus mais si on est en dessous ça ne sert à rien. On le mesure e
 | 40    | 80-100                | 160-200                    |
 | 30    | 100-150               | 200-300                    |
 
-Pour gagner en force maximale par exemple, on voit donc qu'il faut faire des séries de moins de 6 répétitions pour être au dessus de la barre des 85% de RM. Et évidemment si tu t'arrêtes à 6 reps mais que tu n'es pas à l'échec alors ça ne fonctionne pas. Et pour les efforts isométriques comme les holds, on peut considérer que **1 répétition = 2 secondes isométriques** (3éme colonne dans le tableau ci-dessus). 
+Pour gagner en force maximale par exemple, on voit donc qu'il faut faire des séries de moins de 6 répétitions pour être au dessus de la barre des 85% de RM. Et évidemment si tu t'arrêtes à 6 reps mais que tu n'es pas à **l'échec** alors ça ne fonctionne pas. Et pour les efforts **isométriques** comme les holds, on peut considérer que **1 répétition = 2 secondes isométriques** (3éme colonne dans le tableau ci-dessus). 
 
-Concernant maintenant le MEV (Minimum Effective Volume), donc le volume minimum à effectuer pour chaque qualité de force pour progresser dans celle ci on a ce tableau du nombre de séries et de répétitions par semaine par groupe musculaire (ou par figure plutôt) :
+Concernant maintenant le **MEV (Minimum Effective Volume)**, donc le volume **minimum** à effectuer pour chaque qualité de force pour **progresser** dans celle ci on a ce tableau du nombre de séries et de répétitions **par semaine** par **groupe musculaire** (ou par **figure** plutôt) :
 
 | Qualité de force   | Nombre de séries minimum | Nombre de répétitions minimum |
 | ------------------ | ------------------------ | ----------------------------- |
@@ -592,4 +592,28 @@ Concernant maintenant le MEV (Minimum Effective Volume), donc le volume minimum 
 | Hypertrophie       | 8-15                     | 40-8                          |
 | Force générale     | 15-25                    | 150-300                       |
 | Endurance de force | 12-20                    | 60-120                        |
+
+Mais attention ce MEV est amené à **augmenter** avec **l’expérience**, plus tu progresses, plus tu auras besoin de **volume d'entraînement** pour continuer à créer des **adaptations**. Une fois que tu as ce MEV, peu importe que ce soit le **volume** ou **l'intensité** qui **augmente**, tant qu'il y a une évolution au niveau de ces composantes d'entraînement, la surcharge progressive est **appliquée**. Ça ne veut pas dire qu'elle est **optimisée** mais simplement qu'elle est **appliquée**.
+
+Maintenant, certaines méthodes de surcharge sont beaucoup plus **pertinentes** que d'autres en fonction de tes **objectifs**, de ta **situation** et de tes **différences individuelles**. Concrètement, il y a **trois approches** de surcharge possibles : 
+
+- Partir d'un **volume élevé** et **augmenter** progressivement l'**intensité**.
+- Partir d'une **intensité élevée** et **augmenter** progressivement le **volume**.
+- Partir d'une **intensité** et d'un **volume minimal** et **augmenter** progressivement **les 2** en même temps.
+
+Par défaut, c'est la **première approche** qui est la plus **cohérente** si tu cherches à gagner en **force**, le mot d'ordre étant l'**intensité**, il vaut mieux baser ta surcharge le plus souvent sur l'augmentation de celle-ci. Inversement, si tu cherches à gagner en **hypertrophie**, c'est en augmentant principalement le **volume d'entraînement** que tes muscles vont le mieux réagir. 
+
+Mais ça dépend aussi de ta **situation**, si tu es **débutant** tu as beaucoup à gagner en augmentant le volume et l'intensité en **même temps** car ta **résistance à l'adaptation** est tellement faible sur des nouveaux mouvements que la quantité de **progrès** que tu peux obtenir est juste **phénoménale** (à condition que ton corps soit suffisamment renforcé pour encaisser ce que tu lui imposes). 
+
+Si tu cherches à gagner en **force**, tu devras nécessairement augmenter ton **volume** à un moment et même chose pour **l'hypertrophie** mais où tu devras augmenter ton **intensité** pour pouvoir continuer à progresser. Toutes ces approches sont donc **complémentaires** et tu vas au final devoir **alterner** entre chacune d'elles au fur et à mesure de ta pratique en fonction de tes **besoins**. Et une fois que tu auras choisi **l'approche optimale du moment**, reste à savoir **comment** **optimiser** la surcharge en elle-même. 
+
+Pour ce qui est de savoir quel paramètres d'entraînement tu dois faire évoluer, ça dépend évidemment de la figure que 
+
+
+
+
+
+
+
+
 
