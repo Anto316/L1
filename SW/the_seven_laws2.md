@@ -607,9 +607,39 @@ Mais ça dépend aussi de ta **situation**, si tu es **débutant** tu as beaucou
 
 Si tu cherches à gagner en **force**, tu devras nécessairement augmenter ton **volume** à un moment et même chose pour **l'hypertrophie** mais où tu devras augmenter ton **intensité** pour pouvoir continuer à progresser. Toutes ces approches sont donc **complémentaires** et tu vas au final devoir **alterner** entre chacune d'elles au fur et à mesure de ta pratique en fonction de tes **besoins**. Et une fois que tu auras choisi **l'approche optimale du moment**, reste à savoir **comment** **optimiser** la surcharge en elle-même. 
 
-Pour ce qui est de savoir quel paramètres d'entraînement tu dois faire évoluer, ça dépend évidemment de la figure que 
+Pour ce qui est de savoir quel **paramètres d'entraînement** tu dois faire évoluer, ça dépend évidemment de la **figure** que tu travailles et on verra ça plus tard. 
 
+Maintenant pour **optimiser** ta **surcharge**, le but est de te **rapprocher progressivement** de ton **MRV (Maximum Recoverable Volume)**, donc *le volume maximum d'entraînement pour lequel tu peux récupérer et obtenir des adaptations*. Pour appliquer une **surcharge correcte** tu vas devoir t'entraîner **en** **dessous** de ton MRV, donc avec une intensité et un volume que tu peux **largement supporter**, puis **monter au niveau** de ton MRV, donc le **volume optimal** pour obtenir les adaptations tout en récupérant, et enfin légèrement **dépasser** ton MRV. C'est ce **cycle d'entraînement** qui est le plus **optimal** et qui va t'assurer **d'appliquer la surcharge progressive** de la **meilleure** **manière**. 
 
+![Cycle d'entraînement](/home/antonin/Documents/L1/Notes/SW/Images/Image collée (2).png)
+
+Le MRV se **quantifie** avec des **facteurs personnels** comme la **fatigue**, le **manque de motivation** pour un exercice ou un **sommeil moins réparateur**, ces signaux indiquent que tu as **dépassé ton MRV**. Et ce MRV va progressivement **augmenter** avec **l'expérience**, te permettant au fur et à mesure de ta pratique **d'encaisser** plus d'intensité et plus de volume d'entraînement.
+
+\vspace{1cm}
+
+### C) Différences individuelles
+
+\vspace{1cm}
+
+Au niveau des **différences individuelles**, elles vont influer sur ton **MEV** et ton **MRV** en **eux-mêmes** ainsi que sur **l'évolution** de ceux-ci. La **quantité minimale** **de** **volume** appliquée pour **progresser** est **différente** pour tous les individus et la **quantité maximale de volume** qu'on peut **encaisser** l'est également et de ce fait tes différences individuelles vont déterminer la **quantité de surcharge** que tu vas devoir appliquer pour **optimiser tes progrès**. 
+
+Certains auront besoin que de très **peu de volume** et auront donc une **énorme marge** de progression pour appliquer la surcharge progressive tandis que d'autres auront besoin **d'énormément de volume** pour espérer créer des **adaptations** et pourront donc moins appliquer de surcharge progressive avant de dépasser leur MRV. Et de la même manière, certains **encaisseront** beaucoup plus de **volume** et **d'intensité** d'entraînement car leur MRV est **élevé** et pourront donc s'entraîner **beaucoup plus** et donc progresser beaucoup **plus vite**. 
+
+Bien que ça dépende aussi d'autres facteurs, ça reste quand même grandement lié à ta **morphologie**. Pour quelqu'un de grand et de lourd, chaque répétition aura un impact bien plus significatif sur son organisme que que pour quelqu'un de petit et de léger. La **quantité** de surcharge à appliquer pour **respecter un cycle optimal** de surcharge est **différente** pour tous les individus.
+
+Pour résumer, un **galérien** aura un **gros MEV** et un **faible MRV** et devra donc **s'entraîner beaucoup** pour espérer créer des **adaptations** mais en même temps il ne **supportera pas** beaucoup de **volume** d'entraînement et un élu aura un **faible MEV** et un **gros MRV** donc il n'aura pas besoin de **beaucoup s'entraîner** pour quand même **progresser** (et si il s'entraîne plus, il progresse plus). 
+
+Arrivé à un niveau **intermédiaire**, les **différences individuelles** vont également influer sur le **type de surcharge** à appliquer pour optimiser les progrès. Il y a certains profils qui réagiront beaucoup mieux à **l'augmentation du volume** et d'autres qui progresseront beaucoup plus en **augmentant l'intensité**. Par exemple, si tu fais un 3x3 en tuck planche push up, les profils intensité obtiendront de meilleurs résultats en augmentant la difficulté des tuck push up (deep, deadstop, ...) mais en restant sur du 3x3 tandis que les profils volume obtiendront de meilleurs résultats en augmentant le nombre de répétitions (3x4 puis 3x5) soit en augmentant le nombre de séries (4x3 puis 5x3) mais sans changer l'intensité des planches push up. 
+
+Mais attention, ce **profil type de surcharge progressive** peut aussi **évoluer** avec le temps en fonction de tes **besoins** et de **l'évolution de tes différences individuelles**. Tu peux avoir un profil différent en planche et en front, tu peux être entre deux pendant un certain temps... Il faut donc réussir à le **déterminer** à **chaque instant** pour choisir l'approche de surcharge progressive la plus **optimisée**. Donc pareil que pour déterminer ton degré de spécificité, pour déterminer ton profil de surcharge progressive on verra un peu plus tard.
+
+\vspace{1cm}
+
+### D) Erreur d'application
+
+#### 1. Sous application
+
+\vspace{1cm} \
 
 
 
