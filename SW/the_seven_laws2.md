@@ -643,8 +643,16 @@ Mais attention, ce **profil type de surcharge progressive** peut aussi **évolue
 
 On distingue **deux cas** :
 
-- Le premier est que tu t'entraîne avec un volume ou une intensité **insuffisante** et donc que tu n'atteins pas ton **MEV**, en réalité ça représente souvent une **sous-application** de la **spécificité** car ça concerne les **efforts à fournir** pour développer une **qualité physique** visée. Mais concrètement, un **volume insuffisant**, ça arrive si tu ne fais pas **assez de répétitions**, le cas le plus courant est ceux qui passent leur temps à **tester** leur force plutôt qu'à **l'entraîner**. Leurs séances se résument à faire des **tentatives** de la figure qu'ils veulent, les tenant qu'une seconde et ne générant donc pas d'adaptations. Pour une **intensité insuffisante**, ça peut arriver si tu fais des séries trop **longues** ou avec une charge trop **faible**, mais une intensité trop faible c'est souvent un manque **d'intention** dans l'exécution. si tu ne forces pas pendant ta série, que t'es mou ou que tu t'entraînes sans réelle envie tu n'obtiendras pas **d'adaptations** car tu ne mets pas d'intensité dans tes entraînements.
-- Le deuxième cas est une surcharge qui est trop **faible** ou trop **lente** et donc tu restes constamment en dessous de ton **MRV**, si tu ne l'atteins jamais tu peux passer des mois sans progresser. Tout simplement car tu ne **stimules** pas assez ton corps, que tu ne vas pas aller chercher à **dépasser tes limites** et donc ton corps ne s'adapte pas. L'une des raisons est que tu **ne sais pas quoi améliorer**, tu vas donc te retrouver à faire la **même chose** de semaine en semaine et ne pas progresser. Pour chaque série de chaque exercice, tu dois impérativement te demander comment est-ce que tu vas faire **mieux** que la fois d'avant. 
+- Le premier est que tu t'entraîne avec un volume ou une intensité **insuffisante** et donc que tu n'atteins pas ton **MEV**, en réalité ça représente souvent une **sous-application** de la **spécificité** car ça concerne les **efforts à fournir** pour développer une **qualité physique** visée. 
+
+  Mais concrètement, un **volume insuffisant**, ça arrive si tu ne fais pas **assez de répétitions**, le cas le plus courant est ceux qui passent leur temps à **tester** leur force plutôt qu'à **l'entraîner**. Leurs séances se résument à faire des **tentatives** de la figure qu'ils veulent, les tenant qu'une seconde et ne générant donc pas d'adaptations. 
+
+  Pour une **intensité insuffisante**, ça peut arriver si tu fais des séries trop **longues** ou avec une charge trop **faible**, mais une intensité trop faible c'est souvent un manque **d'intention** dans l'exécution. Si tu ne forces pas pendant ta série, que t'es mou ou que tu t'entraînes sans réelle envie tu n'obtiendras pas **d'adaptations** car tu ne mets pas d'intensité dans tes entraînements.
+
+- Le deuxième cas est une surcharge qui est trop **faible** ou trop **lente** et donc tu restes constamment en dessous de ton **MRV**, si tu ne l'atteins jamais tu peux passer des mois sans progresser. Tout simplement car tu ne **stimules** pas assez ton corps, que tu ne vas pas aller chercher à **dépasser tes limites** et donc ton corps ne s'adapte pas. L'une des raisons est que tu **ne sais pas quoi améliorer**, tu vas donc te retrouver à faire la **même chose** de semaine en semaine et ne pas progresser. 
+
+  Pour chaque série de chaque exercice, tu dois impérativement te demander comment est-ce que tu vas faire **mieux** que la fois d'avant. 
+
 - Un autre cas pourrait être de **manquer de régularité**, en faisant des **pauses** tu interromps ton processus de **surcharge** et à chaque reprise tu dois repartir d'une intensité et d'un volume **inférieur** au moment où tu avais arrêté pour recommencer ton processus de surcharge. Tu vas donc perdre un temps considérable voire même t'empêcher de progresser.
 
 \vspace{1cm}
@@ -655,10 +663,29 @@ On distingue **deux cas** :
 
 Il y a également deux cas distincts :
 
-- Le premier est que tu **dépasses** trop **rapidement** ton **MRV** et donc que tu ne profites pas de toutes les **adaptations** que tu aurais pu obtenir en t'entraînant d'abord légèrement en dessous puis en atteignant ton MRV avant d'enfin le dépasser légèrement et donc d'appliquer un cycle correct de surcharge progressive. Ça fonctionne très bien pendant 3 semaines mais ensuite soit tu **stagnes** à cause de l'accumulation de fatigue, soit tu te **blesses**. La **règle d'or** de l'entraînement c'est que ***Toute variable ne dois JAMAIS être augmentée de manière brusque ou choquante pour le corps*** il faut donc passer par une phase de **renforcement** préparatoire avant d'augmenter le **volume**. 
-- Le deuxième cas est que tu t'entraînes avec un volume ou une intensité trop conséquente pendant trop longtemps. Ça veut dire que tu es en surentraînement et que tu as dépassé ton MRV sur une trop longue période. On le retrouve souvent avec les programmes du type : essayer de gagner une seconde de hold sur la figure à chaque séance puis passer à la variation suppérieure passé un certain objectif. Avec la résistance à l'adaptation, c'est impossible de continuer à progresser sur un exercice que tu fais depuis plusieurs mois déjà. Résultat, les athlètes essayent désespérément d'appliquer une surcharge progressive à chaque séance et s'entraînent au final constamment au-dessus de leur MRV. Le fait de ne pas réussir à faire mieux que la fois d'avant, de se sentir super fatigué, d'avoir zéro motivation, de devoir t'échauffer 40 minutes avant d'être enfin prêt à lancer ta première figure ou même tout simplement de te vider de tes forces à l'échauffement, ce n'est pas normal que ça arrive régulièrement. Et c'est souvent lié à un dépassement de ton MRV pendant trop longtemps. C'est également lié à la **proximité à l'échec**, un indicateur très important pour quantifier là où tu en es de ton MRV. Et ça se mesure avec les RPE
+- Le premier est que tu **dépasses** trop **rapidement** ton **MRV** et donc que tu ne profites pas de toutes les **adaptations** que tu aurais pu obtenir en t'entraînant d'abord légèrement en dessous puis en atteignant ton MRV avant d'enfin le dépasser légèrement et donc d'appliquer un cycle correct de surcharge progressive. Ça fonctionne très bien pendant 3 semaines mais ensuite soit tu **stagnes** à cause de l'accumulation de fatigue, soit tu te **blesses**. 
 
+  La **règle d'or** de l'entraînement c'est que ***Toute variable ne dois JAMAIS être augmentée de manière brusque ou choquante pour le corps*** il faut donc passer par une phase de **renforcement** préparatoire avant d'augmenter le **volume**. 
 
+- Le deuxième cas est que tu t'entraînes avec un **volume** ou une **intensité** trop **conséquente** pendant trop **longtemps**. Ça veut dire que tu es en **surentraînement** et que tu as **dépassé** ton **MRV** sur une trop **longue** période. On le retrouve souvent avec les programmes du type : essayer de gagner une seconde de hold sur la figure à chaque séance puis passer à la variation suppérieure passé un certain objectif. Avec la **résistance à l'adaptation**, c'est impossible de continuer à **progresser** sur un exercice que tu fais depuis plusieurs mois déjà. Résultat, les athlètes essayent désespérément d'appliquer une **surcharge progressive** à **chaque séance** et s'entraînent au final constamment **au-dessus** de leur MRV. Le fait de ne pas réussir à faire mieux que la fois d'avant, de se sentir super **fatigué**, d'avoir **zéro motivation**, de devoir **t'échauffer** 40 minutes avant d'être enfin prêt à lancer ta première figure ou même tout simplement de te **vider de tes forces** à l'échauffement, ce n'est pas normal que ça arrive régulièrement. Et c'est souvent lié à un **dépassement** de ton **MRV** pendant trop longtemps. 
+
+  C'est également lié à la **proximité à l'échec**, un indicateur très important pour quantifier là où tu en es de ton MRV. Et ça se mesure avec les **RPE (Relative Perception of Exhaustion)**, en gros l'intensité perçue sur 10 et les **RIR (Repetitions In Reserve)**. Et les 2 ne sont pas directement liés, RIR2 ne veut pas dire RPE8. Tu t'es sûrement déjà demandé si tu devais aller à **l'échec** ou non et dans quelles circonstances, ça varie en fonction de plusieurs paramètres, notamment des **différences individuelles**, mais surtout de la **méthode** utilisée et les méthodes classiques ne sont pas faites pour s'entraîner à l'échec en street workout.
+
+\vspace{1cm}
+
+## Loi III : La gestion de la fatigue
+
+\vspace{1cm}
+
+Il s'agit d'une **conséquence** de la **surcharge progressive**, c'est à dire que si tu **appliques** **correctement** la surcharge progressive, tu vas inévitablement **accumuler** de la **fatigue** et ça jusqu'au moment où ça va entrer en **interférence** avec **tes performances**. Et c'est à ce moment là qu'on peut dire que tu as **dépassé ton MRV** et que la **gestion de la fatigue** entre en jeu.
+
+\vspace{1cm}
+
+### A) Fonctionnement et définition
+
+\vspace{1cm}
+
+Au bout de quelques semaines d'entraînement
 
 
 
