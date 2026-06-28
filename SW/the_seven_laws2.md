@@ -685,15 +685,46 @@ Il s'agit d'une **conséquence** de la **surcharge progressive**, c'est à dire 
 
 \vspace{1cm}
 
-Au bout de quelques semaines d'entraînement
+Au bout de quelques **semaines** d'entraînement où tu appliques une surcharge progressive, automatiquement, tu vas voir ton MRV être atteint et même **dépassé**. Ce phénomène s'appelle **l'overreaching** et on peut distinguer deux cas : 
 
+- **L'overreaching non fonctionnel** qui est causé par des **facteurs externes** à l'entraînement comme un stress trop important, un manque de sommeil ou une mauvaise nutrition.
+- **L'overreaching fonctionnel** qui consiste à dépasser **intentionnellement** ton MRV en t'entraînant de plus en plus dur.
 
+Dans les deux cas, si tu dépasses ton MRV tu vas devoir laisser la **fatigue** se **dissiper** pour pouvoir **recommencer** le processus de surcharge. Tu peux voir ton système nerveux comme une **coupe** qui se remplie en fonction des stimulis qu'il subit avec tout en haut ton MRV.
 
+Si tu es stressé parceque tu as raté un examen, que tu as joué à Dofus toute la nuit ou encore que ta copine vient de te quitter, tu remplis la coupe avec des **stimulations** **extérieures** à l'entraînement et elle sera pleine beaucoup plus **rapidement** que si tu avais ajouté des **stimulations d'entraînement**. Donc ce n'est pas **optimal** car tu te prives d'entraînement et donc d'adaptations que tu aurais obtenues si tu avais optimisé ton style de vie et tout ce qui va avec. Un bon sommeil, une bonne nutrition et un bon environnement te permettront de plus t'entraîner et donc de devenir plus fort. 
 
+\vspace{1cm}
 
+### B) Application
 
+\vspace{1cm}
 
+Pour l'appliquer, lorsque tu vas sentir que tu **dépasses** ton MRV et donc que tu t'entraînes **au-dessus** de ta **capacité de récupération** et que tu as déjà appliqué une surcharge conséquente, tu dois laisser ta **fatigue** se **dissiper**. Pour cela il faut que tu appliques une **méthode de dissipation**, les plus connues sont : les **jours off** (ne pas s'entraîner), les **jours légers** (sans réelle intensité ni volume), et le **deload** (réduire de moitié l'intensité et le volume d'entraînement, pendant généralement aux alentours d'une semaine). Le deload n'est vraiment pas le plus optimisé. 
 
+Le fait **d'identifier** ton **MRV** et de **connaître** ta **capacité de travail** pour savoir exactement quand et comment laisser ta fatigue se dissiper vient principalement de **l'expérience**. Les meilleurs **méthodes de dissipation** sont **personnelles** puisque elles dépendent de comment tu **réagis** aux **stimuli de l'entraînement** mais elles sont surtout directement liées à ta **méthode d'entraînement** et c'est donc spécifique aux **figures** que tu travailles. 
 
+\vspace{1cm}
 
+### C) Différences individuelles
+
+\vspace{1cm}
+
+Au niveau de **l'influence** des différences individuelles sur la **gestion de la fatigue**, c'est principalement ta capacité de **récupération** qui va jouer. Elle va déterminer la **vitesse** à laquelle tu **accumules** de la **fatigue** et la vitesse à laquelle tu vas réussir à la **dissiper**. 
+
+Pour chaque entraînement, Goliath engendrera beaucoup plus de **fatigue** pour son **organisme** que David car qui dit plus de **fibres musculaires** et plus de **masse corporelle** dit plus gros **stimuli d'entraînement** et donc plus grande **fatigue** et directement plus grande **récupération**. 
+
+Le tout fait que pour deux athlètes du même niveau, l'un va pouvoir supporter des cycles de 8, 10, voire 12 semaines d'entraînement sans avoir besoin de dissiper la fatigue tandis que l'autre aura déjà dépassé son MRV au bout de 2 ou 3 semaines. Et pareillement, le premier dissipera potentiellement toute la fatigue en quelques jours quand le deuxième mettra peut être une semaine entière pour y arriver. 
+
+**L'expérience** joue aussi énormément car plus on progresse, plus on se doit d'être **spécifique** et d'avoir un gros volume d'entraînement qui plus est à très haute intensité et donc plus vite on atteindra notre MRV, et à très haut niveau, on est au final constamment en train de **flirter** avec notre MRV pour toujours essayer de gratter le plus d'adaptations possible. Mais en contrepartie, leur corps **s'adapte** et devient de plus en plus **efficace** pour **récupérer** sur des **types d'efforts** **familiers**. 
+
+L'exemple le plus représentatif, c'est les fameuses courbatures que tu as lorsque tu commences la muscu et qui t'empêchent de t'entraîner pendant 4-5 jours. Et bien au bout de quelques mois tu n'en as plus car ton corps est davantage familier avec les efforts que tu lui demandes. 
+
+Pour résumer, un **galérien** accumulera très **vite** de la **fatigue** et mettra beaucoup de temps pour la **dissiper**, ce qui **réduit** énormément son **intensité**, son **volume** et sa **fréquence** d'entraînement et qui creuse donc un écart considérable à l'année avec un élu qui accumulera **peu** de fatigue et qui en plus de ça la dissipera très **vite** ce qui lui permettra de beaucoup **plus** s'entraîner et beaucoup plus **fréquemment** et donc de beaucoup plus progresser à l'année. 
+
+\vspace{1cm}
+
+### D) Erreur
+
+\vspace{1cm}
 
