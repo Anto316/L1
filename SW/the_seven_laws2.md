@@ -760,7 +760,7 @@ La base de cette loi tu en as sûrement entendu parlé partout, il s'agit du sch
 
 ![schéma de la surcompensation](/home/antonin/Documents/L1/Notes/SW/Images/Gemini_Generated_Image_22sift22sift22si.png){width=100%}
 
-Ce dont on ne parle pas en revanche ce sont tous les principes qui en découlent, c'est un véritable casse-tête mais si tu maîtrise cette loi tu ne te poseras plus jamais la question de savoir quel entraînement faire à quel jour de la semaine ou de savoir quoi mettre dans tes entraînements, le tout en multipliant tes progrès par beaucoup. La courbe SRA est un enchaînement de processus qui interviennent pendant et après l'entraînement 
+Ce dont on ne parle pas en revanche ce sont tous les principes qui en découlent, c'est un véritable casse-tête mais si tu maîtrise cette loi tu ne te poseras plus jamais la question de savoir quel entraînement faire à quel jour de la semaine ou de savoir quoi mettre dans tes entraînements, le tout en multipliant tes progrès par beaucoup. La courbe SRA est un enchaînement de processus qui interviennent pendant et après l'entraînement.
 
 
 
