@@ -724,7 +724,43 @@ Pour résumer, un **galérien** accumulera très **vite** de la **fatigue** et m
 
 \vspace{1cm}
 
-### D) Erreur
+### D) Erreur d'application
+
+#### 1) Sous-application
+
+\vspace{1cm} \
+
+Une **sous-application** de la gestion de la fatigue est en réalité une **sur-application** de la **surcharge progressive**, c'est simplement d'atteindre trop **rapidement** son **MRV** ou de s'entraîner trop **longtemps** au dessus et donc de ne pas laisser la **fatigue** se **dissiper**. 
+
+Le **surentraînement** diminue énormément ta capacité à **dissiper la fatigue**, plus tu restes **longtemps** dans cet état plus tu vas mettre de **temps** à récupérer un **état normal** après avoir arrêté le surentraînement. Et de toute façon si tu n'arrête pas de toi même le surentraînement c'est ton **corps** qui s'en chargera.
 
 \vspace{1cm}
+
+#### 2) Sur-application
+
+\vspace{1cm} \
+
+Une **sur-application** de la gestion de la fatigue est donc une **sous-application** de la **surcharge progressive**, ça signifie que tu vas constamment t'entraîner en **dessous** de ton **MRV** au point où il n'y a même pas de **fatigue** à **dissiper**. 
+
+Une des raisons pour lesquelles ça arrive est que tu veux absolument **t'économiser** et ne pas **accumuler de fatigue** ou que tu as trop peur de te **blesser**, mais accumuler de la fatigue est une **partie** du **processus de développement de force**. Il est en général moins **grave** d'être en **léger surentraînement** qu'en **sous-entraînement** surtout sur un sport de force où la base est d'appliquer une **surcharge progressive** et de s'entraîner avec **intensité**.
+
+\vspace{1cm}
+
+## Loi IV : Stimulation récupération adaptation
+
+La loi de stimulation récupération adaptation est représentée par des courbes que l'on appellera donc courbes SRA. Avec la loi suivante elle est la plus importante pour appliquer l'Ultime Périodisation, son objectif c'est d'*obtimiser la fréquence et la répartition des entraînements dans la semaine, ainsi que la répartition des efforts au sein d'un même entraînement pour généger les meilleurs adaptations possibles.* 
+
+\vspace{1cm}
+
+### A) Fonctionnement et définition
+
+\vspace{1cm}
+
+La base de cette loi tu en as sûrement entendu parlé partout, il s'agit du schéma de la surcompensation :
+
+![schéma de la surcompensation](/home/antonin/Documents/L1/Notes/SW/Images/Gemini_Generated_Image_22sift22sift22si.png){width=100%}
+
+Ce dont on ne parle pas en revanche ce sont tous les principes qui en découlent, c'est un véritable casse-tête mais si tu maîtrise cette loi tu ne te poseras plus jamais la question de savoir quel entraînement faire à quel jour de la semaine ou de savoir quoi mettre dans tes entraînements, le tout en multipliant tes progrès par beaucoup. La courbe SRA est un enchaînement de processus qui interviennent pendant et après l'entraînement 
+
+
 
