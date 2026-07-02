@@ -748,7 +748,7 @@ Une des raisons pour lesquelles ça arrive est que tu veux absolument **t'écono
 
 ## Loi IV : Stimulation récupération adaptation
 
-La loi de stimulation récupération adaptation est représentée par des courbes que l'on appellera donc courbes SRA. Avec la loi suivante elle est la plus importante pour appliquer l'Ultime Périodisation, son objectif c'est d'*obtimiser la fréquence et la répartition des entraînements dans la semaine, ainsi que la répartition des efforts au sein d'un même entraînement pour généger les meilleurs adaptations possibles.* 
+La loi de stimulation récupération adaptation est représentée par des **courbes** que l'on appellera donc **courbes SRA**. Avec la loi suivante elle est la plus **importante** pour appliquer **l'Ultime Périodisation**, son objectif c'est d'*obtimiser la fréquence et la répartition des entraînements dans la semaine, ainsi que la répartition des efforts au sein d'un même entraînement pour généger les meilleurs adaptations possibles.* 
 
 \vspace{1cm}
 
@@ -756,11 +756,52 @@ La loi de stimulation récupération adaptation est représentée par des courbe
 
 \vspace{1cm}
 
-La base de cette loi tu en as sûrement entendu parlé partout, il s'agit du schéma de la surcompensation :
+La base de cette loi tu en as sûrement entendu parlé partout, il s'agit du **schéma de la surcompensation** :
 
 ![schéma de la surcompensation](/home/antonin/Documents/L1/Notes/SW/Images/Gemini_Generated_Image_22sift22sift22si.png){width=100%}
 
-Ce dont on ne parle pas en revanche ce sont tous les principes qui en découlent, c'est un véritable casse-tête mais si tu maîtrise cette loi tu ne te poseras plus jamais la question de savoir quel entraînement faire à quel jour de la semaine ou de savoir quoi mettre dans tes entraînements, le tout en multipliant tes progrès par beaucoup. La courbe SRA est un enchaînement de processus qui interviennent pendant et après l'entraînement.
+Ce dont on ne parle pas en revanche ce sont tous les **principes** qui en découlent, c'est un véritable **casse-tête** mais si tu **maîtrise** cette loi tu ne te poseras plus jamais la question de savoir **quel entraînement faire** à quel jour de la semaine ou de savoir quoi mettre dans tes entraînements, le tout en multipliant tes progrès par beaucoup. 
 
+La courbe SRA est un **enchaînement de processus** qui interviennent **pendant** et **après** **l'entraînement**. En premier on a la **Stimulation**, c'est le **stress** fourni à **l'entraînement** qui va faire **baisser** ton **niveau de performance** à cause de la **fatigue** générée à l'entraînement. Puis on à la **Récupération**, c'est le temps qu'il va te falloir pour **retrouver** ton **niveau de performance** de base et enfin on à l'**Adaptation** (ou la surcompensation), c'est la période où tu vas profiter des **gains** de ton entraînement et monter **au dessus** de ton **niveau de performance de base**. Et ensuite, si tu ne t'entraînes pas, tu perds les **adaptations** que tu avais obtenu, c'est ce qu'on appelle la **désadaptation** ou le **principe de réversabilité**. 
 
+Une **courbe de progression**, c'est un **enchaînement** de **courbes SRA** où ton **niveau de performance** **augmente** petit à petit.
+
+Une **phase de stagnation**, c'est un enchaînement de courbes SRA où ton niveau de performance **reste le même**.
+
+Et une **phase de régression**, c'est un enchaînement de courbes SRA où ton niveau de performance **diminue** petit à petit.
+
+Et de la même manière, un **bad day**, c'est simplement un jour où ta **courbe SRA** est au **plus bas**, et peut être que tu l'as compris mais c'est totalement relié à la notion de **MRV** de la loi précédente. C'est-à-dire que tu vas pouvoir **identifier** le **moment** où tu atteins et dépasses ton **MRV** grâce au **comportement** de tes courbes SRA. Quand tu arrives au point où tu commences à **stagner**, c'est à peu près le moment où tu **atteins ton MRV**. Et quand ta courbe de progression **redescend**, c'est que tu es au-**dessus** de ton MRV et que ça devient **crucial** que tu laisses la **fatigue** se **dissiper**. 
+
+Une courbe SRA, c'est elle même une **réunion** de plusieurs autres **courbes** toutes **spécifiques** à un **type de travail** différent. Chaque fois que tu fais un entraînement, tu génères au minimum **quatre courbes** : une **courbe** **nerveuse** pour la **force**, une **courbe musculaire** pour **l'hypertrophie**, une pour la **technique** et une pour les **tissus conjonctifs**. Le problème est que la **durée** de chaque phase est **différente** pour toutes ces courbes. Voici un tableau des **durées** **approximatives** de chaque phase des **courbes des types d'efforts** principaux relatifs à l'intensité dont on a besoin en street-workout :
+
+| Type d'effort      | Durée de récupération | Durée d'adaptation | Pic de surcompensation | Durée totale avant désadaptation |
+| ------------------ | --------------------- | ------------------ | ---------------------- | -------------------------------- |
+| Technique          | ~6h                   | 12-24h             | T+18-36h               | ~2j                              |
+| Musculaire         | 24-48h                | 24-48h             | T+48-72h               | ~4j                              |
+| Nerveux            | 48-72h                | 24-72h             | T+72-96h               | ~7j                              |
+| Tissus conjonctifs | ~7j                   | plusieurs semaines | X                      | ~2 mois                          |
+
+Ça va évidemment dépendre de **ta charge d'entraînement**, si tu travailles plus ce sera plus long et si tu travailles moins ce sera plus court. Pour les tissus conjonctifs la durée de récupération est de 7 jours si tu les as vraiment ruinés mais en général tu ne vas jamais faire un entraînement où tu te détruits les tissus conjonctifs et donc tu vas pouvoir te réentraîner avant 7 jours, surtout si c'est sur d'autres **angles articulaires** ou d'autres **groupes musculaires** et surtout si tu était déjà **renforcé** parce que la **stimulation** sur ces tissus conjonctifs sera donc **moins intense**. Ce qu'il faut comprendre c'est que plus la **taille** du **stimuli d'entraînement** est **importante** plus la **phase de récupération** sera **lente** mais en contrepartie, plus la **quantité d'adaptation** que tu en tireras sera **importante** également. 
+
+La courbe SRA que tu génères à chaque entraînement c'est donc la **moyenne** de ces **quatre courbes** qui ont chacune des **longueurs** et des **amplitudes** totalement **différentes**. Mais pour chaque **figure** que tu fais à l'entraînement, il y a aussi une **courbe SRA spécifique** à ce mouvement-là. Donc pour un seul entraînement où tu fais de la **planche** et du **front**, tu as une **courbe SRA globale**, composée de **deux courbes spécifiques**, une pour la planche et une pour le front, elles mêmes composées d'au moins **quatre courbes SRA** avec des **longueurs** et **amplitudes différentes**. Et comme dans cet exemples les muscles impliqués sont radicalement **différents**, tes deux courbes SRA peuvent avoir une **vitesse d'évolution** totalement **différente**. 
+
+Mais il y a aussi une **courbe SRA** spécifique à chaque **exercice** que tu fais. Par exemple, en front lever, si on prend le pattern du **front lever press** et celui du **front lever touch**, ces deux mouvements recrutent des **muscles** **différents** dans des **amplitudes différentes**. Pour le touch, c'est principalement les deltoïdes postérieurs et pour les presses, c'est majoritairement les grands dorsaux. Et plus un exo recrute de **gros groupes musculaires**, plus la taille du **stimuli** est **élevée** et donc plus la période de **récupération** est **importante** et plus les **adaptations** que tu obtiens aussi. Mais donc à difficulté de séance égale, tu **récupéreras** plus **vite** du front lever touch que du front lever touch puisque ce sont de plus petits muscles qui sont sollicités. 
+
+Mais cela signifie qu'il faut aussi prendre en compte **l'intensité d'entraînement**. Par exemple, si tu es un pratiquant intermédiaire et que tu viens tout juste de **débloquer** ton **front lever** bad forme, et bien un **advanced tuck touch** sera à peu près aussi **intense** qu'un full front lever, tu récupéreras donc plus vite du touch mais tu auras fait un petit peu moins de progrès. Alors que si tu es un pratiquant confirmé et que tu as déjà ton **front lever touch**, le front lever classique sera **moins intense** et générera donc une plus **petite** courbe et donc tu récupéreras peut-être des deux en même temps. 
+
+\vspace{1cm}
+
+### B) Application
+
+\vspace{1cm}
+
+Pour **respecter** cette loi **en pratique** il y a **deux paramètres** à prendre en compte :
+
+- Le premier est la **fréquence d'entraînement**. Si tu t'entraînes en **période de récupération** tu **influes négativement** sur tes **progrès** et si tu t'entraînes en **période de désadaptation**, ton corps aura en quelque sorte **oublié** les **adaptations** faites à la séance précédente et donc tu **influes négativement** sur tes **progrès**. Tu vas devoir chercher à t'entraîner en **zone de sur-compensation** du **type d'effort** de la **figure** sur laquelle tu veux **progresser**. 
+
+  Par exemple, si tu veux débloquer ta planche et ton front lever, tu as besoin de **force maximale**, dont le facteur principal est **nerveux**. Tu vas donc devoir aller chercher la **surcompensation** de la **courbe nerveuse** de la planche et du front mais sans oublier de **stimuler** la **courbe de technique** de ces deux figures pour gagner en **coordination** et **améliorer ta forme**. Tu dois principalement te concentrer sur ces courbes et ce n'est pas très grave de ne pas s'occuper de la courbe musculaire et de la courbe des tendons. 
+
+  Et donc pour t'entraîner au **bon moment** de la **courbe nerveuse** de la planche et du front tu vas devoir **optimiser** la **répartition des efforts dans la semaine**. 
+
+- Le deuxième paramètre, ce sont les **efforts au sein d'un même entraînement**. Quand est-ce que tu fais des maxs, quand est-ce que tu fais des exercices concentriques, isométriques, quand est-ce que tu fais de la force, du volume, de l'endurance, de la technique... Parce que c'est ce que tu **fais** à **l'entraînement** qui va **générer** les **courbes SRA** et si tu fais n'importe quoi tu vas générer des courbes qui partent dans tous les sens en ne profitant de la sur-compensation d'aucune d'elles à ton prochain entraînement. 
 
