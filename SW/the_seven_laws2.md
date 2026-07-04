@@ -821,14 +821,47 @@ Ta **capacité de récupération** va influencer la **durée** de la **phase de 
 
 Concernant le choix entre une **approche en** **fréquence** (s'entraîner plus fréquemment si tu as une meilleure capacité d'adaptation) ou une **approche en** **intensité** (s'entraîner plus dur si tu as une bonne capacité d'adaptation), ça dépendra avant tout de la **capacité physique** que tu veux développer. Pour la **force maximale**, on préférera en général une approche en **intensité**, pour **l'endurance de force**, ce sera plutôt une approche en **fréquence**. Cependant tes **différences individuelles** peuvent te déterminer un **profil** qui réagirait mieux à l'une ou l'autre de ces deux approches, la **nature** des courbes SRA et leur **évolution** reste assez **individuelle**. On peut observer des **profils** qui avec un **même type d'effort** réagissent mieux à un entraînement **plus fréquent** mais **moins intense** et d'autres qui à l'inverse réagissent d'une meilleure façon à un entraînement **plus intense** mais **moins fréquent**. C'est également lié à ton **profil de surcharge**, tu t'adapteras mieux soit en **augmentant l'intensité** soit en **augmentant le volume**, c'est à toi de déterminer ton profil. 
 
-La **capacité d'adaptation** va conditionner la **longueur** et **l'amplitude** de la **phase d'adaptation**. Pour un même stimuli d'entraînement, l'adaptation qui en résulte sera beaucoup plus grande pour quelqu'un qui a une bonne capacité d'adaptation. Plus importants seront les progrès et plus longue sera la durée optimale pour se ré-entraîne, c'est la raison pourquoi certains progressent beaucoup plus vite que d'autres avec un même entraînement, ils ont simplement une meilleure capacité d'adaptation et leurs courbes montent plus haut à chaque entraînement.  
+La **capacité d'adaptation** va conditionner la **longueur** et **l'amplitude** de la **phase d'adaptation**. Pour un **même stimuli** d'entraînement, **l'adaptation** qui en résulte sera beaucoup plus **grande** pour quelqu'un qui a une **bonne** **capacité d'adaptation**. Plus importants seront les **progrès** et plus **longue** sera la durée optimale pour se ré-entraîner, c'est la raison pourquoi certains progressent beaucoup plus **vite** que d'autres avec un même entraînement, ils ont simplement une meilleure **capacité d'adaptation** et leurs courbes montent plus **haut** à chaque entraînement.  
 
-Ta fréquence d'entraînement doit donc être individuelle si tu veux optimiser tes propres progrès et les programmes d'entraînement à jour fixe ne respectent pas la loi de SRA car rien ne dit que tu auras atteint ton pic de sur-compensation au moment exact de faire ta séance. En suivant un entraînement fixe et sans prendre en compte tes courbes SRA, tu auras beaucoup plus de chances de t'entraîner les mauvais jours et donc d'enchaîner les bad days. Il est donc primordial d'arriver à suivre ses courbes afin d'arriver à maximiser ses chances de s'entraîner en zone de sur-compensation et ne plus jamais avoir de bad day ou en tout cas de les rendre productifs. 
+Ta **fréquence d'entraînement** doit donc être **individuelle** si tu veux optimiser tes propres progrès et les programmes d'entraînement à jour fixe ne **respectent pas** la loi de SRA car rien ne dit que tu auras atteint ton **pic de sur-compensation** au moment exact de faire ta séance. En suivant un entraînement **fixe** et sans prendre en compte tes **courbes SRA**, tu auras beaucoup plus de chances de t'entraîner les **mauvais jours** et donc d'enchaîner les **bad days**. Il est donc primordial d'arriver à **suivre** ses courbes afin d'arriver à **maximiser** ses chances de s'entraîner en **zone de sur-compensation** et ne plus jamais avoir de bad day ou en tout cas de les rendre productifs. 
 
-Un point très important, les courbes SRA vont varier avec l'expérience. Plus tu progresses, plus tes courbes d'adaptation vont rétrécir et se raccourcir, c'est ce qui cause la diminution progressive des progrès dans le temps à mesure qu'on se rapproche de notre limite naturelle. On obtient de moins en moins d'adaptation et la difficulté à aller chercher le moindre progrès augmente quand on a un niveau très avancé puisque la fenêtre de sur-compensation se rétrécit et la quantité d'adaptation qu'on fait à chaque fois est minuscule. C'est la raison pour laquelle il ne devient obligatoire d'appliquer cette loi qu'une fois arrivé au niveau intermédiaire.
+Un point très important, les courbes SRA vont **varier** avec **l'expérience**. Plus tu **progresses**, plus tes courbes d'adaptation vont **rétrécir** et se **raccourcir**, c'est ce qui cause la **diminution progressive** des **progrès** dans le temps à mesure qu'on se rapproche de notre limite naturelle. On obtient de moins en moins **d'adaptation** et la difficulté à aller chercher le moindre progrès augmente quand on a un niveau très avancé puisque la fenêtre de sur-compensation se rétrécit et la quantité d'adaptation qu'on fait à chaque fois est minuscule. C'est la raison pour laquelle il ne devient obligatoire **d'appliquer cette loi** qu'une fois arrivé au **niveau intermédiaire**.
 
 \vspace{1cm}
 
 ### D) Erreurs d'application
 
+#### 1) Sous-application
+
+\vspace{1cm} \
+
+- Une des sous-applications concerne une **mauvaise répartition des efforts dans la séance**. C'est par exemple faire de la **force** et du **volume** lors de la **même séance**, le problème est qu'en faisant de la **force** tu stimules la **courbe nerveuse** et en faisant du **volume** tu stimules la **courbe musculaire** et ce sont les deux courbes ayant la **vitesse d'évolution** la plus **proche**. Cela signifie qu'elles sont très susceptibles d'avoir des **interférences** entre elles. En faisant cela tu tombes dans un **50/50** médiocre où tu ne peux pas entraîner **à fond** la **force** ni le **volume** à leur plein potentiel le tout en rallongeant ton **temps de récupération** à cause de la **taille** et de la **variété** des **stimuli d'entraînement**. Ton corps à une **capacité d'adaptation** et de **récupération** **limitée** et il est beaucoup moins efficace à essayer de gérer plusieurs choses à la fois qu'à se concentrer sur une seule. 
+
+  Ces entraînements mélangeant force et volume est plutôt réservée aux **athlètes avancés** sous certaines conditions, leurs **courbes SRA** auront **rétréci** (réduisant les interférences entre deux types d'effort) et car **l'impact nerveux** est **réduit** grâce à leur expérience. 
+
+- Une autre sous-application concerne une **mauvaise fréquence d'entraînement**, trop **élevée** ou trop **faible** selon la situation. 
+
+  Par exemple, si ton objectif est de gagner en **force** sur la **planche**, tu vas donc faire un **entraînement en force maximale** qui générera une **courbe nerveuse**, la **durée de récupération** pour ce type d'effort est d'environ 2 à 3 jours et qu'il faut ensuite 1 à 2 jours pour atteindre ton pic de sur-compensation. Donc si tu fais 3 à 4 entraînement de force maximale sur la planche par semaine, tu t'entraînes à chaque fois en **phase de récupération** et donc tu **annules** complètement tous les **progrès** que tu aurais pu tirer de chaque entraînement. 
+
+  Si ton objectif est plutôt d'améliorer ton **handstand** qui est un mouvement **technique** qui ne demande que très **peu de force**, tu vas donc effectuer des **entraînements techniques** pour lesquels la **phase de récupération** ne va durer que **quelques heures**. Donc si tu t'entraînes 1 à 2 fois par semaine, tu t'entraînes toujours en **période de dissipation ou de désadaptation** et ton corps aura en quelque sorte **oublié** le travail de la séance précédente.
+
 \vspace{1cm}
+
+#### 2) Sur-application
+
+\vspace{1cm} \
+
+- Une des sur-applications est **d'essayer de** **s'entraîner quand toutes ses courbes sont au maximum** et que tu as **récupéré sur tous les types d'effort**. Le problème vient du fait que ces courbes **évoluent** à des **vitesses différentes** et qu'il est donc difficilement **prédictible** de savoir quand s'entraîner en étant au **top** de chaque courbe au vu de tous les **paramètres** dont elles dépendent et de **l'influence** qu'elles ont entres elles. Surtout que, par exemple, si tu fais un entraînement de **force maximale** dont **l'objectif principal** est de stimuler la **courbe nerveuse**, et bien les **muscles** que tu vas **recruter** pour faire tes efforts vont eux aussi générer une **courbe** **musculaire**. Donc si tu essayes absolument de t'entraîner uniquement quand tu as **récupéré de partout**, tu t'entraîneras quasiment toujours en **période de désadaptation** avec une **fréquence** beaucoup trop **faible** pour tes objectifs. 
+
+  Le **but** est donc de se **concentrer** sur ce qui est le **plus important** et d'être le plus **spécifique** possible dessus afin d'en tirer les **meilleurs gains possibles**. 
+
+
+
+
+
+
+
+
+
+
+
