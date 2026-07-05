@@ -853,9 +853,23 @@ Un point très important, les courbes SRA vont **varier** avec **l'expérience**
 
 - Une des sur-applications est **d'essayer de** **s'entraîner quand toutes ses courbes sont au maximum** et que tu as **récupéré sur tous les types d'effort**. Le problème vient du fait que ces courbes **évoluent** à des **vitesses différentes** et qu'il est donc difficilement **prédictible** de savoir quand s'entraîner en étant au **top** de chaque courbe au vu de tous les **paramètres** dont elles dépendent et de **l'influence** qu'elles ont entres elles. Surtout que, par exemple, si tu fais un entraînement de **force maximale** dont **l'objectif principal** est de stimuler la **courbe nerveuse**, et bien les **muscles** que tu vas **recruter** pour faire tes efforts vont eux aussi générer une **courbe** **musculaire**. Donc si tu essayes absolument de t'entraîner uniquement quand tu as **récupéré de partout**, tu t'entraîneras quasiment toujours en **période de désadaptation** avec une **fréquence** beaucoup trop **faible** pour tes objectifs. 
 
-  Le **but** est donc de se **concentrer** sur ce qui est le **plus important** et d'être le plus **spécifique** possible dessus afin d'en tirer les **meilleurs gains possibles**. 
+  Le **but** est donc de se **concentrer** sur ce qui est le **plus important** et d'être le plus **spécifique** possible dessus afin d'en tirer les **meilleurs gains possibles**. Dans notre cas, on veut débloquer le front lever et la full planche donc on cherchera à **optimiser** la **répartition** et le **fréquence** de nos efforts afin de maximiser la **progression** de la **courbe nerveuse de ces figures**, quitte à négliger un petit peu les progrès en **hypertrophie**, voire même en **technique**. Il faut retenir qu'il est quasiment **impossible** de s'entraîner à chaque séance au **maximum** de ses capacités sur tous les **types d'efforts** en même temps et donc il faut en **prioriser** un pour maximiser les résultats. Et il arrive parfois que tous les **pics de sur-compensation** arrivent en même temps et que tu **exploses** tes performances grâce à cela, en général en travaillant correctement tu peux espérer que ça t'arrive une à deux fois par mois. 
 
+\vspace{1cm}
 
+## Loi V : Variations
+
+\vspace{1cm}
+
+Les **variations**, c'est avec les **courbes SRA** la loi qui va le plus **servir** pour les **athlètes intermédiaires** qui sont **bloqués** aux alentours du **palier fatal**.
+
+\vspace{1cm}
+
+### A) Fonctionnement
+
+\vspace{1cm}
+
+Les variations c'est *le fait de manipuler un ou plusieurs paramètres d'entraînement pour appliquer des changements plus ou moins importants* ce qui a une utilité primordiale, celle de contrer la résistance à l'adaptation. Tu ne peux pas progresser en utilisant toujours les mêmes exercices parce que la résistance à l'adaptation intervient. Dans la suite on va utiliser le terme **système**, il s'agit d'*un exercice avec des paramètres d'entraînement spécifiques*, donc des front lever press avec élastique, c'est un système, des front lever press en advanced tuck, c'est aussi un système et des one leg front lever press avec des stop c'est également un système. En clair un système c'est un exercice avec des paramètres d'entraînement qui lui sont propres. Et donc la résistance à l'adaptation intervient sur tous les systèmes que tu peux imaginer car ton corps reçoit juste une stimulation et la résistance à l'adaptation intervient simplement car si tu restes sur un exercice spécifique, tu vas dépasser ton MRV spécifiquement sur cet exercice. Oui le MRV n'est pas juste quelque chose de global, tu as aussi un MRV spécifique à chaque amplitude que tu travailles et c'est la raison pour laquelle tu te blesses si tu continues à forcer sur des exercices pendant des mois en appliquant une surcharge progressive dessus, tu dépasses ton MRV sur cet exercice et viens accumuler trop de fatigue sur les muscles sollicités.
 
 
 
