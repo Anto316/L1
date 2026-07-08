@@ -889,15 +889,39 @@ Imaginons que tu entraînes le front lever pull up en faisant des advanced tuck 
 
 En appliquant **correctement** cette loi, tu peux t'assurer de **progresser** sur un **système** qui **stagne** tout en ne **l'entraînant pas**. Il faut juste choisir ses **variations** en s'assurant qu'elles aient du **transfert** entre elles, et cela va te permettre au pire de **maintenir ton niveau** mais au mieux de **progresser** sur un système que tu ne travailles plus. Mais c'est ce qui rend cette loi **compliquée**. Il faut réussir à **trouver** des variations, avec des **paramètres** assez **éloignés**, pour ne pas te retrouver avec le **même système**, qui empêcherais donc de laisser **redescendre** ta **résistance à l'adaptation** sur le mouvement, mais quand même suffisamment **proches** pour avoir du **transfert**. 
 
-Et tu te souviens, ton **choix de variation** va dépendre de ton **degré de spécificité**. Plus tu es **avancé** dans ta pratique, plus ton degré de spécificité est **élevé** et plus tu as intérêt à choisir des variations avec des paramètres de plus en plus **proches** si tu veux qu'elles aient du **transfert** entre elles. Mais attention, si tu choisis des variations qui sont **trop proches**, ton corps n'arrivera pas à **dissiper** la **résistance** parce qu'il **l'assimilera** comme étant le **même exercice**. Toute la difficulté consiste à choisir constamment les **bons exercices** pile entre ces deux extrêmes, suffisamment **éloignés** pour dissiper la résistance mais quand même suffisamment **proches** pour avoir un bon transfert sur tes objectifs et pour qu'elle **respecte** ton **degré de spécificité**. 
+Et tu te souviens, ton **choix de variation** va dépendre de ton **degré de spécificité**. Plus tu es **avancé** dans ta pratique, plus ton degré de spécificité est **élevé** et plus tu as intérêt à choisir des variations avec des paramètres de plus en plus **proches** si tu veux qu'elles aient du **transfert** entre elles. Mais attention, si tu choisis des variations qui sont **trop proches**, ton corps n'arrivera pas à **dissiper** la **résistance** parce qu'il **l'assimilera** comme étant le **même exercice**. Toute la difficulté consiste à choisir constamment les **bons exercices** pile entre ces deux extrêmes, suffisamment **éloignés** pour dissiper la résistance mais quand même suffisamment **proches** pour avoir un bon transfert sur tes objectifs et pour qu'elle **respecte** ton **degré de spécificité**. Pour arriver à déterminer les **bonnes variations** il faudra prendre en compte la **figure** que tu travailles et ta **situation**. 
 
+\vspace{1cm}
 
+### C) Différences individuelles
 
+\vspace{1cm}
 
+Pour cette loi, les **différences individuelles** vont déterminer la **vitesse** à laquelle la **résistance à l'adaptation** évolue sur un **système** et donc la **fréquence** à laquelle tu dois faire des **variations**. Certains peuvent travailler pendant **4, 6, 8 semaines** sans développer énormément de **résistance** et peuvent donc continuer à **progresser** sur leurs exercices, tout en appliquant une **surcharge progressive**, et d'autres à l'inverse verront la résistance à l'adaptation intervenir dès la **deuxième ou la troisième semaine** de travail sur un système et devront donc effectuer des **variations** plus **souvent**.
 
+**L'expérience** à un impact majeur car la **fréquence** avec laquelle tu vas devoir effectuer des **variations** va **augmenter** petit à petit en même temps qu'elle. Un pratiquant qui doit utiliser des variations toutes les **4 à 5 semaines** à un niveau **intermédiaire** se verra obligé de varier toutes les **2 à 3 semaines** à un niveau **confirmé**. En effet, cette loi est étroitement liée à la **loi de spécificité** car le **degré de spécificité** joue un rôle très **important**, plus tu **progresses**, plus il est **élevé** et plus tu dois choisir des **variations** **proches** entre elles. Il devient donc de plus en plus **difficile** de **dissiper la résistance à l'adaptation** avec des **systèmes** toujours de plus en plus **proches**, et par conséquent, les pratiquants **confirmés** doivent utiliser des variations beaucoup plus **fréquemment** que les pratiquants débutants. En effet, ils ont besoin d'être très **spécifique** et ont donc une **résistance à l'adaptation** constamment **élevée** sur tous les mouvements qu'ils travaillent. 
 
+Les **galériens** vont voir leur **degré de spécificité** évoluer beaucoup plus **rapidement** que les **élus**, les obligeant à choisir des **systèmes très spécifiques** alors qu'ils n'ont pas forcément un **niveau avancé** sur une figure. Et qui dit **haut degré de spécificité** dit **choix de variation très proche**, dit haute **résistance à l'adaptation**. Les galériens ont donc besoin d'effectuer des exercices très **spécifiques** pour progresser, donc ils ont du mal à **dissiper la résistance** à l'adaptation et donc ils doivent effectuer des **variations** beaucoup plus **fréquemment** que les **élus** au **même stade** de leur pratique qui eux peuvent se permettre de **forcer** pendant plusieurs semaines sur les **mêmes exercices** sans se poser de questions. Et quand les élus effectuent des **variations**, leur **degré de spécificité** est tellement **bas** que même en faisant n'importe quoi, ils vont **progresser**. 
 
+\vspace{1cm}
 
+### D) Erreurs d'application
+
+#### 1) Sous-application
+
+\vspace{1cm} \
+
+- Une sous-application de cette loi est simplement de ne pas changer assez régulièrement de système ce qui revient à une sur-application de la spécificité. 
+
+- Un autre cas est d'effectuer des variations entre deux systèmes beaucoup trop proches, ce qui revient au final à faire le même exercice et donc à ne pas appliquer de variation. Il faut que les systèmes choisis respectent ton degré de spécificité, déterminant la spécificité minimale à mettre dans l'entraînement, mais il faut aussi qu'il respecte ta capacité de récupération pour que ton corps arrive à laisser la résistance à l'adaptation se dissiper.
+
+  Ce serait par exemple un débutant en front lever qui voudrait simplement changer l'ordre de ses tuck front lever press dans sa séance en les passant de deuxième à premier exercice alors qu'il aurait tout intérêt à changer radicalement d'exercice. Car son degré de spécificité n'est pas encore élevé et donc en choisissant par exemple des tractions lestées, il obtiendrait un très bon transfert de force sur son front lever.
+
+\vspace{1cm}
+
+#### 2) Sur-application
+
+\vspace{1cm} \
 
 
 
