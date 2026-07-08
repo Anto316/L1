@@ -911,17 +911,43 @@ Les **galériens** vont voir leur **degré de spécificité** évoluer beaucoup 
 
 \vspace{1cm} \
 
-- Une sous-application de cette loi est simplement de ne pas changer assez régulièrement de système ce qui revient à une sur-application de la spécificité. 
+- Une **sous-application** de cette loi est simplement de ne pas **changer** assez **régulièrement** de système ce qui revient à une **sur-application de la spécificité**. 
 
-- Un autre cas est d'effectuer des variations entre deux systèmes beaucoup trop proches, ce qui revient au final à faire le même exercice et donc à ne pas appliquer de variation. Il faut que les systèmes choisis respectent ton degré de spécificité, déterminant la spécificité minimale à mettre dans l'entraînement, mais il faut aussi qu'il respecte ta capacité de récupération pour que ton corps arrive à laisser la résistance à l'adaptation se dissiper.
+- Un autre cas est d'effectuer des **variations** entre deux **systèmes** beaucoup trop **proches**, ce qui revient au final à faire le **même exercice** et donc à ne pas appliquer de **variation**. Il faut que les systèmes choisis respectent ton **degré de spécificité**, déterminant la **spécificité minimale** à mettre dans **l'entraînement**, mais il faut aussi qu'il respecte ta **capacité de récupération** pour que ton corps arrive à laisser la **résistance à l'adaptation** se **dissiper**.
 
-  Ce serait par exemple un débutant en front lever qui voudrait simplement changer l'ordre de ses tuck front lever press dans sa séance en les passant de deuxième à premier exercice alors qu'il aurait tout intérêt à changer radicalement d'exercice. Car son degré de spécificité n'est pas encore élevé et donc en choisissant par exemple des tractions lestées, il obtiendrait un très bon transfert de force sur son front lever.
+  Ce serait par exemple un **débutant** en front lever qui voudrait simplement changer **l'ordre** de ses tuck front lever press dans sa séance en les passant de **deuxième** à **premier** exercice alors qu'il aurait tout intérêt à **changer** radicalement d'exercice. Car son degré de spécificité n'est pas encore **élevé** et donc en choisissant par exemple des tractions lestées, il obtiendrait un très bon transfert de force sur son front lever.
 
 \vspace{1cm}
 
 #### 2) Sur-application
 
 \vspace{1cm} \
+
+- Une **sur-application** de la loi de variation est une **sous-application de la spécificité**. Donc soit tu fais des **variations** en utilisant des **systèmes** qui ne sont pas assez **spécifiques**, qui ne respectent pas ton **degré de spécificité**, auquel cas tu fais **redescendre** le **niveau de résistance à l'adaptation** sur la **figure** travaillée mais tu perds aussi tes **gains de force**. 
+
+  Par exemple un pratiquant qui aurait déjà son full front lever et qui voudrait varier ses front lever press avec des tractions lestées. Cet exercice n'est plus assez **spécifique** pour son niveau et ne respecte donc pas son **degré de** **spécificité**, il aurait plutôt intérêt à varier ses front lever press avec des front lever press avec deadstop.
+
+- Soit que tu effectues des **variations** à une **fréquence** beaucoup **trop élevée**, ce qui est contraire au **principe d'adaptation directe**. Si tu changes trop **souvent** d'exercice tu n'as pas le temps d'appliquer une **surcharge progressive** dessus et donc tu ne peux pas en tirer de **gains de force** et par conséquent tu ne **progresses pas** sur les **systèmes** que tu utilises, et donc au global tu ne progresses pas. 
+
+  Des **variations** très **fréquentes**, par exemple **toutes les semaines**, ça peut fonctionne à **très haut niveau** sur des **exercices accessoires**. C'est à dire que tes **exercices principaux**, eux, vont rester les **mêmes**, mais tout ce qui est des **facteurs limitants**, du **renforcement spécifiques** et cetera, comme de toute façon tu utilises des **systèmes** qui sont **très spécifiques**, ça peut être **intéressant** de **souvent** les **changer** afin d'éviter **d'accumuler** de la **résistance** pour rien. 
+
+\vspace{1cm}
+
+## Loi VI : Potentialisation des phases
+
+\vspace{1cm}
+
+C'est la sixième et dernière loi, et donc celle à prioriser en dernier dans ta pratique. Il y a donc que les pratiquants avancés qui ont déjà optimisé toutes les autres lois qui vont devoir s'en soucier. En général il faut l'appliquer pour les ordinaires avant de pouvoir débloquer la full planche et le front lever touch.
+
+\vspace{1cm}
+
+### A) Fonctionnement et définition
+
+\vspace{1cm}
+
+
+
+
 
 
 
