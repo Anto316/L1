@@ -5,7 +5,7 @@ date: "19 mai 2026"
 lang: fr-FR
 toc: true
 toc-title: "Table des matières"
-toc-depth: 5
+toc-depth: 3
 numbersections: false
 fontsize: 12pt
 ---
@@ -435,7 +435,7 @@ C'est la loi la **plus importante** car elle est la **condition** pour toutes le
 
 \vspace{1cm}
 
-### A) Fonctionnement et définition
+### A) Fonctionnement et définition 
 
 \vspace{1cm}
 
@@ -459,7 +459,7 @@ Ce que tu dois retenir c'est que dans ce spectre, plus tu **t'éloignes de tes o
 
 \vspace{1cm}
 
-### B) Application
+### B) Application 
 
 \vspace{1cm}
 
@@ -473,7 +473,7 @@ On a évoqué la notion **d'amplitude** pour bien comprendre le principe mais en
 
 \vspace{1cm}
 
-### C)  Différences individuelles
+### C)  Différences individuelles 
 
 \vspace{1cm}
 
@@ -483,7 +483,7 @@ En tout cas, **l'évolution du degré de spécificité** c'est la raison pour la
 
 \vspace{1cm}
 
-### D) Erreur d'application
+### D) Erreur d'application 
 
 #### 1. Sous-application
 
@@ -937,7 +937,7 @@ Les **galériens** vont voir leur **degré de spécificité** évoluer beaucoup 
 
 \vspace{1cm}
 
-C'est la sixième et dernière loi, et donc celle à prioriser en dernier dans ta pratique. Il y a donc que les pratiquants avancés qui ont déjà optimisé toutes les autres lois qui vont devoir s'en soucier. En général il faut l'appliquer pour les ordinaires avant de pouvoir débloquer la full planche et le front lever touch.
+C'est la sixième et dernière loi, et donc celle à prioriser en **dernier** dans ta pratique. Il y a donc que les pratiquants **avancés** qui ont déjà **optimisé** toutes les **autres lois** qui vont devoir s'en soucier. En général il faut l'appliquer, pour les **ordinaires**, avant de pouvoir débloquer la **full planche** et le **front lever touch**.
 
 \vspace{1cm}
 
@@ -945,7 +945,30 @@ C'est la sixième et dernière loi, et donc celle à prioriser en dernier dans t
 
 \vspace{1cm}
 
+**Potentialiser**, c'est *le fait de maximiser ou d'optimiser un phénomène*. A ne pas **confondre** avec la **potentiation** ou **Post Activation Potentiation**, qui consiste à effectuer un exercice très **intense** pour **"réveiller"** le **système neuromusculaire** et augmenter temporairement la **force**, la **puissance** et la **vitesse** sur les séries suivantes. 
 
+La **potentialisation des phases** c'est le fait *d'optimiser la structure et l'ordre des différentes phases d'entraînement, de sorte à maximiser les résultats sur le long terme.* La première chose à comprendre pour saisir l'utilité de ce principe de potentialisation des phases c'est que **développer une capacité** à un **moment** donné peut-être **bénéfique** pour en développer une autre plus tard. 
+
+Par exemple, pour la **planche**, renforcer tes **tendons du biceps** et tes **poignets** va te permettre par la suite **d'encaisser** plus de **volume** et **d'intensité** d'entraînement sur la planche sans risquer de te **blesser** sur ces zones faibles. Renforcer tes **tissus conjonctifs** permet donc de **potentialiser** l'entraînement de la **force** en planche parce que grâce à cette phase de **renforcement** tu seras en état de t'entraîner **plus fort** et donc de **plus progresser**. Inversement, si tes **biceps** et tes **poignets** sont **faibles** tu vas quand même pouvoir entraîner ta planche mais tes entraînements vont être **moins productifs** que dans le premier cas car tu vas être **limité** par ces **zones faibles** et tu vas donc **moins progresser**. Sur **trois semaines** tu ne verras peut être pas la différence mais à **l'année** ce manque d'optimisation se fera fortement **sentir**. Il existe donc un "**transfert**" entre les différentes **capacités physiques** qui permettent de réaliser une **performance** et la **manière** et **l'ordre** dont on les entraîne peut être **optimisé** pour **maximiser** les **progrès** à **long terme**. Voici ce qu'est la **loi de potentialisation des phases**.
+
+\vspace{1cm}
+
+### B) Application
+
+\vspace{1cm}
+
+En pratique, l'utilisation **correcte** de la **potentialisation des phases** repose sur **trois points** essentiels. 
+
+En premier on a la **spécificité**. Tu ne peux pas **tout** entraîner en **même temps** et espérer devenir **fort** sur **tout** ce que tu travailles pour **deux raisons** :
+
+- La première est qu'il existe des **interférences** entre les **différents types d'efforts**, si tu **stimules** **tous les types d'effort** en **même temps**, tu n'es efficace sur **aucun** à la fois car la **fatigue générée** par l'un va se répercuter sur les **autres**. En reprenant l'exemple de la planche, si tu prends effectivement le temps de **renforcer** tes **tissus conjonctifs**, tu ne vas pas pouvoir être **efficace** sur la **force en planche** sur la même période parce que tes **tissus conjonctifs** seront **fatigués** et qu'ils **limiteront** ta performance en planche. Et si tu **forces** quand même, tu les **sursolliciterais**, ce qui augmenterais le **risque de blessure**.
+- La deuxième raison est que ton **corps** à une **capacité d'adaptation limitée**. Si tu veux espérer progresser sur un **type d'effort**, il faut que tu accumules un **minimum de volume dessus**, il s'agit du **MEV**. Et si tu essayes **d'atteindre** ton **MEV** sur **tous les types** d'efforts en même temps, tu vas simplement **dépasser** ton **MRV global** et finir en **sur-entraînement**. Ce deuxième point est la raison pour laquelle la **potentialisation des phases** n'intervient qu'après le **palier fatal**, et même en **dernier** dans l'ordre des lois, parce que le **MEV** d'un **débutant** est tellement **faible** sur **chaque type d'effort** qu'il pourra progresser en faisant un **petit peu de tout**. Mais arrivé à un **certain niveau**, le MEV de **chaque type d'effort** a **augmenté** et tu ne peux plus tout faire en **même temps**. C'est la raison pour laquelle tu vas devoir **organiser** tes **entraînements** en **phase de travail** pour te concentrer **spécifiquement** sur **un type d'effort à la fois** et progresser dessus. Phase de travail qu'on appelle plus communément **cycle**.
+
+Deuxième point essentiel, **la séquence**. Tu as compris que tu devais faire des **cycles**, mais comment les **répartir** dans ta planification ? Est-ce que tu fais ça un petit peu au hasard en passant d'un cycle à l'autre, un petit peu comme tu en as envie ? Ce n'est pas forcément le plus **optimisé**. Tu te souviens de cette histoire de **transfert** entre les différentes **capacités physiques** ? Et bien tu vas devoir te servir de ces **transferts** pour **organiser** tes **cycles**, de manière à ce que **chacun** **bénéficie** de ce qui a été **construit** par le **précédent** et pose des **fondations solides** sur lesquelles va s'appuyer le suivant de sorte à **maximiser** les **progrès** que tu peux tirer de chaque cycle. 
+
+En **powerlifting** par exemple, **l'agencement classique des phases de travail**, c'est un **cycle d'hypertrophie** pour construire une bonne **base musculaire**, puis un **cycle de force générale** qui bénéficie de **l'hypertrophie** qui a été créée dans le cycle précédent et qui permet aux **muscles plus gros** et avec **plus de fibres** de développer **plus de force**. Et enfin, un **cycle de peaking**, c'est à dire de **force spécifique**, qui permet de **recruter le maximum** de force acquise lors du cycle précédent au service de **l'exécution des mouvements spécifiques de powerlifting**. Cependant, nos **besoins hypertrophiques** sont légèrement **différents**, on n'a pas besoin **d'autant d'hypertrophie** que les powerlifter et on a besoin d'énormément plus de **spécificité** dans nos entraînements à cause de l'énorme **composante technique** des **figures**. Donc on utilisera pas les **phases classiques** de powerlifting en hypertrophie, force générale, peaking mais on verra ça plus tard. 
+
+Et troisième point sur lequel repose la potentialisation des phases, c'est **l'adaptation**. 
 
 
 
