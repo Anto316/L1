@@ -968,7 +968,36 @@ Deuxième point essentiel, **la séquence**. Tu as compris que tu devais faire d
 
 En **powerlifting** par exemple, **l'agencement classique des phases de travail**, c'est un **cycle d'hypertrophie** pour construire une bonne **base musculaire**, puis un **cycle de force générale** qui bénéficie de **l'hypertrophie** qui a été créée dans le cycle précédent et qui permet aux **muscles plus gros** et avec **plus de fibres** de développer **plus de force**. Et enfin, un **cycle de peaking**, c'est à dire de **force spécifique**, qui permet de **recruter le maximum** de force acquise lors du cycle précédent au service de **l'exécution des mouvements spécifiques de powerlifting**. Cependant, nos **besoins hypertrophiques** sont légèrement **différents**, on n'a pas besoin **d'autant d'hypertrophie** que les powerlifter et on a besoin d'énormément plus de **spécificité** dans nos entraînements à cause de l'énorme **composante technique** des **figures**. Donc on utilisera pas les **phases classiques** de powerlifting en hypertrophie, force générale, peaking mais on verra ça plus tard. 
 
-Et troisième point sur lequel repose la potentialisation des phases, c'est **l'adaptation**. 
+Et troisième point sur lequel repose la potentialisation des phases, c'est **l'adaptation**. Tu sais que tu vas devoir **organiser** des **phases de travail spécifiques à un type d'effort** et que tu vas devoir les **agencer** dans un **ordre** qui **optimise** le **transfert** qu'elles ont entre elles. Mais combien de temps est ce que tu dois rester sur chaque type d'effort ? Et pour ça, il y a **deux paramètres** à prendre en compte :
+
+- Le premier est la **désadaptation**, si tu n'entraînes pas un type d'effort pendant une trop **longue période**, tu perds les **adaptations** que tu avais généré en t'entraînant dessus. Par exemple, en **powerlifting**, si on reste trop **longtemps** sur une **phase de peaking**, on n'a plus assez de **volume d'entraînement** pour maintenir notre **hypertrophie** et donc on **diminue** drastiquement notre **potentiel de force**. Parce que par définition, le **peaking** est une **phase d'entraînement** où on met une **très haute intensité** pour tester nos **max** et battre nos **records** et donc forcément, on s'entraîne avec un **faible volume**, ce qui ne suffit plus à **maintenir** la **masse musculaire**.
+- Le deuxième paramètre c'est la **résistance à l'adaptation** puisqu'elle existe bien sûr au niveau des **types d'effort**, si tu t'entraînes trop **longtemps** sur un **seul type d'effort**, la résistance à l'adaptation commence à **s'installer** et tu finis par ne **plus** du tout **progresser** dessus. Par exemple, un **cycle d'hypertrophie** qui serait trop **long** entraîne une **désensibilisation** des **molécules** responsables des **gains de masse musculaire**. Et pareil pour des cycles de **force** trop longs, **l'accommodation** va causer une **diminution** de **l'adaptation neurologique** ainsi que l'apparition de nombreux **facteurs limitants**. Tu dois donc passer à la **phase suivante** avec le bon **timing**, premièrement, pour éviter la **désadaptation** d'une **qualité physique** que tu n'entraînes pas depuis trop longtemps, et deuxièmement pour éviter la **stagnation** et les **blessures d'usure** lorsque a **accumulé** trop de **résistance** sur un type d'effort.  
+
+\vspace{1cm}
+
+### C) Différences individuelles
+
+\vspace{1cm}
+
+Au niveau des différences individuelles, elles vont principalement déterminer la **durée de tes cycles**. 
+
+Certains réagiront **mieux** à des **cycles plus longs**, permettant d'appliquer une **surcharge plus longue** et **continue** sur le **type d'effort** en question et donc d'obtenir des **gains** plus **durables** de chaque phase d'entraînement et **d'éviter** ainsi la **désadaptation** lorsqu'on ne l'entraînera pas. 
+
+D'autres à l'inverse progresseront plus avec des **cycles plus courts** permettant de **développer** les **qualités physiques** petit à petit en **bénéficiant** les **unes des autres** mais avec des gains **moins durables** et donc la nécessité de se **ré-entraîner plus souvent** dessus. 
+
+Il n'y a pas une approche **meilleure** que l'autre et ça dépend surtout de **comment** ton corps **réagit** à l'entraînement. 
+
+\vspace{1cm}
+
+### D) Erreurs d'application
+
+#### 1) Sous-application
+
+\vspace{1cm} \
+
+Une des sous-application consiste à faire des **cycles** beaucoup **trop longs**, ce qui revient à ne **pas faire de cycle** et à **rester** constamment sur le **même type d'effort**. Ce qui va poser problème à cause de **l'accumulation** que ton corps va développer sur ce **type d'effort** et de la **désadaptation** des **qualités physiques** que tu n'entraînes pas. Par exemple, si tu n'entraînes que ta force maximale isométrique, il y a un moment où tu ne vas plus réussir à progresser dessus et c'est pour ça qu'il faut jongler par exemple avec la force maximale concentrique. Par contre, il faut parler d'un problème, celui de ne pas entraîner la capacité de tes tissus conjonctifs à encaisser une grosse charge d'entraînement, donc le fait de délaisser le travail de renforcement. Quand tu t'entraînes, tu vas travailler spécifiquement les figures et ce que tu appelles renforcement, c'est juste des exercices accessoires avec une variante de simplification, les fameuses tuck planche push up ou hspu en fin de séance. Avec des entraînements comme ça, tu devient meilleur techniquement, en plus d'améliorer la capacité de ton système nerveux à produire plus de force, mais tu négliges totalement la capacité de tes tissus conjonctifs à absorber cette force. On se retrouve alors avec une grosse différence entre ce que le système nerveux peut produire et ce que les tissus conjonctifs peuvent encaisser et c'est là que les blessures interviennent. Tout ça arrive sans vraiment que tu t'en rendes compte, car il n'y avait aucun signe que tes tendons allait lâcher, l'inflammation se produit petit à petit, sur plusieurs semaines, en accumulant les couches de stress sans avoir la récupération suffisante puis causant une tendinite. Il s'agit d'une mauvaise gestion de la charge d'entraînement sur plusieurs semaines donc ne pas entraîner de phase d'entraînement pour tes tissus conjonctifs c'est une sous-application de la loi de potentialisation des phases et on verra dans l'ultime périodisation quelle phase et quel agencement on va utiliser pour progresser dans les figures de force sans se blesser.
+
+\vspace{1cm}
 
 
 
