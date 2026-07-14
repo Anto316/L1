@@ -30,9 +30,9 @@ C'est la raison pour laquelle on va prendre du **recul** pour observer l'univers
 
   \vspace{1cm}
 
-Tu sais à peu pres quoi faire pour t'améliorer mais, à partir du moment où tu ne sais pas expliquer **précisement** le pourquoi du comment, au fond de toi, tu sais que tu pourrais faire **bien mieux**. Tu es conscient que tu ne sais pas tout mais comme tu ne sais pas vraiment ce qu'il te manque, tu tatonnes, tu essayes differents trucs et au final ton entrainement devient **approximatif** et tu as l'impression d'avancer à l'aveugle. 
+Tu sais à peu près quoi faire pour t'améliorer mais, à partir du moment où tu ne sais même pas expliquer **précisément** le pourquoi du comment, au fond de toi, tu sais que tu pourrais faire **bien mieux**. Tu es conscient que tu ne sais pas tout mais comme tu ne sais pas vraiment ce qu'il te manque, tu tâtonnes, tu essayes différents trucs et au final ton entraînement devient **approximatif** et tu as l'impression d'avancer à l'aveugle. 
 
-Tu ne connais pas exactement **les compétences nécessaires**, par exemple pour débloquer la full planche, et donc tu ne comprends pas vraiment ce qu'il faut faire pour avancer et t’entraîner **correctement**. Tu ne sais pas ce qu'il te manque pour t’améliorer et donc tu ne peux pas t’entraîner sur ce qui t'en empêche et tu n'avances pas ou du moins pas aussi **efficacement** que tu le pourrais. 
+Tu ne connais pas exactement **les compétences nécessaires**, par exemple pour débloquer la full planche, et donc tu ne comprends pas vraiment ce qu'il faut faire pour avancer et t’entraîner **correctement**. Tu ne sais pas ce qu'il te manque pour **t’améliorer** et donc tu ne peux pas t’entraîner sur ce qui t'en empêche et par conséquent tu n'avances pas, ou du moins pas aussi **efficacement** que tu ne le pourrais. 
 
 Et c'est là qu'intervient **le modèle de la performance** :
 
@@ -42,17 +42,17 @@ Et c'est là qu'intervient **le modèle de la performance** :
 
 \vspace{1cm}
 
-Ce modèle est le même pour tous les sports et tout ce qui implique "comment progresser" est inclus dedans. Il est composé de 3 axes **indissociables** et **interdépendants** :
+Ce modèle est le même pour tous les sports et tout ce qui implique "**comment progresser**" est inclus dedans. Il est composé de 3 axes **indissociables** et **interdépendants** :
 
-- **Physique :**  Acquérir les qualités physiques nécessaires à la réalisation de la performance.
+- **Physique :**  Acquérir les **qualités physiques** nécessaires à la réalisation de la performance.
 
-- **Technique :** Exprimer ces qualités physiques à travers les mouvements spécifiques de la discipline en question.
+- **Technique :** Exprimer ces qualités physiques à travers les **mouvements spécifiques** de la discipline en question.
 
-- **Mental :** Engager nos ressources physiques et techniques afin de réaliser la performance.
+- **Mental :** Engager nos **ressources** physiques et techniques afin de réaliser la performance.
 
-Ces trois aspects fonctionnent en **synergie** et ils faut donc tous les développer **en parallèle** pour progresser. Il faut bien retenir que parmis les 3 il n'y en a pas un de **plus important** que les autres, ils sont tous à **égalité**.
+Ces trois aspects fonctionnent en **synergie** et ils faut donc tous les développer **en parallèle** pour progresser. Il faut bien retenir que parmi les 3 il n'y en a pas un de **plus important** que les autres, ils sont tous sur un pied d'**égalité**.
 
-Tes performances **plafonnent** néanmoins au niveau de ton aspect **le moins développé**. Il est **très dur** de développer les 3 axes à fond constamment donc tu as sûrement du **retard** sur un ou plusieurs de ces aspects surtout si tu n'avais pas conscience de leur existence dès le début de ta pratique. Il faut donc réussir à **identifier** lequel pose problème a chaque fois pour travailler dessus (l'axe faible peut être **différent** en fonction des personnes et dans ta progression).
+Tes performances **plafonnent** néanmoins au niveau de ton aspect **le moins développé**. Il est néanmoins **très dur** de développer les 3 axes à fond constamment tu as donc sûrement du **retard** sur un ou plusieurs de ces **aspects**, surtout si tu n'avais pas **conscience** de leur existence dès le début de ta pratique. Il faut donc réussir à **identifier** lequel pose problème à chaque fois pour travailler dessus (l'axe faible peut être **différent** en fonction des personnes et au cours de ta progression).
 
 \vspace{1cm}
 
@@ -60,7 +60,7 @@ Tes performances **plafonnent** néanmoins au niveau de ton aspect **le moins d�
 
 \vspace{1cm}
 
-Bien que ces aspects soient **très importants**, ils n'expliquent pas **tout**. En effet, ta progression dans chacun de ces aspects va elle être influencée par des **facteurs externes**, positivement ou négativement. Voici quelques exemples :
+Bien que ces aspects soient **très importants**, ils n'expliquent pas **tout**. En effet, ta **progression**, dans chacun de ces aspects, va elle être **influencée** par des **facteurs externes**, positivement ou négativement. Voici quelques exemples :
 
 | Catégorie                       | Éléments                                                                    |
 | ------------------------------- | --------------------------------------------------------------------------- |
@@ -70,14 +70,14 @@ Bien que ces aspects soient **très importants**, ils n'expliquent pas **tout**.
 
 Mais, contrairement à ce que l'on pourrait penser, l'influence de ces facteurs est **minoritaire** sur les résultats, c'est **l'entraînement** qui est la base de la **progression**.
 
-Les facteurs externes viennent seulement **réguler l'efficacité de l'entraînement**, un excellent entraînement **compensera** presque toujours des facteurs externes défavorables. On a donc :
+Les facteurs externes viennent seulement **réguler l'efficacité de l'entraînement**. Un excellent entraînement **compensera** presque toujours des facteurs externes défavorables. On a donc :
 
 $$
 \frac {\color{green}\mathbf{ENTRAINEMENT}} {\color{red}\mathbf{FACTEURS\ EXTERNES}} > \frac {\color{red}\mathbf{ENTRAINEMENT}} {\color{green}\mathbf{FACTEURS\ EXTERNES}}
 $$
 \vspace{5pt}
 
-Mais attention il ne **faut pas** les négliger et ne pas les prendre en compte peut notamment amener à des blessures, des maladies et dépressions. On a donc plutôt en réalité :
+Mais attention il ne **faut pas** les négliger et ne pas les prendre en compte peut notamment amener à des **blessures**, des **maladies**, voire à une **dépression**. On a donc plutôt en réalité :
 $$
 \text{\small $\frac {\color{green}\mathbf{ENTR.}} {\color{green}\mathbf{FACT.\ EXT.}} > \frac {\color{green}\mathbf{ENTR.}} {\color{red}\mathbf{FACT.\ EXT.}} > \frac {\color{red}\mathbf{ENTR.}} {\color{green}\mathbf{FACT.\ EXT.}} > \frac {\color{red}\mathbf{ENTR.}} {\color{red}\mathbf{FACT.\ EXT.}}$}
 $$
@@ -93,11 +93,11 @@ En clair, si tu **stagnes** et que tu penses que c'est dû à un mauvais sommeil
 
 \vspace{1cm}
 
-Avec une méthode parfaite, plus le temps passe, plus ton niveau **augmente**, mais aussi plus ta progression **diminue** et comme tu te rapproche de ta **limite maximale**, il faut **optimiser ses facteurs externes** pour continuer à s’améliorer un peu (mais là on parle  généralement du haut niveau et tu en es loin). 
+Avec une méthode parfaite, plus le temps passe, plus ton niveau **augmente**, mais aussi plus ta progression **diminue** et comme tu te rapproche de ta **limite maximale**, il faut **optimiser ses facteurs externes** pour continuer à s’améliorer (mais là on parle généralement du haut niveau et tu en es loin). 
 
-Mais ton entraînement n'est pas **parfait** donc tu progresses plus lentement que tu ne le pourrais. Tu ne peux donc pas atteindre **certains paliers** comme la full planche sans **optimiser** un minimum ton entraînement et pour cela il te faut des compétences en **programmation**, en **périodisation** et en **planification**, choses que tu ne trouveras pas ou difficilement.  
+Néanmoins ton entraînement n'est pas **parfait** donc tu progresses plus **lentement** que tu ne le pourrais. Tu ne peux donc pas atteindre **certains paliers** comme la full planche sans **optimiser** un minimum ton entraînement et pour cela il te faut des compétences en **programmation**, en **périodisation** et en **planification**, choses que tu ne trouveras pas ou difficilement.  
 
-En utilisant les méthodes que tu vas trouver, généralement issues de la **musculation** comme le push/pull ou des programmes génériques tu vas te mettre à **stagner** passé un certain niveau. Mais avec cette formation tu vas pouvoir **rattraper** ta **courbe de progression maximale** grâce à un entraînement **adapté** au street workout. On verra cela plus en détail par la suite mais il est tout à fait possible d'avoir une progression **régulière** et **constante** à l'année avec un **bon entraînement**, les **plateaux de stagnation** c'est jute une **mauvaise gestion** des paramètres d’entraînement.
+En utilisant les méthodes que tu vas trouver, généralement issues de la **musculation** comme le push/pull ou des programmes génériques, tu vas te mettre à **stagner** passé un certain niveau. Mais avec cette formation tu vas pouvoir **rattraper** ta **courbe de progression maximale** grâce à un entraînement **adapté** au street workout. On verra cela plus en détail par la suite mais il est tout à fait possible d'avoir une progression **régulière** et **constante** à l'année avec un **bon entraînement**, les **plateaux de stagnation** c'est jute une **mauvaise gestion** des paramètres d’entraînement.
 
 \vspace{1cm}
 
@@ -113,7 +113,7 @@ En France, il y a **plusieurs athlètes** qui prennent de leur temps afin de nou
 
 \vspace{1cm} 
 
-Développer **l'aspect physique** c'est développer ses **qualités physiques**, ce qui est important à comprendre c'est de **quelles capacités physiques** on a besoin pour **progresser** en street workout. Il y a **5 qualités physiques** fondamentales classées en **2 catégories** selon leurs fonctions :
+Développer **l'aspect physique** c'est développer ses **qualités physiques**, ce qui est important à comprendre c'est desquelles on a besoin pour **progresser** en street workout. Il y a **5 qualités physiques** fondamentales classées en **2 catégories** selon leur fonction :
 
 #### Les qualités de production de mouvement
 
@@ -125,7 +125,7 @@ On a, dans cette première catégorie :
 - **L'endurance**
 - **La vitesse**
 
-Elles recrutent les **filières énergétiques** pour produire un mouvement. Ces qualités de production de mouvement interagissent entre elles pour former des **qualités physiques secondaires** : on a **l'endurance de force** issue de l'endurance et de la force, **l'explosivité** venant de la force et de la vitesse et **l'endurance de vitesse** résultant de la vitesse et de l'endurance. On obtient ce diagramme en forme de triangle :
+Elles recrutent les **filières énergétiques** pour produire un mouvement. Ces qualités de **production de mouvement** interagissent entre elles pour former des **qualités physiques secondaires** : on a **l'endurance de force** issue de l'endurance et de la force, **l'explosivité** venant de la force et de la vitesse et **l'endurance de vitesse** résultant de la vitesse et de l'endurance. On obtient ce diagramme en forme de triangle :
 
 ![Production de mouvement](/home/antonin/Documents/L1/Notes/SW/Images/Gemini_Generated_Image_er987fer987fer98.png){width=100%}
 
@@ -140,7 +140,7 @@ On a, dans cette deuxième catégorie :
 - **La mobilité**
 - **La coordination**
 
-Ces 2 qualités influencent **l'efficacité du mouvement** sans en être la **source première**. Elles permettent de **maximiser** l'expression des autres qualités et d'éviter les **limitations articulaires et motrices** tout en **influançant** comment seront utilisées les figures énergétiques plutôt que de dépendre d'elles. On a aussi des **qualités secondaires** pour cette catégorie, on peut représenter cela avec 2 cercles qui se chevauchent : 
+Ces 2 qualités influencent **l'efficacité du mouvement** sans en être la **source première**. Elles permettent de **maximiser** l'expression des autres qualités et d'éviter les **limitations articulaires et motrices** tout en **influençant** comment seront utilisées les **filières énergétiques** plutôt que de dépendre d'elles. On a aussi des **qualités secondaires** pour cette catégorie et on peut représenter cela avec 2 cercles qui se chevauchent : 
 
 ![Contrôle du mouvement](/home/antonin/Documents/L1/Notes/SW/Images/Gemini_Generated_Image_jfu5gijfu5gijfu5.png){width=100%}
 
@@ -162,13 +162,13 @@ On va donc regarder de **quelles qualités physiques** on a besoin en street wor
 
 - Du côté des **qualités modulatrices**, la **mobilité** joue un rôle non négligeable (les poignets pour la planche, les épaules pour le handstand, la fermeture pour les i-sits et mannas et les obliques pour le one-arm front) mais moins importants que dans d'autres sports. Il nous faut aussi un peu de **coordination** car elle reste nécessaire par exemple pour tout ce qui est freestyle. 
 
-- Du côté des **qualités productrices**, on va être sur la partie supérieure du triangle qu'on appelle les **qualités de force** mais ça va **évoluer avec le temps**. Au début de ta pratique tu vas presque exclusivement avoir besoin de **force maximale**, elle permet de débloquer des figures comme le front lever pour la **première fois**. En effet la différence entre le tuck front et le full front lever réside dans la **charge**, le full est "plus lourd", mais c'est le même **type d'effort** qui demande le même **type de qualités physique** et qui recrute la même **filière énergétique**. Mais une fois qu'on a **obtenu la figure**, on a plus besoin de **force maximale**, il n'y a pas "plus lourd" comme on est déjà dans la **position maximale**. Et pour la tenir **plus longtemps** ou **augmenter le nombre de répétitions** avec une même charge on va devoir travailler en **endurance de force** et sur les mouvements dynamique on va vouloir rajouter une **composante de vitesse** pour gagner en explosivité. 
+- Du côté des **qualités productrices**, on va être sur la partie supérieure du triangle qu'on appelle les **qualités de force** mais cela va **évoluer avec le temps**. Au début de ta pratique tu vas presque exclusivement avoir besoin de **force maximale**, elle permet de débloquer des figures comme le front lever pour la **première fois**. En effet la différence entre le tuck front et le full front lever réside dans la **charge**, le full est "plus lourd", mais c'est le même **type d'effort** qui demande le même **type de qualités physique** et qui recrute la même **filière énergétique**. Mais une fois qu'on a **obtenu la figure**, on a plus besoin de **force maximale**, il n'y a pas "plus lourd" comme on est déjà dans la **position maximale**. Et pour la tenir **plus longtemps** ou **augmenter le nombre de répétitions** avec une même charge on va devoir travailler en **endurance de force** et sur les mouvements dynamique on va vouloir rajouter une **composante de vitesse** pour gagner en explosivité. 
 
 \vspace{1cm}
 
-Après avoir atteint un certain niveau, à part en faisant des figures lestées, on ne travaille plus du tout **la force maximale**. Mais les 3 qualités physiques fondamentales responsables de la production de mouvement, la force, l'endurance et la vitesse, ne s’entraînent **pas du tout** de la **même manière**. Elles ne dépendent même pas de la même **filière énergétique** donc ce n'est pas du tout les même **méthodes d'entraînement** pour chacune. Ça n'a **rien à voir** d'entraîner **la force maximale** ou **l'endurance** de force ou **l'explosivité** car elles dépendent de qualités physiques **différentes**. Tu apprendras comment entraîner tout cela en détail dans la suite de la formation. 
+Après avoir atteint un certain niveau, à part en faisant des figures lestées, on ne travaille plus du tout **la force maximale**. Il faut noter que les 3 qualités physiques fondamentales responsables de la production de mouvement, la **force**, l'**endurance** et la **vitesse**, ne s’entraînent **pas du tout** de la **même manière**. Elles ne dépendent même pas de la même **filière énergétique** donc ce n'est pas du tout les même **méthodes d'entraînement** pour chacune. Ça n'a **rien à voir** d'entraîner **la force maximale** ou **l'endurance** de force ou **l'explosivité** car elles dépendent de qualités physiques **différentes**. Tu apprendras comment entraîner tout cela en détail dans la suite de la formation. 
 
-Pour l'instant, commençons par voir comment développer **la force maximale**. Il existe un **concept clé** à la base du **développement physique** tout entier régissant le développement de **toutes les qualités physiques** qu'elles soient modulatrices ou productrices :
+Pour l'instant, commençons par voir comment développer **la force maximale**. Il existe un **concept clé** à la base du **développement physique** tout entier, régissant le développement de **toutes les qualités physiques** qu'elles soient modulatrices ou productrices :
 
 \vspace{1cm}
 
@@ -192,7 +192,7 @@ Ces principes fondamentaux sont au nombre de **7** et leur application spécifiq
 
 En effet comme elles **régissent** tout entraînement physique tu en as forcément déjà entendu parlé mais ce n'est pas ces lois en elles mêmes qui nous intéressent mais comment elles **fonctionnent**, comment elles **interagissent entre elles** et comment elles **s'appliquent à l'entraînement**. 
 
-Il y a un livre extrêmement poussé sur le sujet, pour le domaine du powerlifting, du nom de **Scientific Principles of Strength Training** écrit par **Mike Israetel**. Cet homme est une superstar aux Etats-Unis dans le domaine de **l'entraînement de force** et son travail est mondialement reconnu. Ce livre a été coécrit par lui avec **James Hoffmann** et **Chad Wesley Smith**, deux hommes du même calibre que lui. 
+Il y a un livre extrêmement poussé sur le sujet, pour le domaine du powerlifting, du nom de **Scientific Principles of Strength Training** écrit par **Mike Israetel**. Cet homme est une superstar aux États-Unis dans le domaine de **l'entraînement de force** et son travail est mondialement reconnu. Il a coécrit ce livre avec **James Hoffmann** et **Chad Wesley Smith**, deux hommes du même calibre que lui. 
 
 La **théorie des 7 lois de la force** est donc une découverte sur les **interactions** et **l'interdépendance** que ces lois ont entre elles grâce au livre de Mike Israetel sur les principes scientifiques de l'entraînement de force. Commençons par redéfinir tous **les termes** qu'on va utiliser à partir de maintenant :  
 
@@ -245,16 +245,16 @@ Il y a un principe crucial reliant toutes ces lois entre elles, théorisé par *
 
 Avant de le définir il faut prendre en compte que **chaque loi repose sur la précédente**, il faut voir ça comme une **pyramide** représentant **l'efficacité de ton entraînement**. Elle est constituée de 7 étages correspondant aux 7 lois, chaque étage étant posé sur le précédent, si un étage est fragile et s'effondre, tout ceux au-dessus de lui s'effondreront également. Ainsi, si tu **n'appliques pas** une de ces lois alors c'est toutes celles **au dessus** qui ne seront pas non **plus appliquées**.
 
-En effet, tu ne peux pas faire de surcharge progressive sans la spécificité car tu ne saurais même pas sur quoi l'appliquer et la gestion de la fatigue est une conséquence de la surcharge progressive et le fonctionnement pour les autres lois est le même. Pour chaque loi, la loi **précédente** est une **condition**.
+En effet, tu ne peux pas faire de surcharge progressive sans la spécificité car tu ne saurais même pas sur quoi l'appliquer, la gestion de la fatigue est une conséquence de la surcharge progressive et le fonctionnement pour les autres lois suit le même principe. Pour chaque loi, la loi **précédente** est une **condition**.
 
-Mais il y a également une **dimension temporelle** a tout ça, si il y a une loi plus haute dans le graphique ça ne veut pas dire qu'elle est **moins importante** mais plutôt qu'elle doit être priorisée **après** les précédentes. Comme tu commences **tout en bas** tu n'as pas forcément besoin que le haut de la pyramide soit déjà construit et tu peux déjà t'attaquer à l’ascension des **premiers étages**, puis à construire les suivants au **fur et à mesure**. Au moment où tu commenceras à **stagner**, si tu appliques déjà correctement toutes les lois, il faudra que tu construises **l'étage suivant** pour continuer à progresser.
+Mais il y a également une **dimension temporelle** à tout ça, si il y a une loi plus haute dans le graphique ça ne veut pas dire qu'elle est **moins importante** mais plutôt qu'elle doit être priorisée **après** les précédentes. Comme tu commences **tout en bas** tu n'as pas forcément besoin que le haut de la pyramide soit déjà construit et tu peux déjà t'attaquer à l’ascension des **premiers étages**, puis à construire les suivants au **fur et à mesure**. Au moment où tu commenceras à **stagner**, si tu appliques déjà correctement toutes les lois, il faudra que tu construises **l'étage suivant** pour continuer à progresser.
 
 \vspace{1cm}
 
 Donc, en résumé, on a :
 
-- **Le principe de condition :** Pour que ton programme applique correctement l'une des 7 lois de la force il est essentiel qu'il applique déjà correctement la loi précédente.
-- **Le principe de conséquences :** Si ton programme applique et respecte un nombre de loi fixe mais que tu n'arrives plus à progresser, il est nécessaire que tu appliques la ou les lois suivantes.
+- **Le principe de condition :** Pour que ton programme **applique correctement** l'une des 7 lois de la force il est essentiel qu'il applique déjà correctement la **loi précédente**.
+- **Le principe de conséquences :** Si ton programme **applique** et **respecte** un nombre de loi fixe mais que tu n'arrives plus à **progresser**, il est nécessaire que tu appliques **la ou les lois suivantes**.
 
 \vspace{1cm}
 
@@ -280,7 +280,7 @@ Les **différences individuelles** ont une influence **croissante** avec **l’e
 
 La nuance avec les différences individuelles est qu'elles **évoluent** avec **l'expérience**, pas toutes mais celles liées à **l'entraînement** (la capacité à encaisser un gros volume ou une grosse intensité, ta capacité de récupération à un type spécifique d'effort, etc). Plus tu **progresses**, plus ton corps **s'adapte** et donc forcément plus tes **possibilités** et tes **besoins d'entraînement** **évoluent**. 
 
-Ainsi, en plus de prendre en compte de nouvelles lois au fur et à mesure que tu progresses tu dois t'assurer que tu appliques toujours **correctement** les précédentes de façon **adapté à toi à l'instant t** (façon qui ne sera pas adapté ni à **quelqu'un d'autre** ni à toi même à un **autre moment**). En général on débute tous avec une **situation similaire** et donc une façon de s'entraîner **similaire** mais plus on progresse plus notre **état physique diverge** à cause de nos différences individuelles. Et donc, plus on **progresse** plus nos différences individuelles ont une **influence importante** dans notre entraînement.
+Ainsi, en plus de prendre en compte de nouvelles lois au fur et à mesure que tu progresses tu dois t'assurer que tu appliques toujours **correctement** les lois précédentes, de façon **adapté à toi, à l'instant t** (façon qui ne sera pas adaptée ni à **quelqu'un d'autre**, ni à toi même à un **autre moment**). En général on débute tous avec une **situation similaire** et donc une façon de s'entraîner **similaire** mais plus on progresse plus notre **état physique diverge** à cause de nos différences individuelles. Et donc, plus on **progresse** plus nos différences individuelles ont une **influence importante** dans notre entraînement.
 
 \vspace{1cm}
 
@@ -298,8 +298,8 @@ On va maintenant voir quelques cas pratiques **récurrents** afin de comprendre 
 
 Il y a une **énorme différence de complexité** entre les 3 premières lois et les 3 dernières. On va donc les séparer en **2 groupes** :
 
-- **Les "BIG 3" :** avec la spécificité, la surcharge progressive et la gestion de la fatigue. Ce sont les 3 lois principales de l'entraînement qu'on a besoin d'appliquer très tôt dans sa pratique pour progresser. Elles sont **indispensables** à tout pratiquant et servent de **condition** pour les 3 lois suivantes, plus avancées, qui interviennent plus tard dans la pratique.
-- **Les "Advanced 3" :** avec la stimulation récupération/adaptation, les variations et la potentialisation des phases. 
+- **Les "BIG 3" :** avec la **spécificité**, la **surcharge progressive** et la **gestion de la fatigue**. Ce sont les 3 lois **principales** de l'entraînement, qu'on a donc besoin d'appliquer très tôt dans sa pratique pour progresser. Elles sont **indispensables** à tout pratiquant et servent de **condition** pour les 3 lois suivantes, plus **avancées**, qui interviennent plus tard dans la pratique.
+- **Les "ADVANCED 3" :** avec la **stimulation récupération/adaptation**, les **variations** et la **potentialisation des phases**. 
 
 Les 2 n'ont rien à voir en terme de **complexité**, les Big 3 sont très **simples à comprendre**, leur application est **instinctive**  et tout le monde en parle. 
 
@@ -311,9 +311,9 @@ On va voir un **scénario classique** de la progression d'un athlète de street 
 
 \vspace{1cm}
 
-Donc maintenant on va voir **pourquoi** ça nous arrive à tous et surtout, **comment y remédier**. Alors évidemment il y a des raisons **d'état d'esprit**, notamment avec **Instagram** qui bousille notre conception de ce qui est normal ou non. Comme on voit que des **dingueries** on a l'impression d'être une merde et on se sent tout seul parceque tout le monde ne poste que ses **bonnes perf** et donc tu déprimes.
+Donc maintenant on va voir **pourquoi** ça nous arrive à tous et surtout, **comment y remédier**. Alors évidemment il y a des raisons **d'état d'esprit**, notamment avec **Instagram** qui bousille notre conception de ce qui est normal ou non. Comme on voit que des **dingueries** on a l'impression d'être une merde et on se sent tout seul parceque tout le monde ne poste que ses **bonnes perf** et donc on déprime.
 
-Le moment où tu commences à **stagner**, à peu prés au bout d'un an de street, arrive à un stade où ton besoin **d'individualisation** se fait sentir. Tu n'appliques plus les Big 3 de manière suffisamment **individualisée** et donc elles ne sont plus aussi **efficaces** qu'au début et en plus tu commences à avoir le besoin d'appliquer les **Advanced 3**. Les méthodes classiques comme le push/pull ou les programmes planche/front qu'on trouve sur Youtube t'ont permis à arriver à un niveau **décent** en utilisant seulement les 3 premières lois mais ça ne suffit plus et plus tu avances moins tu progresses. Et c'est à ce stade que les 3 dernières lois deviennent **essentielles**, et c'est là que ça se complique car elles sont bien **moins connues** car réservées aux plus avancés (donc rarement connues des youtubers). Cette stagnation soudaine est un problème **impossible à résoudre** pour un débutant qui vient tout juste d'arriver aux portes du niveau intermédiaire parce qu'il n'a pas les **connaissances** pour comprendre ce qu'il lui arrive. On appellera ces **stagnation** qui arrive quasiment à tout le monde vers une année de steet, le **palier fatal**.  
+Le moment où tu commences à **stagner**, à peu près au bout d'un an de street, arrive à un stade où ton besoin **d'individualisation** se fait sentir. Tu n'appliques plus les **BIG 3** de manière suffisamment **individualisée** et donc elles ne sont plus aussi **efficaces** qu'au début surtout que le besoin d'appliquer les **Advanced 3** commence à se faire ressentir. Les méthodes classiques comme le push/pull ou les programmes planche/front qu'on trouve sur YouTube t'ont permis à arriver à un niveau **décent** en utilisant seulement les 3 premières lois mais ça ne suffit plus et plus tu avances moins tu progresses. C'est à ce stade que les 3 dernières lois deviennent **essentielles**, et c'est là que ça se complique car elles sont bien **moins connues** car réservées aux plus avancés (donc rarement connues des youtubeurs). Cette stagnation soudaine est un problème **impossible à résoudre** pour un débutant qui vient tout juste d'arriver aux portes du niveau intermédiaire parce qu'il n'a pas les **connaissances** pour comprendre ce qu'il lui arrive. On appellera ces **stagnations** qui arrive quasiment à tout le monde vers une année de street, le **palier fatal**.  
 
 \vspace{1cm}
 
@@ -321,9 +321,9 @@ Le moment où tu commences à **stagner**, à peu prés au bout d'un an de stree
 
 \vspace{1cm}
 
-Le **palier fatal** correspond à la **frontière** entre le **niveau débutant** et le **niveau intermédiaire**, ce moment où la complexité de l'entraînement **augmente** brusquement et où l'on a besoin d'appliquer les Advanced 3 se fait ressentir. C'est justement l'application de ces advanced 3 qui va faire la **différence** entre un **programme classique** (en général issu de la musculation) et **l'Ultime Périodisation**. Cette méthode va te permettre de **casser** le **palier fatal** et de retrouver une **courbe de progression normale** grâce à l'application des 6 lois de l'entraînement physique pour développer la **force maximale** pour les figures de street.
+Le **palier fatal** correspond à la **frontière** entre le **niveau débutant** et le **niveau intermédiaire**, ce moment où la complexité de l'entraînement **augmente** brusquement et où l'on commence à avoir besoin d'appliquer les Advanced 3. C'est justement l'application de ces trois lois qui va faire la **différence** entre un **programme classique** (en général issu de la musculation) et **l'Ultime Périodisation**. Cette méthode va te permettre de **casser** le **palier fatal** et de retrouver une **courbe de progression normale** grâce à l'application des 6 lois de l'entraînement physique afin de développer ta **force maximale** pour les figures de street.
 
-Attention le palier fatal **n'arrive pas** au **même niveau** pour tout le monde mais à peu près au même moment car il dépend des différences individuelles. Notez que ce phénomène arrive à **tous les pratiquants** n'appliquant pas les **advanced 3**.
+Attention le palier fatal **n'arrive pas** au **même niveau** pour tout le monde mais à peu près au même moment car il dépend des différences individuelles. Notez que ce phénomène arrive à **tous les pratiquants** n'appliquant pas les **Advanced 3**.
 
 \vspace{1cm}
 
@@ -331,11 +331,11 @@ Attention le palier fatal **n'arrive pas** au **même niveau** pour tout le mond
 
 \vspace{1cm}
 
-En street workout comme on utilise que notre **poids du corps**, une **performance absolue** est juste une **figure** en elle même (la full planche est une performance absolue). Maintenant si on considère la force que chacun doit produire pour réaliser une figure et donc la **difficulté factuelle** que chacun aura pour y arriver et qu'on détermine tout ça comme étant la **performance relative** alors on peut considérer que le **palier fatal** arrive à la **même performance** relative pour tout le monde.
+En street workout comme on utilise que notre **poids du corps**, une **performance absolue** est juste une **figure** en elle même (la full planche est une performance absolue). Maintenant si on considère la force que chacun doit produire pour réaliser une figure et donc la **difficulté factuelle** que chacun aura pour y arriver et qu'on détermine tout ça comme étant la **performance relative** alors on peut considérer que le **palier fatal** arrive à la **même performance** **relative** pour tout le monde.
 
-*Si on a une personne d'1m50 pour 50kg et une autre de 1m90 pour 85kg et qu'elles font toutes les 2 la full planche alors elles auront la même performance absolue mais absolument pas la même puissance relative. La 2ème personne a dû s’entraîner beaucoup plus pour arriver au même niveau de performance absolue que la 1ère. Maintenant mettons les au même niveau de performance relative, si avec ce niveau la 1ère personne tiens une full planche la 2ème ne tiendra qu'au mieux une tuck planche.* 
+Si on a une personne d'1m50 pour 50kg (David) et une autre de 1m90 pour 85kg (Goliath) et qu'elles font toutes les 2 la full planche alors elles auront la même performance absolue mais absolument pas la même puissance relative. Goliath a dû s’entraîner beaucoup plus pour arriver au même niveau de performance absolue que David. Maintenant mettons les au même niveau de performance relative, si avec ce niveau la David tiens une full planche Goliath ne tiendra qu'au mieux une tuck planche.
 
-C'est une version simplifiée, en réalité il n'y a pas que la taille et le poids à prendre en compte mais également, entre autres, la longueur des segments, le type de fibres, les insertions, le profil hormonal et la capacité de récupération.
+C'est une version simplifiée, en réalité il n'y a pas que la **taille** et le **poids** à prendre en compte mais également, entre autres, la **longueur des segments**, le **type de fibres**, les **insertions**, le **profil hormonal** et la **capacité de récupération**.
 
 \vspace{1cm}
 
@@ -347,7 +347,7 @@ On va maintenant détailler 3 profils type du moins doué au plus doué :
 
 \vspace{1cm}
 
-- Le profil le moins doué est Le galérien, voici ses caractéristiques :
+- Le profil le moins doué est **Le galérien**, voici ses caractéristiques :
 
 \vspace{1cm}
 
@@ -361,7 +361,7 @@ On va maintenant détailler 3 profils type du moins doué au plus doué :
 
 \vspace{1cm}
 
-- Le profil Ordinaire :
+- Le profil **Ordinaire** :
 
 \vspace{1cm}
 
@@ -374,7 +374,7 @@ On va maintenant détailler 3 profils type du moins doué au plus doué :
 
 \vspace{1cm}
 
-- Et enfin L’Élu :
+- Et enfin **L’Élu** :
 
 \vspace{1cm}
 
@@ -410,7 +410,7 @@ Débloquer ses figures ça signifie basculer vers **l'endurance de force** et do
 
 Et donc arrivé à ce stade on peut se permettre de **s'entraîner plus**, pendant **plus longtemps** et **plus souvent** car plus on progresse plus **l'intensité diminue**. On va passer en intensité **sous maximale** et donc **l'impact nerveux diminue** et la **récupération** nécessaire aussi car on met beaucoup moins de temps à récupérer **musculairement** que **nerveusement**. Pour la force maximale il faut travailler en **qualité** avec une **intensité maximale** et une **récupération maximale**. Afin d'avoir les meilleurs gains en force maximale, il faut en faire peu mais bien, à l'inverse en endurance de force, il faut travailler en **quantité** avec une **intensité sous maximale** et donc on a besoin de moins de récupération en terme de quantité. 
 
-L'application des Adv 3 de l'endurance de force va donc être très bien plus **bourrine** que celle des des adv 3 de la force qui elle va être bien plus **minutieuse**.
+L'application des Adv 3 de l'endurance de force va donc être bien plus **bourrine** que celle des des adv 3 de la force qui elle va être bien plus **minutieuse**.
 
 \vspace{1cm}
 
@@ -1049,7 +1049,7 @@ Et c'est là dessus que va agir cette **leçon**, on va voir la **loi de progres
 
 \vspace{1cm}
 
-## A] La loi de progression universelle
+## Chapitre 1 : La loi de progression universelle
 
 ### 1) Définition
 
