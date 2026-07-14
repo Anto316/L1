@@ -995,9 +995,102 @@ Il n'y a pas une approche **meilleure** que l'autre et ça dépend surtout de **
 
 \vspace{1cm} \
 
-Une des sous-application consiste à faire des **cycles** beaucoup **trop longs**, ce qui revient à ne **pas faire de cycle** et à **rester** constamment sur le **même type d'effort**. Ce qui va poser problème à cause de **l'accumulation** que ton corps va développer sur ce **type d'effort** et de la **désadaptation** des **qualités physiques** que tu n'entraînes pas. Par exemple, si tu n'entraînes que ta force maximale isométrique, il y a un moment où tu ne vas plus réussir à progresser dessus et c'est pour ça qu'il faut jongler par exemple avec la force maximale concentrique. Par contre, il faut parler d'un problème, celui de ne pas entraîner la capacité de tes tissus conjonctifs à encaisser une grosse charge d'entraînement, donc le fait de délaisser le travail de renforcement. Quand tu t'entraînes, tu vas travailler spécifiquement les figures et ce que tu appelles renforcement, c'est juste des exercices accessoires avec une variante de simplification, les fameuses tuck planche push up ou hspu en fin de séance. Avec des entraînements comme ça, tu devient meilleur techniquement, en plus d'améliorer la capacité de ton système nerveux à produire plus de force, mais tu négliges totalement la capacité de tes tissus conjonctifs à absorber cette force. On se retrouve alors avec une grosse différence entre ce que le système nerveux peut produire et ce que les tissus conjonctifs peuvent encaisser et c'est là que les blessures interviennent. Tout ça arrive sans vraiment que tu t'en rendes compte, car il n'y avait aucun signe que tes tendons allait lâcher, l'inflammation se produit petit à petit, sur plusieurs semaines, en accumulant les couches de stress sans avoir la récupération suffisante puis causant une tendinite. Il s'agit d'une mauvaise gestion de la charge d'entraînement sur plusieurs semaines donc ne pas entraîner de phase d'entraînement pour tes tissus conjonctifs c'est une sous-application de la loi de potentialisation des phases et on verra dans l'ultime périodisation quelle phase et quel agencement on va utiliser pour progresser dans les figures de force sans se blesser.
+Une des sous-application consiste à faire des **cycles** beaucoup **trop longs**, ce qui revient à ne **pas faire de cycle** et à **rester** constamment sur le **même type d'effort**. Ce qui va poser problème à cause de **l'accumulation** que ton corps va développer sur ce **type d'effort** et de la **désadaptation** des **qualités physiques** que tu n'entraînes pas. 
+
+Par exemple, si tu n'entraînes que ta **force maximale isométrique**, il y a un moment où tu ne vas plus réussir à **progresser** dessus et c'est pour ça qu'il faut jongler par exemple avec la **force maximale concentrique**. 
+
+Par contre, il faut parler d'un **problème**, celui de ne pas **entraîner** la capacité de tes **tissus conjonctifs** à **encaisser** une **grosse charge d'entraînement**, donc le fait de délaisser le **travail de renforcement**. Quand tu t'entraînes, tu vas travailler **spécifiquement** les **figures** et ce que tu appelles **renforcement**, c'est juste des **exercices accessoires** avec une **variante de simplification**, les fameuses **tuck planche push up** ou **hspu** en fin de séance. Avec des entraînements comme ça, tu devient **meilleur techniquement**, en plus d'améliorer la **capacité** de ton **système nerveux** à produire plus de **force**, mais tu négliges totalement la **capacité** de tes **tissus conjonctifs** à **absorber** cette **force**. On se retrouve alors avec une grosse **différence** entre ce que le **système nerveux** peut **produire** et ce que les **tissus conjonctifs** peuvent **encaisser** et c'est là que les **blessures** interviennent. 
+
+Tout ça arrive sans vraiment que tu t'en rendes compte, car il n'y avait aucun **signe** que tes **tendons** allait lâcher, **l'inflammation** se produit **petit à petit**, sur plusieurs semaines, en accumulant les **couches de stress** sans avoir la **récupération** suffisante puis causant une **tendinite**. Il s'agit d'une **mauvaise gestion** de la **charge d'entraînement** sur plusieurs semaines. Ne pas avoir de **phase d'entraînement** pour tes **tissus conjonctifs** c'est une **sous-application** de la loi de **potentialisation des phases** et on verra dans l'ultime périodisation quelle phase et quel agencement on va utiliser pour progresser dans les figures de force sans se blesser.
 
 \vspace{1cm}
+
+#### 2) Sur-application
+
+\vspace{1cm} \
+
+Au niveau des cas de **sur-application** de la potentialisation des phases, on en a **plusieurs** :
+
+- Le premier c'est totalement **l'inverse**, il s'agit du fait de **sous-appliquer la loi des SRA**, donc de faire **tous** les **types d'effort** dans un **même entraînement**. 
+
+  Par exemple de faire des séries à 90% de ton RM, des séries à 80% de ton RM, des séries à 60% de ton RM. Et forcément, si tu veux progresser sur chaque type d'effort, il y a un volume minimal à respecter pour chaque et généralement, 2 séries de 5 reps c'est pas assez pour gagner en force, pareil 3 séries de 10 reps c'est pas assez pour gagner en hypertrophie. 
+
+  Donc pour faire le **minimum** dans **chaque type d'effort** tu vas te retrouver avec des **séances à rallonge** avec **beaucoup** trop de **volume total** et parfois même sur un **seul** et même **mouvement**, ce qui est totalement **contre-productif** puisque tu vas terminer **l'entraînement** avec une **quantité phénoménale** de **fatigue** et donc tu n'auras jamais **récupéré** pour l'entraînement suivant, ce qui réduit ta **fréquence d'entraînement** et même ton **volume** **hebdomadaire** est réduit parce que tu t'entraînes **moins souvent** et donc tu **progresses moins**. Et quand bien même tu arrives à t'en sortir avec le **volume minimum** sur **chaque type d'effort** pour **chaque figure** sans mourir et que tu arrives à **t'entraîner suffisamment**, on en arrive au **deuxième problème** majeur de ce genre de séance multi-effort, ça crée des **interférences**. Tu as une **capacité d'adaptation** et de **récupération limitée** et plus tu entraînes de **types d'effort différents**, moins tu vas avoir **d'énergie disponible** pour **récupérer** sur ce que tu veux vraiment prioriser. 
+
+- Une autre sur-application de cette loi est le fait de **changer de phase** trop **régulièrement**, ce qui enfreint le **principe d'adaptation directe**. En gros, tu n'as même pas eu le temps de **progresser** sur une **qualité physique** que tu es déjà en train **d'entraîner** autre chose donc au final, tu **n'optimises pas** du tout ta **progression**.
+
+- Une dernière sur-application de la potentialisation des phases, c'est le fait de **créer des phases d'entraînement spécifiques à une seule figure**. 
+
+  Donc par exemple, un cycle d'entraînement où tu focus la **planche** suivi d'un cycle d'entraînement où tu focus le **front lever**. 
+
+  Ça enfreint totalement le **principe de séquence** de la potentialisation des phases qui consiste à faire en sorte que **chaque phase** d'entraînement bénéficie de ce qui a été **construit** dans la **précédente** pour **maximiser** les **progrès** sur le **long terme**. Sauf que le problème est que la **planche** et le **front lever** sont des figures totalement **différentes** qui n'ont aucun **transfert** l'une envers l'autre. 
+
+  L'objectif derrière cette idée de **séparer les phases de travail** entre la planche et le front lever, ce serait d'optimiser les **progrès** de **l'un** en ne faisant que ça, puisqu'il est effectivement plus **rapide** de progresser sur **un seul** **objectif** à la fois, puis de **répéter** ce processus sur **l'autre**, le tout en comptant sur le fait qu'il est plus **simple** de **conserver** et de **récupérer** des **gains** déjà acquis que d'en acquérir de **nouveaux**. Le problème, c'est qu'en faisant ça à **long terme**, tu n'as aucune **continuité** dans le travail des figures, tu es constamment en train de te **réadapter** au travail de la figure en cours et tu ne peux pas **bénéficier directement** de tous les **gains** que tu avais fait au **cycle précédent**. Et au final tu ne travailles le front lever que **6 mois** dans l'année, la planche que **6 mois** également donc tu as une **progression en yo-yo** avec simplement une **fausse impression** de **vitesse** les moments où tu focus l'une des deux, mais surtout avec un besoin constant de **récupérer** tes **progrès** sur la **figure** que tu avais **arrêté** de travailler.
+
+  Tu n'es jamais à ton **prime** et constamment **nostalgique** des **perfs** que tu avais il y a quelques mois. Si tu cherches à **progresser** en **planche** et en **front lever** et surtout que tu veux être à ton **prime** sur les deux, la dernière chose que tu veux faire c'est des **cycles** de **focus** sur **l'un** puis sur **l'autre**, ça casse tout simplement ta **régularité** et tu ne peux rien **construire** sur le **long terme**. 
+
+  Alors, en étant **débutant** ou à **court terme**, sur 3-4 mois tu ne verras pas forcément la **différence**, mais à **long terme**, tu obtiendras de bien **meilleurs résultats** en étant **constant** sur les **deux figures** en même temps plutôt qu'en alternant entre l'une et l'autre. La seule **exception**, c'est si tu as un **retard** à rattraper et que ça te tient à cœur d'avoir un **niveau équivalent** sur les deux. Là oui tu peux **sacrifier tes progrès** sur la **figure** la plus **avancée** pour vite **rattraper ton retard** avec l'autre. Mais du coup tu vas arrêter de **progresser** sur la **figure** qui était plus **avancée** par rapport à si tu étais resté **constant** sur les **deux**, où bien que ton **écart** serait resté le **même**, tu aurais plus **progressé** sur les deux **au total**. 
+
+\vspace{1cm}
+
+# Leçon 3 - Loi de Progression Universelle
+
+## Introduction
+
+\vspace{1cm}
+
+On a vu précédemment que :
+
+- Les **6 lois de la force** dépendent de tes **différences individuelles**.
+- Plus tu **progresses**, plus tu dois appliquer un **nombre de loi conséquent**.
+- Si tu n'appliques pas la **totalité des lois**, tu vas inévitablement finir par **stagner**. 
+
+Et c'est là dessus que va agir cette **leçon**, on va voir la **loi de progression universelle** qui explique le **fonctionnement** des **7 lois de l'entraînement physique** ainsi que les **phénomènes** qui vont t'amener à **stagner** et comment les **reconnaître**. On verra aussi quelles lois sont **obligatoires** à **appliquer** selon ton **niveau**, une petite **roadmap** de la **progression** d'un **athlète ordinaire** et on définira les **différents niveaux** en street workout. 
+
+\vspace{1cm}
+
+## A] La loi de progression universelle
+
+### 1) Définition
+
+\vspace{1cm}
+
+La **loi de progression universelle** peut être définie par : *"Tous les pratiquants évoluent sur une échelle de phénomènes physiologiques commune mais chacun à une vitesse différente, et avec des performances absolues différentes."* 
+
+Donc, cette loi explique :
+
+- sur quoi est **basée** la théorie des 7 lois de l'entraînement physique.
+- quels sont les **phénomènes physiologiques** qui amènent ces lois.
+- pourquoi elles agissent dans cet **ordre** là.
+
+Chacun évolue à son **propre rythme** (selon sa capacité d'adaptation et de récupération), mais on retrouve toujours la même **trame de progression** chez tous les athlètes, et c'est lié aux **lois de la force**. Ce qui veut dire que peu importe tes **prédispositions**, tu passes par les **mêmes étapes** que les autres, simplement à des **niveaux de performances absolues différents**. Le **palier fatal** est l'un de ces phénomènes, il est même le phénomène central entre les BIG3 et les ADV3. 
+
+Chaque **phénomène** est la cause d'une **stagnation**. À **chaque loi**, un **phénomène** arrive et cause une **stagnation** si tu n'appliques pas la **loi suivante** et ces **phénomènes** sont **communs** à tous les pratiquants. On va donc voir quels sont les **phénomènes** et comment les **reconnaître**. 
+
+\vspace{1cm}
+
+### 2) Fonctionnement
+
+\vspace{1cm}
+
+Comment **fonctionne** cette loi ? 
+
+On peut la représenter avec deux jauges :
+
+- La **première** est celle des **phénomènes physiologique**. Il y a différents **phénomènes physiologiques** dans lesquels tu vas **évoluer** petit à petit et que tu vas **passer** les uns après les autres, toujours dans le **même ordre**, mais chacun avec une **vitesse différente**.
+- La **deuxième** représente tes **performances absolues**, donc les **figures** que tu es capable de réaliser. Et c'est également dans l'ordre, tu fais la tuck planche, l'advanced tuck planche,...
+
+Ce sont des **jauges** qui sont **communes** à tous les **pratiquants** mais chacun possède une **vitesse d'évolution individuelle**. 
+
+L'évolution entre ces deux jauges est inversement proportionnelle, c'est à dire que évoluer vite dans l'échelle des phénomènes fait que tu vas être bloqué très tôt dans ta pratique car tu vas te retrouver confronté à des phénomènes de stagnation et être contraint d'utiliser les prochaines lois de la force plus tôt (galérien). Et inversement, si tu évolues lentement dans la jauge de tes phénomènes physiologiques alors tu auras peu de contraintes dans tes entraînements et pouvoir progresser énormément sans te prendre la tête, en appliquant que les BIG3 (élu). Les profils ordinaires ont eux une évolution assez moyenne dans les deux.
+
+
+
+
+
+
+
+
 
 
 
