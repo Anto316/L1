@@ -1082,9 +1082,31 @@ On peut la représenter avec deux jauges :
 
 Ce sont des **jauges** qui sont **communes** à tous les **pratiquants** mais chacun possède une **vitesse d'évolution individuelle**. 
 
-L'évolution entre ces deux jauges est inversement proportionnelle, c'est à dire que évoluer vite dans l'échelle des phénomènes fait que tu vas être bloqué très tôt dans ta pratique car tu vas te retrouver confronté à des phénomènes de stagnation et être contraint d'utiliser les prochaines lois de la force plus tôt (galérien). Et inversement, si tu évolues lentement dans la jauge de tes phénomènes physiologiques alors tu auras peu de contraintes dans tes entraînements et pouvoir progresser énormément sans te prendre la tête, en appliquant que les BIG3 (élu). Les profils ordinaires ont eux une évolution assez moyenne dans les deux.
+L'évolution entre ces deux jauges est **inversement proportionnelle**, c'est à dire que **évoluer vite** dans l'échelle des phénomènes fait que tu vas être **bloqué** très **tôt** dans ta pratique car tu vas te retrouver confronté à des **phénomènes de stagnation** et être contraint d'utiliser les **prochaines lois** de la force plus tôt (galérien). Et inversement, si tu évolues **lentement** dans la jauge de tes **phénomènes physiologiques** alors tu auras peu de **contraintes** dans tes **entraînements** et pouvoir **progresser énormément** sans te prendre la tête, en appliquant que les BIG3 (élu). Les profils **ordinaires** ont eux une évolution assez **moyenne** dans les deux.
 
+\vspace{1cm}
 
+## Chapitre 2 : Progression d'un athlète ordinaire
+
+### Niveau 1
+
+\vspace{1cm}
+
+Quand tu débute, tu es au **niveau 1** (candidat hunter), tu es facilement reconnaissable avec tes mains mignonnes et sans cales, des élastiques neuf et te tétanisant quand tu vois un muscle up. 
+
+Ce candidat hunter a besoin d'appliquer les **2 premières lois** pour progresser, car la spécificité seule ne suffit pas. Il va donc progresser jusqu'au **premier phénomène** qui est que ton **besoin de surcharge progressive** va **dépasser** la **progression** de ton **MRV**. Quand tu es **débutant**, ton **MRV** (le volume maximal que tu peux supporter) va augmenter très **vite**, puisque ton corps va s'adapter. Au bout de **deux à trois semaines** tu peux déjà **doubler voire tripler** ton **volume d'entraînement initial**. Ton **besoin de surcharge** est également très **faible**, tu vas obtenir beaucoup **d'adaptation** très **facilement**. Sauf qu'arrive à un moment, au bout de **plusieurs mois**, où ton **MRV** ne **progresses plus suffisamment vite** pour compenser le **besoin de surcharge** et donc tu vas, pour la première fois **dépasser ton MRV**, et c'est là que tu arrives donc au **plafond** du **niveau 1** où tu vas avoir besoin d'appliquer le **principe de gestion de la fatigue**. 
+
+Ce moment arrive à peu près au niveau d'un muscle up, d'un l-sit, d'un handstand, d'un elbow lever et d'un tuck front lever. 
+
+\vspace{1cm}
+
+### Niveau 2
+
+\vspace{1cm}
+
+Tu es maintenant au **niveau 2**, tu es un hunter. Le hunter à fini l'extension street workout de YouTube, il a appliqué les tutos et a complété son inventaire avec toutes les figures élémentaires, sa mamie raconter qu'il fait des acrobatie et il s'est renommé "sw" sur insta. 
+
+Tu vas donc maintenant **appliquer** les **BIG3** et progresser jusqu'au **phénomène n°2**, le palier fatal. Ce phénomène arrive quand ta fenêtre de surcompensation devient inférieur à 5 jours, c'est à dire que le moment où tes courbes SRA se rétrécissent et il arrive un moment où toute la sur-compensation ne dure plus que 5 jours, c'est à dire que ton pic de sur-compensation ne dure qu'un à deux jours et qu'il faut s'entraîner à ce moment. 
 
 
 
