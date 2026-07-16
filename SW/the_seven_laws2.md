@@ -865,7 +865,7 @@ Les **variations**, c'est avec les **courbes SRA** la loi qui va le plus **servi
 
 \vspace{1cm}
 
-### A) Fonctionnement
+### A) Fonctionnement et définition
 
 \vspace{1cm}
 
@@ -1106,15 +1106,83 @@ Ce moment arrive à peu près au niveau d'un muscle up, d'un l-sit, d'un handsta
 
 Tu es maintenant au **niveau 2**, tu es un hunter. Le hunter à fini l'extension street workout de YouTube, il a appliqué les tutos et a complété son inventaire avec toutes les figures élémentaires, sa mamie raconter qu'il fait des acrobatie et il s'est renommé "sw" sur insta. 
 
-Tu vas donc maintenant **appliquer** les **BIG3** et progresser jusqu'au **phénomène n°2**, le palier fatal. Ce phénomène arrive quand ta fenêtre de surcompensation devient inférieur à 5 jours, c'est à dire que le moment où tes courbes SRA se rétrécissent et il arrive un moment où toute la sur-compensation ne dure plus que 5 jours, c'est à dire que ton pic de sur-compensation ne dure qu'un à deux jours et qu'il faut s'entraîner à ce moment. 
+Tu vas donc maintenant **appliquer** les **BIG3** et progresser jusqu'au **phénomène n°2**, le palier fatal. Ce phénomène arrive quand ta **fenêtre de surcompensation** devient **inférieure à 5 jours**, c'est à dire que le moment où tes **courbes SRA** se **rétrécissent** et il arrive un moment où toute la **sur-compensation** ne dure plus que **5 jours**, c'est à dire que ton **pic de sur-compensation** ne dure **qu'un à deux jours** et qu'il faut s'entraîner à ce moment. Maintenant si tu le loupes **d'un jour** tu n'en tires plus **d'adaptation** ce qui cause donc une **stagnation** (le **palier fatal**). Passer le palier fatal fait arriver dans un **nouveau monde**, ça n'a plus rien à voir en terme **d'entraînement** comparé à avant et il te faut une méthode **adaptée au street workout**. Pour faire l'analogie, on passe du **monde ordinaire** au **monde du nen**.
 
+Pour un profil ordinaire, cela arrive aux alentours de l'advanced tuck planche, du front lever bad form, des handstand push up, du back lever et d'une semi planche bad form. Et on a obligatoirement besoin de commencer à appliquer la **loi de Stimulation Récupération Adaptation**.
 
+\vspace{1cm}
 
+### Niveau 3
 
+\vspace{1cm}
 
+Tu arrives maintenant au **niveau 3** et tu es désormais un hunter en développement, tu développes tes **capacités physiques, techniques et mentales** pour débloquer des figures comme la full planche, le front lever touch, le front lever pull up... On peut le dire : le street c'est ta passion. Tu mets plus d'énergie dans ta programmation que dans tes études, et ça paye ! Même si tu es encore loin des plus aguerris, tes progrès en planche et en front son remarquables.
 
+En appliquant cette quatrième loi, tu vas **progresser** jusqu'au **troisième phénomène** qui est que la **résistance à l'adaptation** commence à intervenir et est **supérieure** à la **dissipation de la fatigue**. C'est à dire que jusqu'à maintenant tu pouvais t'en sortir en faisant des **deload** mais ça ne suffit plus car il y a de la **résistance à l'adaptation** sur les **mouvements** que tu entraînes et les **systèmes** que tu travailles et donc la conséquence va être que tu as besoin d'appliquer le **principe de Variations**. En général ce phénomène intervient aux alentours d'une straddle planche bad form et d'un one leg touch, one leg pull up bad form. 
 
+En appliquant la **loi de variation** on arrive à **dissiper la résistance à l'adaptation**, et on progresse jusqu'à se retrouver **bloqué** au **phénomène 4** qui est que la **somme du minimum de volume** que tu dois faire par **type d'effort** devient **supérieur** à ton **MRV global**. Jusqu'à maintenant, ton **MEV** et ton **MRV progressaient** petit à petit mais à un moment ton **MEV** va progresser **plus** que ton **MRV** et tu vas être obligé de faire **plus de volume par type d'effort** pour progresser dessus et en combinant **tous les types d'effort** en même temps ça va **dépasser ton MRV** global. Jusque là comme tu n'avais pas un très bon niveau dans tous les types d'effort, tu pouvais faire un petit peu tout en même temps mais arrive un moment où ce n'est plus possible et où tu dois te **focus** un petit peu plus sur **chaque type d'effort**. C'est donc le moment d'appliquer la **loi de potentialisation des phases**. 
 
+Et en appliquant les **ADV 3** tu vas progresser jusqu'au **cinquième phénomène**, lorsque tu vas avoir atteint la **force maximale pour les figures principales**. Donc globalement, full planche, full push up, full press, front pull up, front touch et tu arrives au plafond du niveau 3. 
 
+On a donc besoin d'entraîner **l'endurance de force**.
 
+\vspace{1cm}
 
+### Niveau 4
+
+\vspace{1cm}
+
+En atteignant ces performances, tu deviens un hunter confirmé, la première chose qu'il fait en arrivant au parc, c'est poser son trépieds. Il a un très bon niveau partout et fait l'ancien en disant "le street c'était mieux avant", il regarde des compilations avant l'entraînement, possède une playlist hardware et est souvent blessé.
+
+Tu vas donc commencer à entraîner l'endurance de force. Tu vas ensuite être bloqué au 6éme phénomène, le moment où la filière anaérobie lactique devient prédominante. Jusqu'à maintenant on était beaucoup dans la filière anaérobie alactique, donc sur des efforts très courts et très intenses, et même en commençant à développer l'endurance de force, on est sur des efforts de 15-20 secondes avant d'arriver aux alentours de 30 secondes d'effort, on reste quand même dans l'anaérobie alactique. 
+
+Mais en arrivant aux alentours de 30 secondes d'effort, c'est à dire 555 planche, 555 front, maltese, SAT, OAFL et OAP, tu arrives à un stade où tu dois développer encore plus ton endurance pure (tu as déjà la force, une forme clean et les bonnes activations) 
+
+\vspace{1cm}
+
+### Niveau 5
+
+\vspace{1cm}
+
+Tu es maintenant un **hunter élite** et tu vas devoir mettre en place des **méthodes spéciales** pour progresser en **endurance**. Tu es à un niveau démentiel, à ce stade il peut s'arrêter pendant 5 ans et il sera toujours plus fort que n'importe quel hunter. Il possède un code promo, écrit "bad form" en description de ses posts et reçoit des dm "tips for planche" sur insta. 
+
+Ils s'entraînent donc avec des **méthodes spéciales** et se retrouvent bloqués par le **7ème phénomène** qui est la **sélection naturelle** et qui fait que tu es à ton **maximum**. Tu es déjà **top monde** et tu es arrêté par ta limite naturelle humaine. Et pour **dépasser cette limite**, il faut juste être un **élu**.
+
+\vspace{1cm}
+
+### Niveau 6
+
+\vspace{1cm}
+
+Ce sont des **hunter étoilé**. De pures légendes, c'est simple, tous les streeteux les connaissent. Il repousse les limites de l'humanité et son existence seule suffit à faire douter Newton, il fait généralement moins d'1m70.
+
+Ils progressent vers...
+
+Selon les profils, la limite humaine va frapper **plus ou moins tôt**, il est possible qu'un **galérien** ne puisse jamais atteindre les **performances d'un hunter élite**. Mais il y a un moment où il faut se **spécialiser**, ce sont les **spécialistes** qui vont **dépasser** la **limite humaine** (que front comme Onizuka ou que planche comme Valentin OTZ par exemple). 
+
+\vspace{1cm}
+
+### Quelques précisions
+
+\vspace{1cm}
+
+- Si tu stagnes c'est :
+  - soit que tu **arrives à un phénomène**
+  - soit que tu **appliques mal une loi**
+- Il se peut que tu ne **sentes pas** certains **phénomènes** si tu **appliques** déjà la **loi** dont il dépend
+- cf David et Goliath : phénomènes arrivent au même niveau de **performances relatives** (mais pas absolues)
+- Si tu es **élu**, tu te **balades**, si tu es **galérien**, tu es **dépassé par les évènements**
+
+\vspace{1cm}
+
+## Chapitre 3 : Capacité d'adaptation
+
+\vspace{1cm}
+
+Tout ça est lié à ta **capacité d'adaptation**. Pour l'expliquer il faut d'abord faire la distinction entre les **différences individuelles et les caractéristiques individuelles** 
+
+\vspace{1cm}
+
+### 1) Différences individuelles vs caractéristiques individuelles  
+
+\vspace{1cm}
