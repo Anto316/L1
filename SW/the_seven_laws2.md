@@ -24,7 +24,7 @@ C'est la raison pour laquelle on va prendre du **recul** pour observer l'univers
 
 \vspace{1cm}
 
-# Leçon 1 - Cadre théorique
+# Leçon 1 - Cadre Théorique
 
 ## Introduction : Modèle de la performance
 
@@ -414,7 +414,7 @@ L'application des Adv 3 de l'endurance de force va donc être bien plus **bourri
 
 \vspace{1cm}
 
-# Leçon 2 - Les lois en détail
+# Leçon 2 - Les Lois en Détail
 
 \vspace{1cm}
 
@@ -1035,8 +1035,6 @@ Au niveau des cas de **sur-application** de la potentialisation des phases, on e
 
 # Leçon 3 - Loi de Progression Universelle
 
-## Introduction
-
 \vspace{1cm}
 
 On a vu précédemment que :
@@ -1186,3 +1184,105 @@ Tout ça est lié à ta **capacité d'adaptation**. Pour l'expliquer il faut d'a
 ### 1) Différences individuelles vs caractéristiques individuelles  
 
 \vspace{1cm}
+
+Les **caractéristiques individuelles** dépendent des **différences individuelles** et c'est selon ta **capacité d'adaptation**, qui est une **différence individuelle**, que tu vas déterminer tes **caractéristiques individuelles** donc :
+
+- ton **degré de spécificité**
+- ton **MEV** et ton **MRV**
+- tes **courbes SRA**
+- ton **besoin de variation**
+- ta capacité à empêcher la **résistance à l'adaptation**
+
+On rappelle le **tableau des différences individuelles** :
+
+Différences Individuelles (Biologiques et Physiologiques)
+
+| Catégorie                          | Éléments                                                     |
+| ---------------------------------- | ------------------------------------------------------------ |
+| Génétique et Morphologie           | Profil hormonal (testostérone, cortisol, GH, etc), Longueur des segments osseux, Insertions tendineuses, Rapport entre les leviers corporels, Répartition des fibres lentes/type I et rapide/type II, Potentiel d'hypertrophie, Réponse aux stimuli de l'entraînement (hyper-répondeur vs non-répondeur) |
+| Système nerveux                    | Capacité d'activation musculaire, Tolérance au stress (régulation du système nerveux autonome), Sensibilité aux stimuli externes, Vitesse de transmission nerveuse |
+| Capacité d'adaptation individuelle | Plasticité neuronale et musculaire, Potentiel d'adaptation des fibres musculaires (conversion possible), Vitesse de récupération, Résilience physiologique (capacité à tolérer un volume/intensité élevée) |
+
+\vspace{1cm}
+
+### 2) Galérien vs Élu
+
+\vspace{1cm}
+
+Ce qui fait que, un **galérien**, qui par définition a une **mauvaise capacité d'adaptation** vas :
+
+- **Spécificité + Surcharge** : Avoir son **degré de spécificité** qui évolue très **vite** et donc avoir moins de **transfert de force** car il a une faible capacité d'adaptation.
+- **Gestion de la fatigue** : Voir son **MRV** progresser assez **peu** et à causse de sa faible capacité d'adaptation, son **MRV** ne va pas énormément **évoluer** donc il va atteindre assez vite **l'atteindre** et assez vite devoir gérer la fatigue.
+- **SRA** : Avoir des courbes de **surcompensation** qui seront **petites et courtes**. 
+- **Variations** : Avoir une **faible capacité de dissipation de la fatigue** donc la résistance à l'adaptation surviendra assez tôt.
+- **Potentialisation des phases** : Avoir tes **MEV spécifiques** qui dépasseront assez vite ton **MRV global** qui est très bas
+
+Et donc tous les **phénomènes** vont se déclencher très **tôt** dans ta pratique 
+
+À l'inverse, un **élu** qui a une bonne capacité d'adaptation vas : 
+
+- **Spécificité + Surcharge** : Avoir beaucoup de **transfert de force** et donc son **degré de spécificité** évoluera **doucement**.
+- **Gestion de la fatigue** : Voir son **MRV** progresser beaucoup **plus** et beaucoup plus **longtemps**, donc il sera toujours en **dessous** sans avoir besoin de **gérer** tout de suite sa **fatigue**.
+- **SRA** : Avoir des courbes de **SRA** qui seront **grandes et longues**. 
+- **Variations** : Avoir sa **résistance à l'adaptation** qui surviendra très **tard**.
+- **Potentialisation des phases** : Avoir tes **MEV spécifiques** qui resteront suffisamment **bas** pour ne pas **dépasser** ton **MRV global**.
+
+Donc les **phénomènes** se déclencheront à des plus **hauts niveaux de performances**.
+
+\vspace{1cm}
+
+### 3) Conclusion
+
+\vspace{1cm}
+
+Alors maintenant que faire ? Tout cela peut être un peu **déprimant**, mais :
+
+1) Souvent c'est juste que tu **t'entraînes mal** et ta **limite naturelle** arrivera en réalité dans **plusieurs années**.
+2) La **full pushup to press** et le **front pull up to touch** sont largement **atteignables**.
+3) Et même si c'était vrai que tu n'atteignes jamais de grandes performances, et alors ? Si tu voulais être le meilleur du monde ce n'est pas très réaliste. Et pourquoi tu fais du street ? Si tu veux **t'amuser** et progresser à ton **plein potentiel**, il n'y a aucun soucis au fait que tu n'obtiendras jamais d'excellentes excellentes performances. 
+
+Il n'existe pas de **méthode** qui permette d'atteindre **toutes les performances** que tu veux et tout le monde ne peut pas performer à **haut niveau**. **L'Ultime Périodisation**, elle, permet de progresser à son **plein potentiel** en exploitant des **lois de l'entraînement de force**. 
+
+Tes **progrès** dépendent de ton **état d'esprit** pour réussir à être régulier. Trop de personnes **abandonnent**, obnubilées par les **performances** en oubliant **l'essentiel** : **prendre du plaisir !**
+
+\vspace{1cm}
+
+# Leçon 4 : Les Méthodes Bidons
+
+\vspace{1cm}
+
+Ce que tu es censé avoir compris jusqu'ici :
+
+- Pour débloquer une figure tu es censé développer ta force maximale.
+- Pour cela, tu dois utiliser une méthode qui respecte les 6 lois de la force.
+- Les méthodes classiques ne respectent pas les ADV3 (même si tu ne sais pas encore pourquoi).
+- Résultat : tu es bloqué au palier fatal.
+- Le palier fatal n'arrive pas au même niveau de performances absolues pour tout le monde.
+- tous tes choix d'entraînements sont régis par tes différences individuelles.
+
+Dans cette leçon cela va nous permettre de comprendre que :
+
+- Toutes les méthodes mainstream et des réseaux sociaux sont des scam.
+- Quelles sont les méthodes inutiles pour débloquer ses figures et est ce que tu les utilises.
+- Pourquoi elles ne respectent pas les 6 lois de la force.
+
+Au programme de ce chapitre, on va analyser les 6 pires méthodes si tu veux débloquer ton front lever et ta full planche :
+
+- Programmes génériques dits "clés en main" (bonus : debunk deload)
+- PUSH/PULL (séparer le front et la planche en 2 séances distinctes)
+- Périodisation linéaire
+- Programmes dégressifs
+- Périodisation en bloc (méthode de powerlifting en cycle hypertrophie - force - peaking)
+- Combos
+
+Le tout grâce aux 6 lois de la force. 
+
+Mais attention, on va débunker les méthodes inutiles pour gagner en FORCE MAXIMALE, et donc pour débloquer les figures. Certaines méthodes sont utiles pour l'endurance de force, l'explosivité, l'hypertrophie, etc. On garde un prisme "déblocage des figures".
+
+\vspace{1cm}
+
+## Chapitre 1 : Les programmes génériques
+
+\vspace{1cm}
+
+Il en existe un pour tout que ce soit en musculation ou en street workout, que ce soit des programmes planches, des programmes front lever, programmes push, ... Le problème est qu'ils ne respectent pas les différences individuelles. 
