@@ -1253,31 +1253,31 @@ Tes **progrès** dépendent de ton **état d'esprit** pour réussir à être ré
 
 Ce que tu es censé avoir compris jusqu'ici :
 
-- Pour débloquer une figure tu es censé développer ta force maximale.
-- Pour cela, tu dois utiliser une méthode qui respecte les 6 lois de la force.
-- Les méthodes classiques ne respectent pas les ADV3 (même si tu ne sais pas encore pourquoi).
-- Résultat : tu es bloqué au palier fatal.
-- Le palier fatal n'arrive pas au même niveau de performances absolues pour tout le monde.
-- tous tes choix d'entraînements sont régis par tes différences individuelles.
+- Pour débloquer une figure tu es censé développer ta **force maximale**.
+- Pour cela, tu dois utiliser une **méthode** qui respecte les **6 lois de la force**.
+- Les méthodes **classiques** ne respectent pas les **ADV3** (même si tu ne sais pas encore pourquoi).
+- Résultat : tu es bloqué au **palier fatal**.
+- Le palier fatal n'arrive pas au même niveau de **performances absolues** pour tout le monde.
+- tous tes choix d'entraînements sont régis par tes **différences individuelles**.
 
 Dans cette leçon cela va nous permettre de comprendre que :
 
-- Toutes les méthodes mainstream et des réseaux sociaux sont des scam.
-- Quelles sont les méthodes inutiles pour débloquer ses figures et est ce que tu les utilises.
-- Pourquoi elles ne respectent pas les 6 lois de la force.
+- Toutes les méthodes mainstream et des réseaux sociaux sont des **scam**.
+- Quelles sont les méthodes **inutiles** pour débloquer ses figures et est ce que tu les utilises.
+- Pourquoi elles ne **respectent pas** les 6 lois de la force.
 
-Au programme de ce chapitre, on va analyser les 6 pires méthodes si tu veux débloquer ton front lever et ta full planche :
+Au programme de ce chapitre, on va analyser les **6 pires méthodes** si tu veux débloquer ton front lever et ta full planche :
 
-- Programmes génériques dits "clés en main" (bonus : debunk deload)
-- PUSH/PULL (séparer le front et la planche en 2 séances distinctes)
-- Périodisation linéaire
-- Programmes dégressifs
-- Périodisation en bloc (méthode de powerlifting en cycle hypertrophie - force - peaking)
-- Combos
+- **Programmes génériques** dits "clés en main" (bonus : debunk deload)
+- **PUSH/PULL** (séparer le front et la planche en 2 séances distinctes)
+- **Périodisation linéaire**
+- **Programmes dégressifs**
+- **Périodisation en bloc** (méthode de powerlifting en cycle hypertrophie - force - peaking)
+- **Combos**
 
 Le tout grâce aux 6 lois de la force. 
 
-Mais attention, on va débunker les méthodes inutiles pour gagner en FORCE MAXIMALE, et donc pour débloquer les figures. Certaines méthodes sont utiles pour l'endurance de force, l'explosivité, l'hypertrophie, etc. On garde un prisme "déblocage des figures".
+Mais attention, on va débunker les méthodes inutiles pour gagner en **FORCE MAXIMALE**, et donc pour débloquer les **figures**. Certaines méthodes sont utiles pour **l'endurance de force**, **l'explosivité**, **l'hypertrophie**, etc. On garde un prisme "**déblocage des figures**".
 
 \vspace{1cm}
 
@@ -1285,4 +1285,295 @@ Mais attention, on va débunker les méthodes inutiles pour gagner en FORCE MAXI
 
 \vspace{1cm}
 
-Il en existe un pour tout que ce soit en musculation ou en street workout, que ce soit des programmes planches, des programmes front lever, programmes push, ... Le problème est qu'ils ne respectent pas les différences individuelles. 
+Il en existe un pour tout que ce soit en **musculation** ou en **street workout**, que ce soit des programmes planches, des programmes front lever, programmes push, ... Le problème est qu'ils ne respectent pas les **différences individuelles**. Toutes tes caractéristiques individuelles donc ton **degré de spécificité**, ton **MEV** et **MRV**, tes **courbes SRA**, tes **prédispositions musculaires** et tes **objectifs**, sont **individuelles**. Par conséquent, la **sélection d'exercice**, **l'intensité**, le **volume** et la **fréquence d'entraînement** sont aussi **individuels**. Il est donc illogique de donner les **mêmes programmes** à des personnes **différentes**.
+
+\vspace{1cm}
+
+### 1) Défauts
+
+\vspace{1cm}
+
+Mais s'ils ont les mêmes objectifs ? Ça fonctionnera quand même, même si les résultats vont varier ? Et bien non.
+
+1) Quand on entend "**mêmes objectifs** ", il faudrait quand même être sacrément **précis**. C'est à dire que tout fonctionne **ensemble**, ce n'est pas pareil d'entraîner juste la planche ou d'entraîner planche, front et handstand. Il y a des **interférences** au niveau des **courbes SRA** d'entraîner une figure ou l'autre. Il y a un **MRV global**, si tu fais juste la planche, forcément tu peux faire plus que si tu fais plein d'autres trucs à côté. Et tu ne peux pas "juste" **additionner** différents **programmes génériques**, chacun spécifiquement sur les objectifs que tu as.
+
+   C'est à dire qu'il faudrait un programme générique pour **chaque combinaison d'objectifs possible**, par exemple un programme "planche + front lever + handstand" mais qui ne fonctionnerais pas si tu fais "planche + handstand + *tractions lestées*".
+
+   Un programme est censé **s'adapter à tes objectifs**, **pas l'inverse** ! 
+
+2. Quand bien même tu aurais un programme **adapté à tes objectifs**, il faudrait que le programme soit extrêmement **précis** sur le **niveau** que tu as sur chaque objectif. Ce n'est pas le même **impact nerveux**, ni les mêmes besoin en **volume**, d'entraîner la tuck planche ou la straddle planche. Et ça va **affecter** toutes les autres **figures** que tu vas travailler, cela va affecter ton **MRV global**, le **volume** que tu vas mettre à **l'entraînement** et donc de la même manière, si tu es intermédiaire et équilibré sur la planche et le front, ça n'a rien à voir que si tu es débutant sur l'un et intermédiaire sur l'autre. 
+
+3) Quand bien même, tu trouverais un **programme sur mesure pour tes objectifs ET ton niveau sur chaque objectif**, il faudrait que le programme respecte ton **degré de spécificité**, et ton **MEV** sur chaque **type d'effort** et sur **chaque figure**. Pour deux athlètes ayant exactement le même niveau sur chaque figures, et qui ont exactement les mêmes objectifs, **TOUTES** leurs décisions d'entraînement sont **modulables** en fonction de leurs **différences individuelles**. 
+
+\vspace{1cm}
+
+### 2) Exemples
+
+\vspace{1cm}
+
+Voici quelques exemples :
+
+<u>**Exemple 1 : Volume**</u> 
+
+Pour deux athlètes avec un **MRV différent** (en fonction du type de fibre musculaire, de la capacité de récupération, etc), une **série** en plus, ou une **séance** en plus sur un objectif : 
+
+- **Bénéfique** pour un athlète avec un **MRV élevé** (rapprochement de ce MRV = bonne surcharge progressive)
+- **Défavorable** pour un athlète avec un **faible MRV** (dépassement de ce MRV plus tôt que prévu = risque potentiel de sur-entraînement)
+
+<u>**Exemple 2 : Sélection d'exercice**</u>
+
+1) Dépend des **facilités** et **préférences** de chacun. Pour un même exercice :
+   - un athlète peut bien **réagir** et **progresser** dessus
+   - l'autre **non**
+2) Dépend du **degré de spécificité**. Pour des athlètes au **même niveau** de **performance absolue** :
+   - le 1er avec un **faible degré de spécificité** aura tout intérêt à inclure des **HSPU** dans sa prog planche
+   - le 2ème n'en obtiendra **aucun transfert**
+3) Dépend des **points faibles et facteurs limitants**. Pour deux athlètes au **même niveau** et au même **degré de spécificité** :
+
+   - le 1er avec **faiblesses** aux **deltoïdes postérieurs** aura tout intérêt à inclure des **caruso haltère** dans sa prog front
+   - pour le 2ème ce serait une **perte de temps**
+
+On pourrait donner d'autres **exemples** avec d'autres **paramètres d'entraînement** comme les **variations** (choix des systèmes, moment où tu dois les appliquer), **ordre des exercices**, **méthode de surcharge progressive**, **RIR et RPE**, **méthode d'assistance**, ... Il est totalement **incohérent** de donner le **même programme** à **deux athlètes différents**. 
+
+La seule solution pour **casser le palier fatal** est **d'individualiser**. 
+
+\vspace{1cm}
+
+### 3) Individualisation
+
+\vspace{1cm}
+
+Au début de ta pratique, **l'application des lois** était plus ou moins **commune** mais arrivé au **palier fatal**, il devient vital **d'individualiser** et les **programmes génériques** ne servent plus à **rien**. Toute ta **programmation** dépend de **toi** et de toi seul, sauf que le programme que tu t'es soigneusement concocté pour les 12 prochaines semaines n'a pas non plus une grande utilité. 
+
+Le fait de **prévoir** tous les **paramètres** à **l'avance** ça fait que tu vas peut être faire des **décisions d'entraînement** qui ne seront plus du tout **adaptées** au moment où tu vas t'entraîner. Et faire ce qui a été prévu il y a 8 semaines alors que ce n'est pas adapté revient à appliquer un **programme générique** pour toi même. D'ailleurs, plus tu progresses plus tes progrès sont durs à prévoir ça n'a donc aucun sens d'essayer de créer un programme à l'avance.  
+
+Et c'est une des raisons pour lesquelles le **deload programmé** est une des pires choses à faire. Qu'est ce qui te dis que tu auras atteint ton MRV dans 6 semaines précisément ? Ou que tu ne seras pas fatigué dans 2 semaines ? Tu vas avoir tendance à essayer de **respecter** ce que tu t'étais **fixé** alors que ton **corps** aurait peut être eu besoin de **repos** plus **tôt**, ou plus **tard**. 
+
+Pareil, au niveau des **courbes SRA**, mettre tous les **systèmes** au **repos** avec un **deload** c'est rarement la meilleure idée. Qu'est ce qui te disais que toutes tes courbes étaient au plus bas ? Ça n'arrive quasiment **jamais**. Tu vas juste laisser passer la **sur-compensation** d'au moins la moitié de tes courbes ce qui va créer des **désadaptations**, voire une **régression** sur les systèmes concernés. Aller en **sur-entraînement** puis faire un **deload** est juste horrible pour ton corps car certains **systèmes** auront été **sur-entraînement** et tu auras **dépassé ton MRV** dessus pendant trop **longtemps** ce qui augmente considérablement le risque de **blessure**.
+
+Donc, il ne faut pas :
+
+- **s'entraîner** avec un **programme tout fait**.
+- **prévoir** son **programme** à l'avance
+
+Car ça ne respecte pas ton **individualisation** au niveau de :
+
+- tes **objectifs**
+- ton **niveau**
+- tes **différences individuelles**
+- tes **différences intra individuelles** (l'évolution de tes caractéristiques individuelles avec le temps)
+
+Un **programme générique** n'applique pas les **lois de la force** selon les **différences individuelles** et les **facteurs externes** donc une fois arrivé au **palier fatal**, ça ne **fonctionne plus**.
+
+\vspace{1cm}
+
+## Chapitre 2 : Le PUSH/PULL
+
+### 1) Défauts
+
+#### 1er problème
+
+\vspace{1cm} \
+
+On a une mauvaise utilisation des **notions** de **push** et de **pull**. À cause de la musculation l'idée reçue est que le **push** c'est **d'éloigner les mains du corps** et que le **pull** c'est de **rapprocher les mains du corps**. Sauf qu'en street workout, c'est beaucoup plus **complexe** que cela car on utilise des **amplitudes** beaucoup plus **grandes** et cette notion est fausse. 
+
+Le **fonctionnement** du **push** et du **pull** est lié à la **spécificité**, car les mouvements d'une même **catégorie** ont obligatoirement un **transfert** entre eux, même si il est **infime**, c'est lié à la **biomécanique**. Un mouvement de **push** n'a pas de **transfert** sur un mouvement de **pull**.
+
+En réalité en street, les réelles notions de push et de pull sont en fonction des mouvements biomécaniques et on a donc :
+
+
+$\color{red}PUSH = antepulsion + abduction$
+
+$\color{blue}PULL = retropulsion + adduction$
+
+**Antépulsion** c'est le fait de **monter le bras** et **abduction** c'est le fait de **monter le bras sur le côté**, et pour le **pull** c'est **l'inverse**.
+
+Ce qui fait que la **planche** et les **hspu** sont dans le **push** et que le **front** et les **tractions** sont dans le **pull** par exemple. Mais on a également : 
+
+- **PUSH** = hefesto, back pull up, croix de fer inversée
+- **PULL** = v-sit, manna, croix de fer, reverse planche
+
+Donc en s'entraînant en **pull** si tu fais du **back lever** tu fais un mouvement de **push** et tu crées les **interférences** que tu voulais **éviter** en séparant ton entraînement en fonction des groupes musculaires. 
+
+Mais quand bien même tu répartis **correctement** les figures :
+
+\vspace{1cm}
+
+#### 2ème problème
+
+\vspace{1cm} \
+
+Le deuxième problème que les **PUSH/PULL** engendrent est la **perte d'énergie** colossale et vous vous privez d’énormément **d'adaptations** à cause du **junk volume** (volume "non pertinent").
+
+On voit ça dans tous les **programmes de muscu** avec :
+
+- 5 à 8 exos à la suite
+- 3-4 séries de 8-12 reps
+- toutes les variantes possibles
+
+Le problème est que tous les exos se **ressemblent** et qu'il est donc impossible d'appliquer une **surcharge** à cause de la **fatigue accumulée**. Tu fais des dizaines et des dizaines de séries sur le **même mouvement**, tu es complètement **épuisé** sur la **fin de la séance** et il est au final presque **impossible** d'appliquer une **surcharge** sur les **derniers exos** d'un entraînement à l'autre.
+
+Quel est le **problème** du **junk volume** ?
+
+1. Déjà, tu fais beaucoup plus de **volume** que **nécessaire** sur chaque **groupe musculaire** et tu as donc besoin d'un temps de **récupération** beaucoup plus **long** car le **stimuli** est très **important**.
+2. Tu **performes** **moins** à chaque exercice donc tu es capable d'appliquer moins de **surcharge progressive** et donc tu ne **progresses pas**. 
+3. Tu as beaucoup trop de **fatigue accumulée** avec du volume qui ne te fais **pas progresser** et qui taxe ta **récupération**. Tu vas donc atteindre ton **MRV** beaucoup plus **vite**, et devoir **dissiper la fatigue** beaucoup plus **tôt** le tout en ayant fait **moins d'adaptation**.
+4. Et, le plus grave, tu **sur-utilises** tes **structures** donc tu augmentes énormément le **risque** de **blessure d'usure**, car tu bombardes à fond sur les **mêmes amplitudes** avec des exercices très **intenses**. 
+
+Donc c'est une **énergie** qui est **gâchée** et qui aurait pu être mise à profit pour :
+
+- du **volume pertinent** pour performer (**+ de surcharge**)
+- de la **récupération** pour ces efforts (**+ de fréquence**)
+
+La **force** c'est **l'intensité**, il vaut mieux faire **peu de séries** mais **qualitatives** ! Il est impossible de performer quand tu as 6 exercices de tirage à la suite. 
+
+Encore pire, la version "**straight arm / bend arm**". En PUSH/PULL classique tu avais certes que des exercices de **poussée** mais sur des **activations musculaires** **différentes** mais en séparant les séances pour ne pas mélanger le travail **bras plié** et **bras tendu** tu fais juste le **même exercice** toute la séance. 
+
+En effet, faire 3 séries de 4 exercices similaires revient presque au même que faire 12 séries du même exercice. 
+
+\vspace{1cm}
+
+#### 3ème problème
+
+\vspace{1cm} \
+
+Il y a des **interférences** entre le **push** et le **pull** en Street Workout. 
+
+L'objectif à la base est de se focus à **100%** sur chaque, pour pouvoir en tirer les "**meilleures adaptations**", sauf que le **système nerveux** est **central**. Donc quand tu fais une séance push en force, ta **courbe nerveuse** est recrutée et donc tu as un **impact nerveux** qui va venir interférer **directement** avec ta séance pull. Les courbes nerveuses ne sont pas **différentes**, elles ont juste une longueur et une hauteur différentes en fonction des séances contrairement aux courbes musculaires qui sont spécifiques à un groupe musculaire.
+
+La courbe nerveuse à d'ailleurs un temps de **récupération** bien plus **long** que la courbe musculaire (environ 4 jours pour atteindre ton pic de sur-compensation). Tu ne peux donc pas la stimuler trop souvent, un push-pull-repos-push-pull-repos-repos te fais t'entraîner à chaque fois en période de récupération et tu arrives assez rapidement en sur-entraînement. 
+
+Tu n'es pas juste "fatigué" pour le lendemain, chaque séance impacte **négativement** la suivante. 
+
+\vspace{1cm}
+
+### 2) Exemple
+
+\vspace{1cm}
+
+Un exemple classique d'un athlète qui a pour objectif la planche et le front et qui fait push-pull-rest.
+
+Constat au bout de 2 semaines :
+
+- Micros progrès en planche (car 1ère séance après 2 jours de repos)
+- Pas de progrès en front (mais pas grave car c'est l'objectif secondaire)
+
+Donc, entraînement plus dur ! (no pain no gain)
+
+2 semaines plus tard : épuisement
+
+Donc deload !
+
+Regain de perf après deload (logique)
+
+Conclusion : "la force c'est facile (c'est juste long), faut forcer comme un bourrin puis deload"
+
+Constat au bout de 3 mois :
+
+- toujours aucun progrès notable (ni en push, ni en pull)
+
+\vspace{1cm}
+
+### 3) Origine
+
+\vspace{1cm}
+
+Mais alors pourquoi est ce que c'est autant répandu ? C'est parce que ça vient du monde de la **musculation**. 
+
+En musculation on vise principalement **l'hypertrophie** et on ne recrute pas forcément la **courbe nerveuse** et on recrute essentiellement la **courbe musculaire**. Et **accumuler** du **volume** en allant à **l'échec** musculaire c'est essentiel pour l'hypertrophie, donc faire du "**junk volume**" est ici **adapté** à l'objectif. Le "junk volume" en musculation est en réalité du volume productif car c'est ce qu'il faut faire pour casser de la fibre et progresser.
+
+C'est la raison pour laquelle ils ont une approche en **volume** où ils rajoutent une série ou un exercice sans augmenter l'intensité. Et ça donne lieu à des entraînement en push pull interminables avec 3-4 exercices polyarticulaires et 3-4 exercices d'isolation. Nous on cherche une **surcharge en intensité** pour faire plus de **performance** quand eux cherchent une approche en volume.
+
+Comme ils travaillent principalement sur leur **courbe musculaire** ils ont une **récupération** plus **rapide** et ils ont donc besoin d'un **stimuli** suffisamment **fort** pour ne pas avoir à se réentraîner avant 3 jours. (PUSH/PULL/LEG/PUSH/PULL/LEG/REST)
+
+Et les **youtubeurs** viennent en général du monde de la **musculation** ou s'en inspirent, ils font les programmes débutants donc on les applique et on progresse avec et donc on continue de les utiliser. 
+
+\vspace{1cm}
+
+Une autre raison vient des **élus** qui sont nés dans le monde de **l'endurance** et n'ont jamais eu à s'entraîner en **force** et proposent des programmes avec une **quantité de volume** monstrueuse. Il est impossible pour un **élu** de comprendre ce que **ressent** un **galérien** en termes de **fatigue** et du **junk volume** pour un **galérien** peut être du **volume pertinent** pour un **élu**. 
+
+Leurs **courbe SRA** remontent très **vite** et vont très **haut** donc même si il y a un problème ils ne s'en rendront pas compte tout de suite. 
+
+Le **push/pull** marche pour certains car au moment du **passage à l'endurance**, **l'impact nerveux** devient moins **important** mais il faut quand même avoir une **capacité de récupération** très importante et ce n'est pas **viable** sur le **long terme**. 
+
+\vspace{1cm}
+
+### 4) Résumé
+
+\vspace{1cm}
+
+<u>À ne pas faire :</u>
+
+- dédier une seule séance à une seule figure
+- ou un seul groupe musculaire
+
+Car ça ne respecte pas la loi de SRA :
+
+- stimulation trop importante de chaque groupe musculaire = fatigue accrue et besoin de récupération démesuré
+- stimulation trop fréquente de la courbe nerveuse = contre performance à chaque séance (bad days)
+- junk volume à gogo = manque de surcharge + risque de blessure d'usure
+
+Le Push/Pull n'est pas une méthode adaptée au développement de la force maximale = ça ne fonctionne plus arrivé au palier fatal.
+
+\vspace{1cm}
+
+## Chapitre 3 : La périodisation linéaire
+
+\vspace{1cm}
+
+**Version accadémique :**
+
+*C'est le fait d'augmenter progressivement l'intensité tout en diminuant le volume, de manière linéaire sur une longue période.*
+
+**Version Street Workout :**
+
+*S'entraîner pendant de longues périodes avec les mêmes paramètres d'entraînement, sans variations au niveau de la structure des séances, des exercices,...*
+
+\vspace{1cm}
+
+### 1) Défauts
+
+\vspace{1cm}
+
+Juste la loi de **variation** suffit à démontrer cette méthode car elle vient créer une **résistance à l'adaptation** sur le **type d'effort** et sur les **systèmes** donc, passé le **palier fatal**, les **progrès** se font de plus en plus **rares**. 
+
+Exemple : tu fais ça en tuck, puis ça en advanced tuck, en straddle et puis en full. Résultat : il y a zéro **nuance** et ça apporte une **fausse croyance** d'un besoin de "**prérequis**" (après 20sec de tuck passer à l'adv tuck) donc tu restes sur les **mêmes exercices** et le **même programme** tant que tu tiens pas 10sec dans la progression actuelle. D'autant plus qu'il est souvent très **dur** de passer à la **progression supérieure** car l'écart entre chaque est très **important**.  
+
+Avec cette méthode, tu vas juste faire du **junk volume** sur des exercices avec une **résistance élevée** et augmenter significativement ton risque de **blessure**. 
+
+\vspace{1cm}
+
+### 2) Résumé
+
+\vspace{1cm}
+
+Donc, il ne faut pas :
+
+- garder les **mêmes paramètres d'entraînement** trop **longtemps** 
+- **attendre** d'atteindre une **progression** pour **changer** les exercices
+
+Les programmes linéaires ne respectent pas la **loi de variations** car :
+
+- ce sont les **mêmes exercices** pendant trop **longtemps** = **résistance à l'adaptation** accrue = impossible d'appliquer une **surcharge** = risque de **blessure**
+- **mêmes paramètres d'entraînement** pendant trop **longtemps** = **accommodation** au **type d'effort** (plus de progrès en force)
+
+La périodisation n'est pas une méthode **adaptée** pour les pratiquants au delà du **palier fatal**, elle fonctionne bien pour des **débutants** ou sur de **courts cycles** de préparation de compétition (pour la version académique) mais pas à **l'année**. 
+
+\vspace{1cm}
+
+## Chapitre 4 : Les programmes dégressifs
+
+\vspace{1cm}
+
+C'est le fait d'avoir une intensité dégressive dans la séance et de faire tous les rep range. Donc tu vas commencer par des exercices intenses (max hold), puis des exercices dynamiques de force (4 à 6 reps), puis du renforcement (8 à 10 reps) et des exercices accessoires (12 à 15 reps). 
+
+Le problème est que toutes tes courbes sont stimulées en même temps, sur la même séance et cela pose de gros problèmes au niveau des interférences. 
+
+Au niveau des performances, chaque type de travail te fatigue pour le suivant donc sur le premier tu vas te fatiguer et tu seras moins performant sur le 2ème et encore moins sur le 3ème,... 
+
+Les premiers exercices sont des efforts nerveux et tu es donc déjà vidé de tes forces pour la suite. Les derniers exercices sont des efforts musculaires intenses et tu n'as plus assez d'énergie pour recruter efficacement ton système nerveux (moins de lucidité, mauvaise technique, pas de gain de coordination alors que c'est l'objectif de ces exercices) et tu puises dans tes ressources donc la taille du stimuli généré est énorme. 
+
+57'39
+
+
+
